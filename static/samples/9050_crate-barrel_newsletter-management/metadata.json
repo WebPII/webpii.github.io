@@ -1,0 +1,1671 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/9050.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Edward",
+    "PII_LASTNAME": "Collins",
+    "PII_FULLNAME": "Edward Collins",
+    "PII_LOGIN_USERNAME": "edward.collins",
+    "PII_LOGIN_PASSWORD": "H#%6H7eMschHmh1",
+    "PII_LOGIN_PASSWORD_CONFIRM": "H#%6H7eMschHmh1",
+    "PII_CARD_TYPE": "American Express",
+    "PII_CARD_NUMBER": "3416 9103 1161 684",
+    "PII_CARD_LAST4": "1684",
+    "PII_CARD_EXPIRY": "11/26",
+    "PII_CARD_EXPIRY_MONTH": "11",
+    "PII_CARD_EXPIRY_YEAR": "26",
+    "PII_CARD_CVV": "8199",
+    "PII_CARD_IMAGE": "/payment_methods/amex_logo_color.png",
+    "PII_EMAIL": "edward_collins@gmail.com",
+    "PII_DOB": "06/30/1968",
+    "PII_DOB_ISO": "1968-06-30",
+    "PII_DOB_LONG": "June 30, 1968",
+    "PII_DOB_MONTH": "06",
+    "PII_DOB_DAY": "30",
+    "PII_DOB_YEAR": "1968",
+    "PII_COMPANY": "",
+    "PII_PO_NUMBER": "PO-115616",
+    "PII_JOB_CODE": "VH-5654",
+    "PII_PHONE": "2959361331",
+    "PII_PHONE_AREA": "295",
+    "PII_PHONE_PREFIX": "936",
+    "PII_PHONE_LINE": "1331",
+    "PII_PHONE_SUFFIX": "1331",
+    "PII_PHONE_ALT": "8632859421",
+    "PII_PHONE_ALT_AREA": "863",
+    "PII_PHONE_ALT_PREFIX": "285",
+    "PII_PHONE_ALT_LINE": "9421",
+    "PII_PHONE_ALT_SUFFIX": "9421",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=male",
+    "PII_ADDRESS": "120 Kayla Extensions Suite 712, Port John, LA 97655",
+    "PII_STREET": "120 Kayla Extensions Suite 712",
+    "PII_CITY": "Port John",
+    "PII_STATE": "Louisiana",
+    "PII_STATE_ABBR": "LA",
+    "PII_POSTCODE": "97655",
+    "PII_POSTCODE_EXT": "2419",
+    "PII_POSTCODE_FULL": "97655-2419",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "Port John, LA",
+    "PII_CITY_STATE_ZIP": "Port John, LA 97655",
+    "PII_CITY2": "Michaelborough",
+    "PII_STATE2": "Nevada",
+    "PII_STATE_ABBR2": "NV",
+    "PII_CITY_STATE2": "Michaelborough, NV",
+    "PII_CITY3": "Juanshire",
+    "PII_STATE3": "Vermont",
+    "PII_STATE_ABBR3": "VT",
+    "PII_CITY_STATE3": "Juanshire, VT",
+    "PII_LOCATION1_STREET": "42477 Nelson Ranch",
+    "PII_LOCATION2_STREET": "1642 Daniel Square Apt. 225",
+    "PII_LOCATION3_STREET": "10422 Aaron Pike",
+    "PII_LOCATION4_STREET": "358 Kevin River",
+    "PII_LOCATION5_STREET": "157 Morales Centers",
+    "PII_LOCATION6_STREET": "327 Hughes Lodge Apt. 861",
+    "PII_LOCATION7_STREET": "9038 Nicholas Courts Suite 883",
+    "PII_LOCATION8_STREET": "6313 Berg Pines Apt. 781",
+    "PII_LOCATION9_STREET": "7774 Bishop Rapids",
+    "PII_LOCATION10_STREET": "46129 Dodson Points",
+    "PII_LOCATION11_STREET": "956 Rodriguez Burgs",
+    "PII_LOCATION12_STREET": "498 Richard Spring",
+    "PII_LOCATION13_STREET": "7659 Cannon Station Suite 322",
+    "PII_LOCATION14_STREET": "6713 Hobbs Underpass",
+    "PII_LOCATION15_STREET": "9039 Joshua Path",
+    "PII_LOCATION16_STREET": "65676 Michele Cliff Apt. 395",
+    "PII_LOCATION17_STREET": "99979 Marissa Lake Apt. 404",
+    "PII_LOCATION18_STREET": "16616 James Viaduct",
+    "PII_LOCATION19_STREET": "68230 Barron Walk Apt. 105",
+    "PII_LOCATION20_STREET": "2584 Fernandez Grove Apt. 148",
+    "PII_LOCATION21_STREET": "374 Rachel Cove Suite 395",
+    "PII_LOCATION22_STREET": "9506 Perez Loop Apt. 825",
+    "PII_LOCATION23_STREET": "35586 Jennifer Junction",
+    "PII_LOCATION24_STREET": "06492 Lee Fork Suite 569",
+    "PII_LOCATION25_STREET": "2593 Graham Squares Suite 520",
+    "PII_LOCATION1_CITY": "New Johnnyberg",
+    "PII_LOCATION2_CITY": "South Kaitlyntown",
+    "PII_LOCATION3_CITY": "Lake Mindy",
+    "PII_LOCATION4_CITY": "Longhaven",
+    "PII_LOCATION5_CITY": "East Carolynshire",
+    "PII_LOCATION6_CITY": "Douglasbury",
+    "PII_LOCATION7_CITY": "South Christian",
+    "PII_LOCATION8_CITY": "Wattschester",
+    "PII_LOCATION9_CITY": "Vegaland",
+    "PII_LOCATION10_CITY": "Robertton",
+    "PII_LOCATION11_CITY": "Bergerport",
+    "PII_LOCATION12_CITY": "South Joshuatown",
+    "PII_LOCATION13_CITY": "Davidhaven",
+    "PII_LOCATION14_CITY": "Dylanburgh",
+    "PII_LOCATION15_CITY": "Bakerview",
+    "PII_LOCATION16_CITY": "South Billy",
+    "PII_LOCATION17_CITY": "South Robert",
+    "PII_LOCATION18_CITY": "Kevinshire",
+    "PII_LOCATION19_CITY": "Jenkinschester",
+    "PII_LOCATION20_CITY": "Lake Kevin",
+    "PII_LOCATION21_CITY": "East Sarahton",
+    "PII_LOCATION22_CITY": "Port Geoffreyshire",
+    "PII_LOCATION23_CITY": "Pattersonshire",
+    "PII_LOCATION24_CITY": "Watersberg",
+    "PII_LOCATION25_CITY": "North Richardbury",
+    "PII_LOCATION1_POSTCODE": "63282",
+    "PII_LOCATION2_POSTCODE": "96311",
+    "PII_LOCATION3_POSTCODE": "74874",
+    "PII_LOCATION4_POSTCODE": "80249",
+    "PII_LOCATION5_POSTCODE": "61008",
+    "PII_LOCATION6_POSTCODE": "23957",
+    "PII_LOCATION7_POSTCODE": "40947",
+    "PII_LOCATION8_POSTCODE": "51770",
+    "PII_LOCATION9_POSTCODE": "69274",
+    "PII_LOCATION10_POSTCODE": "56299",
+    "PII_LOCATION11_POSTCODE": "16433",
+    "PII_LOCATION12_POSTCODE": "61969",
+    "PII_LOCATION13_POSTCODE": "46578",
+    "PII_LOCATION14_POSTCODE": "16879",
+    "PII_LOCATION15_POSTCODE": "62159",
+    "PII_LOCATION16_POSTCODE": "01080",
+    "PII_LOCATION17_POSTCODE": "14048",
+    "PII_LOCATION18_POSTCODE": "49171",
+    "PII_LOCATION19_POSTCODE": "97750",
+    "PII_LOCATION20_POSTCODE": "30084",
+    "PII_LOCATION21_POSTCODE": "38315",
+    "PII_LOCATION22_POSTCODE": "90738",
+    "PII_LOCATION23_POSTCODE": "14352",
+    "PII_LOCATION24_POSTCODE": "35594",
+    "PII_LOCATION25_POSTCODE": "77647",
+    "PII_LOCATION1_POSTCODE_EXT": "1323",
+    "PII_LOCATION2_POSTCODE_EXT": "4628",
+    "PII_LOCATION3_POSTCODE_EXT": "1702",
+    "PII_LOCATION4_POSTCODE_EXT": "9595",
+    "PII_LOCATION5_POSTCODE_EXT": "5142",
+    "PII_LOCATION6_POSTCODE_EXT": "0986",
+    "PII_LOCATION7_POSTCODE_EXT": "6355",
+    "PII_LOCATION8_POSTCODE_EXT": "2235",
+    "PII_LOCATION9_POSTCODE_EXT": "7628",
+    "PII_LOCATION10_POSTCODE_EXT": "2229",
+    "PII_LOCATION11_POSTCODE_EXT": "9404",
+    "PII_LOCATION12_POSTCODE_EXT": "5738",
+    "PII_LOCATION13_POSTCODE_EXT": "0257",
+    "PII_LOCATION14_POSTCODE_EXT": "6227",
+    "PII_LOCATION15_POSTCODE_EXT": "2198",
+    "PII_LOCATION16_POSTCODE_EXT": "3418",
+    "PII_LOCATION17_POSTCODE_EXT": "1691",
+    "PII_LOCATION18_POSTCODE_EXT": "8527",
+    "PII_LOCATION19_POSTCODE_EXT": "7378",
+    "PII_LOCATION20_POSTCODE_EXT": "3202",
+    "PII_LOCATION21_POSTCODE_EXT": "5778",
+    "PII_LOCATION22_POSTCODE_EXT": "6514",
+    "PII_LOCATION23_POSTCODE_EXT": "3215",
+    "PII_LOCATION24_POSTCODE_EXT": "8259",
+    "PII_LOCATION25_POSTCODE_EXT": "7957",
+    "PII_LOCATION1_POSTCODE_FULL": "63282-1323",
+    "PII_LOCATION2_POSTCODE_FULL": "96311-4628",
+    "PII_LOCATION3_POSTCODE_FULL": "74874-1702",
+    "PII_LOCATION4_POSTCODE_FULL": "80249-9595",
+    "PII_LOCATION5_POSTCODE_FULL": "61008-5142",
+    "PII_LOCATION6_POSTCODE_FULL": "23957-0986",
+    "PII_LOCATION7_POSTCODE_FULL": "40947-6355",
+    "PII_LOCATION8_POSTCODE_FULL": "51770-2235",
+    "PII_LOCATION9_POSTCODE_FULL": "69274-7628",
+    "PII_LOCATION10_POSTCODE_FULL": "56299-2229",
+    "PII_LOCATION11_POSTCODE_FULL": "16433-9404",
+    "PII_LOCATION12_POSTCODE_FULL": "61969-5738",
+    "PII_LOCATION13_POSTCODE_FULL": "46578-0257",
+    "PII_LOCATION14_POSTCODE_FULL": "16879-6227",
+    "PII_LOCATION15_POSTCODE_FULL": "62159-2198",
+    "PII_LOCATION16_POSTCODE_FULL": "01080-3418",
+    "PII_LOCATION17_POSTCODE_FULL": "14048-1691",
+    "PII_LOCATION18_POSTCODE_FULL": "49171-8527",
+    "PII_LOCATION19_POSTCODE_FULL": "97750-7378",
+    "PII_LOCATION20_POSTCODE_FULL": "30084-3202",
+    "PII_LOCATION21_POSTCODE_FULL": "38315-5778",
+    "PII_LOCATION22_POSTCODE_FULL": "90738-6514",
+    "PII_LOCATION23_POSTCODE_FULL": "14352-3215",
+    "PII_LOCATION24_POSTCODE_FULL": "35594-8259",
+    "PII_LOCATION25_POSTCODE_FULL": "77647-7957",
+    "PII_LOCATION1_CITY_STATE_ZIP": "New Johnnyberg, LA 63282",
+    "PII_LOCATION2_CITY_STATE_ZIP": "South Kaitlyntown, LA 96311",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Lake Mindy, LA 74874",
+    "PII_LOCATION4_CITY_STATE_ZIP": "Longhaven, LA 80249",
+    "PII_LOCATION5_CITY_STATE_ZIP": "East Carolynshire, LA 61008",
+    "PII_LOCATION6_CITY_STATE_ZIP": "Douglasbury, LA 23957",
+    "PII_LOCATION7_CITY_STATE_ZIP": "South Christian, LA 40947",
+    "PII_LOCATION8_CITY_STATE_ZIP": "Wattschester, LA 51770",
+    "PII_LOCATION9_CITY_STATE_ZIP": "Vegaland, LA 69274",
+    "PII_LOCATION10_CITY_STATE_ZIP": "Robertton, LA 56299",
+    "PII_LOCATION11_CITY_STATE_ZIP": "Bergerport, LA 16433",
+    "PII_LOCATION12_CITY_STATE_ZIP": "South Joshuatown, LA 61969",
+    "PII_LOCATION13_CITY_STATE_ZIP": "Davidhaven, LA 46578",
+    "PII_LOCATION14_CITY_STATE_ZIP": "Dylanburgh, LA 16879",
+    "PII_LOCATION15_CITY_STATE_ZIP": "Bakerview, LA 62159",
+    "PII_LOCATION16_CITY_STATE_ZIP": "South Billy, LA 01080",
+    "PII_LOCATION17_CITY_STATE_ZIP": "South Robert, LA 14048",
+    "PII_LOCATION18_CITY_STATE_ZIP": "Kevinshire, LA 49171",
+    "PII_LOCATION19_CITY_STATE_ZIP": "Jenkinschester, LA 97750",
+    "PII_LOCATION20_CITY_STATE_ZIP": "Lake Kevin, LA 30084",
+    "PII_LOCATION21_CITY_STATE_ZIP": "East Sarahton, LA 38315",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Port Geoffreyshire, LA 90738",
+    "PII_LOCATION23_CITY_STATE_ZIP": "Pattersonshire, LA 14352",
+    "PII_LOCATION24_CITY_STATE_ZIP": "Watersberg, LA 35594",
+    "PII_LOCATION25_CITY_STATE_ZIP": "North Richardbury, LA 77647",
+    "PII_SECURITY_CODE": "75CT",
+    "PII_DELIVERY_INSTRUCTIONS": "Hand to resident only",
+    "PII_PROMO_CODE": "VIP7610",
+    "PII_STREET2": "Suite 685",
+    "PII_POSTCODE2": "49824",
+    "PII_CITY_STATE_ZIP2": "Port John, LA 49824",
+    "PII_STREET_2": "Suite 685",
+    "PII_POSTCODE_2": "49824",
+    "PII_CITY_STATE_ZIP_2": "Port John, LA 49824",
+    "PII_GIFT_FIRSTNAME": "Ashley",
+    "PII_GIFT_LASTNAME": "Black",
+    "PII_GIFT_FULLNAME": "Ashley Black",
+    "PII_GIFT_EMAIL": "ablack@hotmail.com",
+    "PII_EMAIL2": "edward_collins@gmail.com",
+    "PII_EMAIL3": "edward_collins@gmail.com",
+    "PII_PHONE2": "2959361331",
+    "PII_PHONE3": "2959361331",
+    "PII_FULLNAME2": "Edward Collins",
+    "PII_FULLNAME3": "Edward Collins",
+    "PII_FIRSTNAME2": "Edward",
+    "PII_FIRSTNAME3": "Edward",
+    "PII_LASTNAME2": "Collins",
+    "PII_LASTNAME3": "Collins",
+    "PII_LOGIN_USERNAME2": "edward.collins",
+    "PII_LOGIN_USERNAME3": "edward.collins",
+    "PII_LOGIN_PASSWORD2": "H#%6H7eMschHmh1",
+    "PII_LOGIN_PASSWORD3": "H#%6H7eMschHmh1",
+    "SEED": 536360,
+    "ORDER_DATE": "October 22, 2021",
+    "ORDER_SHIPPING_DATE": "October 22, 2021",
+    "ORDER_DELIVERY_DATE": "October 28, 2021",
+    "ORDER_RETURN_BY_DATE": "November 20, 2021",
+    "PII_GIFT_MESSAGE": "Hey Ashley, I know you\u2019ve been looking for a way to keep things organized, so I thought this little pill box might make your daily routine a bit easier! Just a small reminder that I\u2019m always here cheering you on. Enjoy!  \nEdward",
+    "PRODUCT1_NAME": "Eono 7 Day Pill Box Organiser AM PM - Weekly Pill Box Case with 14 Compartments with Moisture-Proof ",
+    "PRODUCT1_PRICE": 13.49,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/36/36d42cb3.jpg",
+    "PRODUCT1_DESC": "2 LARGE COMPARTMENTS PER DAY: (dimensions approx. W 2.4 x L 1 x H 0.6 in), each of which has enough space for tablets. Very practical for travel.",
+    "PRODUCT1_RATING": 4.2,
+    "PRODUCT1_NUM_RATINGS": 82,
+    "PRODUCT1_QUANTITY": 1,
+    "PRODUCT1_BRAND": "Eono",
+    "PRODUCT1_ITEM_CATEGORY": "Pill Organizer",
+    "PRODUCT1_BREADCRUMB": [
+      "Health & Personal Care",
+      "Daily Living Aids",
+      "Medication Management",
+      "Pill Organizers",
+      "Weekly Pill Boxes"
+    ],
+    "PRODUCT2_NAME": "Rivet Modern Woven Seagrass Storage Organizer Basket Set - 3-Pack, Natural & Black (Renewed)",
+    "PRODUCT2_PRICE": 43.99,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/98/98b1a663.jpg",
+    "PRODUCT2_DESC": "These nesting baskets add distinctive style along with storage space to your home. Two-tone seagrass is woven into diamond shapes. Even empty, they add a modern flair to your room. When not in use, th",
+    "PRODUCT2_RATING": 4.5,
+    "PRODUCT2_NUM_RATINGS": 490,
+    "PRODUCT2_QUANTITY": 1,
+    "PRODUCT2_BRAND": "Rivet",
+    "PRODUCT2_ITEM_CATEGORY": "Storage Basket",
+    "PRODUCT3_NAME": "Eono Corner Shower Caddy Suction Cup, Organizer Storage Bathroom Shelves No Drilling, Shower Caddy w",
+    "PRODUCT3_PRICE": 12.99,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/0f/0f750f60.jpg",
+    "PRODUCT3_DESC": "1. [Install in one second, use immediately] No need to drill the wall, no glue, no damage to the wall; the suction cup adopts vacuum adsorption, combined with five layers of environmentally friendly p",
+    "PRODUCT3_RATING": 3.8,
+    "PRODUCT3_NUM_RATINGS": 422,
+    "PRODUCT3_QUANTITY": 1,
+    "PRODUCT3_BRAND": "Eono",
+    "PRODUCT3_ITEM_CATEGORY": "Shower Caddy",
+    "PRODUCT4_NAME": "Eono Essentials Clear Toiletry Bag Travel Luggage Pouch Make up Cosmetic Bag for Women Men Kids Wate",
+    "PRODUCT4_PRICE": 13.49,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/85/851fff18.jpg",
+    "PRODUCT4_DESC": "TSA APPROVED : Fully Compliant with TSA 3-1-1 Rules and Regulations of ALL Airlines. Makes Traveling and Passing Through Domestic and International Security Quick and Easy. Save Time and No More Hold ",
+    "PRODUCT4_RATING": 3.5,
+    "PRODUCT4_NUM_RATINGS": 156,
+    "PRODUCT4_QUANTITY": 1,
+    "PRODUCT4_BRAND": "Eono",
+    "PRODUCT4_ITEM_CATEGORY": "Toiletry Bag",
+    "PRODUCT5_NAME": "Small Shoes Rack 11 Inches Door Shoe Organizer Hanging Shoe Shelves Aluminum RUSTPROOF Wall Mount No",
+    "PRODUCT5_PRICE": 19.0,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/3e/3eda11a1.jpg",
+    "PRODUCT5_DESC": "DIMENSIONS: This shoe holder overall length is 11.8\" (300mm), projection is 2.7\" (68mm). This kids shoe rack can be used in living room, kitchens, baths, and laundry rooms. You can also mount this han",
+    "PRODUCT5_RATING": 4.5,
+    "PRODUCT5_NUM_RATINGS": 32,
+    "PRODUCT5_QUANTITY": 3,
+    "PRODUCT5_BRAND": "Generic",
+    "PRODUCT5_ITEM_CATEGORY": "Shoe Organizer",
+    "PRODUCT6_NAME": "Vinyl Record Storage Box and Holder, Portable Retro Record Album Storage Case For 25+ Albums, Vinyl ",
+    "PRODUCT6_PRICE": 21.79,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/a7/a7383e0a.jpg",
+    "PRODUCT6_DESC": "Premium Materials - This vinyl record storage case is made of MDF from natural plant fibre, which is environmentally friendly materials and has vintage texture. To reduce static for professional prote",
+    "PRODUCT6_RATING": 4.5,
+    "PRODUCT6_NUM_RATINGS": 65,
+    "PRODUCT6_QUANTITY": 1,
+    "PRODUCT6_BRAND": "Generic",
+    "PRODUCT6_ITEM_CATEGORY": "Record Storage",
+    "PRODUCT7_NAME": "Hanging Vacuum Space Saver Bags for Clothes, 2 Pack (135x70) +2pack(105x70) cm Vacuum Seal Storage B",
+    "PRODUCT7_PRICE": 30.0,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/c0/c0325c08.jpg",
+    "PRODUCT7_DESC": "1.PACKAGE OF VACUUM STORAGE BAGS: 2 Jumbo Long Hanging Garment Bags (135 X70CM) + 2 Long Hanging Garment Bags (105 X70CM) +4 Comfortable Thumb Clips for Sealer.",
+    "PRODUCT7_RATING": 4.8,
+    "PRODUCT7_NUM_RATINGS": 60,
+    "PRODUCT7_QUANTITY": 1,
+    "PRODUCT7_BRAND": "Generic",
+    "PRODUCT7_ITEM_CATEGORY": "Vacuum Bags",
+    "PRODUCT8_NAME": "Stone & Beam Organic-Shape Stoneware Round Decorative Organizer Box, 6.4 Inch Height, Blue and Gray ",
+    "PRODUCT8_PRICE": 31.0,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/04/04cd32c4.jpg",
+    "PRODUCT8_DESC": "Different glazing techniques are used to create this multi-toned ceramic box. It's ready to hold jewelry in a bedroom or keys in an entryway -- or simply serve as a decorative piece. Allow for variati",
+    "PRODUCT8_RATING": 4.0,
+    "PRODUCT8_NUM_RATINGS": 10,
+    "PRODUCT8_QUANTITY": 2,
+    "PRODUCT8_BRAND": "Stone & Beam",
+    "PRODUCT8_ITEM_CATEGORY": "Decorative Box",
+    "PRODUCT9_NAME": "Eono Essentials Organizer for Your Electronics, Dual Layer Storage Bag for USB Cable, Hard Drive, Po",
+    "PRODUCT9_PRICE": 17.95,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/a5/a530f0c3.jpg",
+    "PRODUCT9_DESC": "KEEP EVERYTHING COMPACT - This travel electronics organizer ensures that all your electronics accessories and the various cables stay together, whether you're travelling or at home.",
+    "PRODUCT9_RATING": 4.1,
+    "PRODUCT9_NUM_RATINGS": 70,
+    "PRODUCT9_QUANTITY": 3,
+    "PRODUCT9_BRAND": "Eono",
+    "PRODUCT9_ITEM_CATEGORY": "Electronics Organizer",
+    "PRODUCT10_NAME": " Pinzon Heated Bed Blanket ",
+    "PRODUCT10_PRICE": 80.95,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/d3/d393ca88.jpg",
+    "PRODUCT10_DESC": " Classy high velvet feel. ",
+    "PRODUCT10_RATING": 3.2,
+    "PRODUCT10_NUM_RATINGS": 25,
+    "PRODUCT10_QUANTITY": 2,
+    "PRODUCT10_BRAND": "Pinzon",
+    "PRODUCT10_ITEM_CATEGORY": "Heated Blanket",
+    "PRODUCT11_NAME": "9-Piece Pastel Floral Wall Art Mural on Wood",
+    "PRODUCT11_PRICE": 95.99,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/a1/a158bfc1.jpg",
+    "PRODUCT11_DESC": "Quality 9-Piece for everyday use",
+    "PRODUCT11_RATING": 4.4,
+    "PRODUCT11_NUM_RATINGS": 27,
+    "PRODUCT11_QUANTITY": 1,
+    "PRODUCT11_BRAND": "Generic",
+    "PRODUCT11_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT12_NAME": "Whole Foods Market Mango Chunks, 20 oz",
+    "PRODUCT12_PRICE": 100.0,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/d2/d2e21cd6.jpg",
+    "PRODUCT12_DESC": "Brought to you by Whole Foods Market",
+    "PRODUCT12_RATING": 4.5,
+    "PRODUCT12_NUM_RATINGS": 192,
+    "PRODUCT12_QUANTITY": 1,
+    "PRODUCT12_BRAND": "Whole Foods Market",
+    "PRODUCT12_ITEM_CATEGORY": "Mango Chunks",
+    "PRODUCT13_NAME": "Centrino Men's Navy Thong Sandals-9 UK (43 EU) (10 US) (5915-02)",
+    "PRODUCT13_PRICE": 4.99,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/c3/c38afdc6.jpg",
+    "PRODUCT13_DESC": "Outer Material: Synthetic",
+    "PRODUCT13_RATING": 4.1,
+    "PRODUCT13_NUM_RATINGS": 115,
+    "PRODUCT13_QUANTITY": 1,
+    "PRODUCT13_BRAND": "Centrino",
+    "PRODUCT13_ITEM_CATEGORY": "Thong Sandals",
+    "PRODUCT14_NAME": "Rivet Ferry Modern Industrial Dining Room Kitchen Chairs, 36\" H, Set of 2",
+    "PRODUCT14_PRICE": 6.49,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/06/06e57279.jpg",
+    "PRODUCT14_DESC": "Quality Rivet for everyday use",
+    "PRODUCT14_RATING": 3.3,
+    "PRODUCT14_NUM_RATINGS": 130,
+    "PRODUCT14_QUANTITY": 1,
+    "PRODUCT14_BRAND": "Rivet",
+    "PRODUCT14_ITEM_CATEGORY": "Dining Chairs",
+    "PRODUCT15_NAME": "Chili Pepper Pesto",
+    "PRODUCT15_PRICE": 69.49,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/39/391eecf4.jpg",
+    "PRODUCT15_DESC": "Chili Pepper Pesto",
+    "PRODUCT15_RATING": 3.6,
+    "PRODUCT15_NUM_RATINGS": 303,
+    "PRODUCT15_QUANTITY": 9,
+    "PRODUCT15_BRAND": "Generic",
+    "PRODUCT15_ITEM_CATEGORY": "Pesto",
+    "PRODUCT16_NAME": "206 Collective Merritt Round Toe Block Heel Pump-Low, Black Suede, UK 6.5",
+    "PRODUCT16_PRICE": 124.95,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/d4/d40eb749.jpg",
+    "PRODUCT16_DESC": "A low block heel elevates this closed-toe pump with bold style",
+    "PRODUCT16_RATING": 4.3,
+    "PRODUCT16_NUM_RATINGS": 87,
+    "PRODUCT16_QUANTITY": 3,
+    "PRODUCT16_BRAND": "206 Collective",
+    "PRODUCT16_ITEM_CATEGORY": "Block Heel Pump",
+    "PRODUCT17_NAME": "9-Piece Floral Red and Green Art Print Mural on Wood",
+    "PRODUCT17_PRICE": 31.79,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/43/4300f4af.jpg",
+    "PRODUCT17_DESC": "Quality 9-Piece for everyday use",
+    "PRODUCT17_RATING": 4.8,
+    "PRODUCT17_NUM_RATINGS": 122,
+    "PRODUCT17_QUANTITY": 1,
+    "PRODUCT17_BRAND": "Generic",
+    "PRODUCT17_ITEM_CATEGORY": "Art Print",
+    "PRODUCT18_NAME": "Berydale womens BD307 Hi-Top Slippers",
+    "PRODUCT18_PRICE": 69.95,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/aa/aa34bcc2.jpg",
+    "PRODUCT18_DESC": "Quality Berydale for everyday use",
+    "PRODUCT18_RATING": 3.8,
+    "PRODUCT18_NUM_RATINGS": 120,
+    "PRODUCT18_QUANTITY": 3,
+    "PRODUCT18_BRAND": "Berydale",
+    "PRODUCT18_ITEM_CATEGORY": "Slippers",
+    "PRODUCT19_NAME": "Women's 36954 Trainers, Red, 8",
+    "PRODUCT19_PRICE": 19.49,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/b1/b1c11f66.jpg",
+    "PRODUCT19_DESC": "Zip-up front",
+    "PRODUCT19_RATING": 4.5,
+    "PRODUCT19_NUM_RATINGS": 91,
+    "PRODUCT19_QUANTITY": 3,
+    "PRODUCT19_BRAND": "Generic",
+    "PRODUCT19_ITEM_CATEGORY": "Trainers",
+    "PRODUCT20_NAME": "Stone & Beam Mid-Century Modern Geometric Throw Pillow",
+    "PRODUCT20_PRICE": 36.79,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/c1/c11e0939.jpg",
+    "PRODUCT20_DESC": "Quality Stone for everyday use",
+    "PRODUCT20_RATING": 3.6,
+    "PRODUCT20_NUM_RATINGS": 10,
+    "PRODUCT20_QUANTITY": 9,
+    "PRODUCT20_BRAND": "Stone & Beam",
+    "PRODUCT20_ITEM_CATEGORY": "Throw Pillow",
+    "PRODUCT21_NAME": "Berry Swatch, Rivet 25010064",
+    "PRODUCT21_PRICE": 39.95,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/06/064104a3.jpg",
+    "PRODUCT21_DESC": "Quality Berry for everyday use",
+    "PRODUCT21_RATING": 4.7,
+    "PRODUCT21_NUM_RATINGS": 626,
+    "PRODUCT21_QUANTITY": 12,
+    "PRODUCT21_BRAND": "Rivet",
+    "PRODUCT21_ITEM_CATEGORY": "Swatch",
+    "PRODUCT22_NAME": "Classic Accessories Veranda '30x60\u00a0Inch General Purpose Patio Furniture,",
+    "PRODUCT22_PRICE": 20.79,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/5d/5d7a2eb9.jpg",
+    "PRODUCT22_DESC": "Choose from available sizes",
+    "PRODUCT22_RATING": 4.7,
+    "PRODUCT22_NUM_RATINGS": 534,
+    "PRODUCT22_QUANTITY": 6,
+    "PRODUCT22_BRAND": "Classic Accessories",
+    "PRODUCT22_ITEM_CATEGORY": "Patio Furniture Cover",
+    "PRODUCT23_NAME": "Solimo Severe Dry Skin Care Lotion with Gentle Exfoliation for Sensitive Skin, 16.9 Fluid Ounce",
+    "PRODUCT23_PRICE": 30.95,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/10/10707bac.jpg",
+    "PRODUCT23_DESC": "Solimo Severe Dry Skin Care Lotion with Gentle Exfoliation for Sensitive Skin, 16.89 Fluid Ounce (Pack of 4)",
+    "PRODUCT23_RATING": 4.0,
+    "PRODUCT23_NUM_RATINGS": 35,
+    "PRODUCT23_QUANTITY": 3,
+    "PRODUCT23_BRAND": "Solimo",
+    "PRODUCT23_ITEM_CATEGORY": "Skin Care Lotion",
+    "PRODUCT24_NAME": "365 EVERYDAY VALUE Strawberry Lemonade, 15.2 FZ",
+    "PRODUCT24_PRICE": 26.0,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/d4/d4e091e0.jpg",
+    "PRODUCT24_DESC": "This is no ordinary lemonade. Refreshing lemon juice and strawberry puree blend to create a light, tart thirst quencher. Sweetened with cane sugar. Ready to stock up your fridge.",
+    "PRODUCT24_RATING": 3.7,
+    "PRODUCT24_NUM_RATINGS": 65,
+    "PRODUCT24_QUANTITY": 1,
+    "PRODUCT24_BRAND": "365 EVERYDAY VALUE",
+    "PRODUCT24_ITEM_CATEGORY": "Lemonade",
+    "PRODUCT25_NAME": "Amethyst Oval Cut Tennis Bracelet in Sterling Silver (9.4 cttw)",
+    "PRODUCT25_PRICE": 91.49,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/d2/d23a6a05.jpg",
+    "PRODUCT25_DESC": "Create a bold statement and flawless finsh by accessorizing yourself with this exceptional gem-encrusted bracelet",
+    "PRODUCT25_RATING": 4.6,
+    "PRODUCT25_NUM_RATINGS": 21,
+    "PRODUCT25_QUANTITY": 4,
+    "PRODUCT25_BRAND": "Generic",
+    "PRODUCT25_ITEM_CATEGORY": "Tennis Bracelet",
+    "PRODUCT26_NAME": "Fabian Moccasin Boots, Chocolate Brown, 12.5 US",
+    "PRODUCT26_PRICE": 27.49,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/13/13f91077.jpg",
+    "PRODUCT26_DESC": "Designed in Europe - please refer to size chart for specific measurements to achieve the perfect fit",
+    "PRODUCT26_RATING": 4.3,
+    "PRODUCT26_NUM_RATINGS": 106,
+    "PRODUCT26_QUANTITY": 1,
+    "PRODUCT26_BRAND": "Generic",
+    "PRODUCT26_ITEM_CATEGORY": "Moccasin Boots",
+    "PRODUCT27_NAME": "Platinum-Plated Sterling Silver Created Sapphire and Swarovski Zirconia All-Around Band Ring, Size 6",
+    "PRODUCT27_PRICE": 36.95,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/5d/5d5bd3d4.jpg",
+    "PRODUCT27_DESC": "Platinum-Plated Sterling Silver All-Around band ring set with Created Sapphire and Swarovski Zirconia accents",
+    "PRODUCT27_RATING": 4.3,
+    "PRODUCT27_NUM_RATINGS": 558,
+    "PRODUCT27_QUANTITY": 1,
+    "PRODUCT27_BRAND": "Generic",
+    "PRODUCT27_ITEM_CATEGORY": "Ring Set",
+    "PRODUCT28_NAME": "Compatible: The Cellvare Micro USB cable is compatible with all micro USB devices such as Samsung S7",
+    "PRODUCT28_PRICE": 37.95,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/d7/d73dca9c.jpg",
+    "PRODUCT28_DESC": "Ideal for charging Android phones and tablets or connecting devices such as power banks, headphones, and more; please ensure your device has a Micro USB-B port",
+    "PRODUCT28_RATING": 4.9,
+    "PRODUCT28_NUM_RATINGS": 451,
+    "PRODUCT28_QUANTITY": 2,
+    "PRODUCT28_BRAND": "Generic",
+    "PRODUCT28_ITEM_CATEGORY": "Micro Usb Cable",
+    "PRODUCT29_NAME": "Men's Chelsea Boots, Blau (Navy Nubuck Look), 7 UK",
+    "PRODUCT29_PRICE": 19.0,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/0b/0becf9d4.jpg",
+    "PRODUCT29_DESC": "Quality Men's for everyday use",
+    "PRODUCT29_RATING": 3.8,
+    "PRODUCT29_NUM_RATINGS": 49,
+    "PRODUCT29_QUANTITY": 4,
+    "PRODUCT29_BRAND": "Generic",
+    "PRODUCT29_ITEM_CATEGORY": "Chelsea Boots",
+    "PRODUCT30_NAME": "Flavia Women's Handbag (Brown)",
+    "PRODUCT30_PRICE": 46.95,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/fb/fb452cc1.jpg",
+    "PRODUCT30_DESC": "Faux leather material brown colored handbag",
+    "PRODUCT30_RATING": 4.4,
+    "PRODUCT30_NUM_RATINGS": 140,
+    "PRODUCT30_QUANTITY": 1,
+    "PRODUCT30_BRAND": "Flavia",
+    "PRODUCT30_ITEM_CATEGORY": "Handbag"
+  },
+  "company": "crate-barrel",
+  "page_type": "newsletter-management",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 1344,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "PII_EMAIL",
+    "PII_EMAIL2",
+    "PII_EMAIL3",
+    "PII_FIRSTNAME",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_EMAIL",
+    "PII_EMAIL2",
+    "PII_EMAIL3"
+  ],
+  "source_image": "data/ui_images/newsletter-management/3921-crate-barrel-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/crate-barrel/newsletter-management/3921/20260118_174904",
+  "reproduction_status": "unknown",
+  "split": "train",
+  "detection_stats": {
+    "pii_found": 4,
+    "pii_visible": 4,
+    "pii_fillable": 3,
+    "products_found": 2,
+    "products_visible": 2,
+    "search_found": 1,
+    "search_visible": 1,
+    "containers_found": 8,
+    "boxes_drawn": 7
+  },
+  "pii_elements": [
+    {
+      "key": "PII_EMAIL",
+      "value": "edward_collins@gmail.com",
+      "bbox": {
+        "x": 252,
+        "y": 569.734375,
+        "width": 280,
+        "height": 43
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL2",
+      "value": "edward_collins@gmail.com",
+      "bbox": {
+        "x": 612,
+        "y": 612.125,
+        "width": 360,
+        "height": 43
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL3",
+      "value": "edward_collins@gmail.com",
+      "bbox": {
+        "x": 685.25,
+        "y": 788.125,
+        "width": 280,
+        "height": 41
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_FIRSTNAME",
+      "value": "Edward",
+      "bbox": {
+        "x": 1069.984375,
+        "y": 74.5,
+        "width": 52.171875,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    }
+  ],
+  "product_elements": [
+    {
+      "key": "WISHLIST_COUNT",
+      "value": "0",
+      "bbox": {
+        "x": 1198.15625,
+        "y": 74.5,
+        "width": 8.921875,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "CART_NUM_ITEMS",
+      "value": "1",
+      "bbox": {
+        "x": 1247.078125,
+        "y": 74.5,
+        "width": 8.921875,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    }
+  ],
+  "search_elements": [
+    {
+      "key": "HEADER_SEARCH",
+      "value": "Search",
+      "bbox": {
+        "x": 24,
+        "y": 63.5,
+        "width": 200,
+        "height": 39
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 24,
+        "y": 63.5,
+        "width": 200,
+        "height": 39
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 252,
+        "y": 569.734375,
+        "width": 280,
+        "height": 43
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_EMAIL",
+        "PII_EMAIL2",
+        "PII_EMAIL3"
+      ],
+      "semantic_hint": "email input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 612,
+        "y": 612.125,
+        "width": 360,
+        "height": 43
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_EMAIL",
+        "PII_EMAIL2",
+        "PII_EMAIL3"
+      ],
+      "semantic_hint": "email input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 685.25,
+        "y": 788.125,
+        "width": 280,
+        "height": 41
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_EMAIL",
+        "PII_EMAIL2",
+        "PII_EMAIL3"
+      ],
+      "semantic_hint": "email input field"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 24,
+        "y": 354,
+        "width": 180,
+        "height": 46
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 24,
+        "y": 400,
+        "width": 180,
+        "height": 46
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 24,
+        "y": 446,
+        "width": 180,
+        "height": 67
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "order details card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 24,
+        "y": 513,
+        "width": 180,
+        "height": 46
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "account info card"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_EMAIL",
+      "PII_EMAIL2",
+      "PII_EMAIL3"
+    ],
+    "count": 3
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T23:33:41.092640",
+  "_meta": {
+    "anchor_product": "Eono 7 Day Pill Box Organiser AM PM - Weekly Pill Box Case w",
+    "product_category": "pill organizer",
+    "search_term": "pill organizer",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/9050_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_EMAIL",
+            "value": "edward_",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL2",
+            "value": "",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL3",
+            "value": "",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Edward",
+            "bbox": {
+              "x": 1069.984375,
+              "y": 74.5,
+              "width": 52.171875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "WISHLIST_COUNT",
+            "value": "0",
+            "bbox": {
+              "x": 1198.15625,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "CART_NUM_ITEMS",
+            "value": "1",
+            "bbox": {
+              "x": 1247.078125,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "Search",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 354,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 400,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 446,
+              "width": 180,
+              "height": 67
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 513,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "partial",
+              "char_count": 7,
+              "displayed_value": "edward_",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL3",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_EMAIL2",
+      "image_path": "more_images_and_maps_fixed_all_flags/9050_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_EMAIL",
+            "value": "edward_collins@gmail.com",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL2",
+            "value": "edward_",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL3",
+            "value": "",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Edward",
+            "bbox": {
+              "x": 1069.984375,
+              "y": 74.5,
+              "width": 52.171875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "WISHLIST_COUNT",
+            "value": "0",
+            "bbox": {
+              "x": 1198.15625,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "CART_NUM_ITEMS",
+            "value": "1",
+            "bbox": {
+              "x": 1247.078125,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "Search",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_EMAIL",
+              "PII_EMAIL2",
+              "PII_EMAIL3"
+            ],
+            "semantic_hint": "email input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 354,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 400,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 446,
+              "width": 180,
+              "height": 67
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 513,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL2",
+              "fill_status": "partial",
+              "char_count": 7,
+              "displayed_value": "edward_",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL3",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_EMAIL3",
+      "image_path": "more_images_and_maps_fixed_all_flags/9050_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_EMAIL",
+            "value": "edward_collins@gmail.com",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL2",
+            "value": "edward_collins@gmail.com",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL3",
+            "value": "edward_collins@gma",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Edward",
+            "bbox": {
+              "x": 1069.984375,
+              "y": 74.5,
+              "width": 52.171875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "WISHLIST_COUNT",
+            "value": "0",
+            "bbox": {
+              "x": 1198.15625,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "CART_NUM_ITEMS",
+            "value": "1",
+            "bbox": {
+              "x": 1247.078125,
+              "y": 74.5,
+              "width": 8.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "Search",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 24,
+              "y": 63.5,
+              "width": 200,
+              "height": 39
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 252,
+              "y": 569.734375,
+              "width": 280,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_EMAIL",
+              "PII_EMAIL2",
+              "PII_EMAIL3"
+            ],
+            "semantic_hint": "email input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 612,
+              "y": 612.125,
+              "width": 360,
+              "height": 43
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_EMAIL",
+              "PII_EMAIL2",
+              "PII_EMAIL3"
+            ],
+            "semantic_hint": "email input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 685.25,
+              "y": 788.125,
+              "width": 280,
+              "height": 41
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "email input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 354,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 400,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 446,
+              "width": 180,
+              "height": 67
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 24,
+              "y": 513,
+              "width": 180,
+              "height": 46
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL3",
+              "fill_status": "partial",
+              "char_count": 18,
+              "displayed_value": "edward_collins@gma",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/9050_empty.png",
+    "detection_stats": {
+      "pii_found": 4,
+      "pii_visible": 4,
+      "products_found": 2,
+      "products_visible": 2,
+      "search_found": 1,
+      "search_visible": 1
+    },
+    "pii_elements": [
+      {
+        "key": "PII_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 252,
+          "y": 569.734375,
+          "width": 280,
+          "height": 43
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL2",
+        "value": "",
+        "bbox": {
+          "x": 612,
+          "y": 612.125,
+          "width": 360,
+          "height": 43
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL3",
+        "value": "",
+        "bbox": {
+          "x": 685.25,
+          "y": 788.125,
+          "width": 280,
+          "height": 41
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_FIRSTNAME",
+        "value": "Edward",
+        "bbox": {
+          "x": 1069.984375,
+          "y": 74.5,
+          "width": 52.171875,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      }
+    ],
+    "product_elements": [
+      {
+        "key": "WISHLIST_COUNT",
+        "value": "0",
+        "bbox": {
+          "x": 1198.15625,
+          "y": 74.5,
+          "width": 8.921875,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "CART_NUM_ITEMS",
+        "value": "1",
+        "bbox": {
+          "x": 1247.078125,
+          "y": 74.5,
+          "width": 8.921875,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      }
+    ],
+    "search_elements": [
+      {
+        "key": "HEADER_SEARCH",
+        "value": "Search",
+        "bbox": {
+          "x": 24,
+          "y": 63.5,
+          "width": 200,
+          "height": 39
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ]
+  }
+}

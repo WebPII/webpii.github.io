@@ -1,0 +1,5028 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/6750.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Jennifer",
+    "PII_LASTNAME": "Hart",
+    "PII_FULLNAME": "Jennifer Hart",
+    "PII_LOGIN_USERNAME": "jennifer937",
+    "PII_LOGIN_PASSWORD": ")TCC0J3t&V8",
+    "PII_LOGIN_PASSWORD_CONFIRM": ")TCC0J3t&V8",
+    "PII_CARD_TYPE": "Mastercard",
+    "PII_CARD_NUMBER": "2243 4587 1644 7431",
+    "PII_CARD_LAST4": "7431",
+    "PII_CARD_EXPIRY": "09/29",
+    "PII_CARD_EXPIRY_MONTH": "09",
+    "PII_CARD_EXPIRY_YEAR": "29",
+    "PII_CARD_CVV": "234",
+    "PII_CARD_IMAGE": "/payment_methods/mastercard_symbol.png",
+    "PII_EMAIL": "jennifer.hart@hotmail.com",
+    "PII_DOB": "09/09/1946",
+    "PII_DOB_ISO": "1946-09-09",
+    "PII_DOB_LONG": "September 09, 1946",
+    "PII_DOB_MONTH": "09",
+    "PII_DOB_DAY": "09",
+    "PII_DOB_YEAR": "1946",
+    "PII_COMPANY": "Edwards-Jackson",
+    "PII_PO_NUMBER": "",
+    "PII_JOB_CODE": "WO-262704",
+    "PII_PHONE": "7929824483",
+    "PII_PHONE_AREA": "792",
+    "PII_PHONE_PREFIX": "982",
+    "PII_PHONE_LINE": "4483",
+    "PII_PHONE_SUFFIX": "4483",
+    "PII_PHONE_ALT": "",
+    "PII_PHONE_ALT_AREA": "",
+    "PII_PHONE_ALT_PREFIX": "",
+    "PII_PHONE_ALT_LINE": "",
+    "PII_PHONE_ALT_SUFFIX": "",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=female",
+    "PII_ADDRESS": "0526 Lisa Radial, East Monica, KS 97853",
+    "PII_STREET": "0526 Lisa Radial",
+    "PII_CITY": "East Monica",
+    "PII_STATE": "Kansas",
+    "PII_STATE_ABBR": "KS",
+    "PII_POSTCODE": "97853",
+    "PII_POSTCODE_EXT": "1493",
+    "PII_POSTCODE_FULL": "97853-1493",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "East Monica, KS",
+    "PII_CITY_STATE_ZIP": "East Monica, KS 97853",
+    "PII_CITY2": "New Lance",
+    "PII_STATE2": "Massachusetts",
+    "PII_STATE_ABBR2": "MA",
+    "PII_CITY_STATE2": "New Lance, MA",
+    "PII_CITY3": "North Curtis",
+    "PII_STATE3": "FM",
+    "PII_STATE_ABBR3": "FM",
+    "PII_CITY_STATE3": "North Curtis, FM",
+    "PII_LOCATION1_STREET": "30534 Burton Road Suite 337",
+    "PII_LOCATION2_STREET": "89766 Holland Mission Suite 438",
+    "PII_LOCATION3_STREET": "8833 Edward Vista Apt. 846",
+    "PII_LOCATION4_STREET": "06395 Reynolds Ports",
+    "PII_LOCATION5_STREET": "111 Evan Point Apt. 890",
+    "PII_LOCATION6_STREET": "7183 Richard Isle Suite 829",
+    "PII_LOCATION7_STREET": "226 Michael Groves Apt. 761",
+    "PII_LOCATION8_STREET": "7681 Daniel Plaza",
+    "PII_LOCATION9_STREET": "82340 Bruce Fort",
+    "PII_LOCATION10_STREET": "9188 Ford River",
+    "PII_LOCATION11_STREET": "34500 Jonathan Course",
+    "PII_LOCATION12_STREET": "162 James Vista",
+    "PII_LOCATION13_STREET": "5587 Amy Burg",
+    "PII_LOCATION14_STREET": "22750 Heather Park Apt. 802",
+    "PII_LOCATION15_STREET": "6845 Grant Rue",
+    "PII_LOCATION16_STREET": "478 Rice Forges",
+    "PII_LOCATION17_STREET": "71692 Kevin Pike",
+    "PII_LOCATION18_STREET": "104 Zamora Bypass Suite 307",
+    "PII_LOCATION19_STREET": "140 Cynthia Divide Apt. 895",
+    "PII_LOCATION20_STREET": "8756 James Causeway Apt. 336",
+    "PII_LOCATION21_STREET": "1367 Samuel Gateway Apt. 267",
+    "PII_LOCATION22_STREET": "5741 Williams Bridge Apt. 177",
+    "PII_LOCATION23_STREET": "502 Alex Grove",
+    "PII_LOCATION24_STREET": "85014 Ryan Highway",
+    "PII_LOCATION25_STREET": "07258 John Gateway",
+    "PII_LOCATION1_CITY": "Lisastad",
+    "PII_LOCATION2_CITY": "Sherimouth",
+    "PII_LOCATION3_CITY": "Port Michael",
+    "PII_LOCATION4_CITY": "East Timothyport",
+    "PII_LOCATION5_CITY": "Emilyburgh",
+    "PII_LOCATION6_CITY": "Kaufmanmouth",
+    "PII_LOCATION7_CITY": "Aaronville",
+    "PII_LOCATION8_CITY": "Porterland",
+    "PII_LOCATION9_CITY": "North Cindy",
+    "PII_LOCATION10_CITY": "Wardland",
+    "PII_LOCATION11_CITY": "South David",
+    "PII_LOCATION12_CITY": "North Noah",
+    "PII_LOCATION13_CITY": "Tinaview",
+    "PII_LOCATION14_CITY": "Hillbury",
+    "PII_LOCATION15_CITY": "Chapmanberg",
+    "PII_LOCATION16_CITY": "Jeffreyhaven",
+    "PII_LOCATION17_CITY": "South Brenda",
+    "PII_LOCATION18_CITY": "Rileyville",
+    "PII_LOCATION19_CITY": "North Juanbury",
+    "PII_LOCATION20_CITY": "Makaylatown",
+    "PII_LOCATION21_CITY": "Laraside",
+    "PII_LOCATION22_CITY": "Christophermouth",
+    "PII_LOCATION23_CITY": "North Elizabeth",
+    "PII_LOCATION24_CITY": "West Timothy",
+    "PII_LOCATION25_CITY": "Manningtown",
+    "PII_LOCATION1_POSTCODE": "10191",
+    "PII_LOCATION2_POSTCODE": "56786",
+    "PII_LOCATION3_POSTCODE": "56570",
+    "PII_LOCATION4_POSTCODE": "73212",
+    "PII_LOCATION5_POSTCODE": "94819",
+    "PII_LOCATION6_POSTCODE": "65193",
+    "PII_LOCATION7_POSTCODE": "52077",
+    "PII_LOCATION8_POSTCODE": "83954",
+    "PII_LOCATION9_POSTCODE": "03904",
+    "PII_LOCATION10_POSTCODE": "53796",
+    "PII_LOCATION11_POSTCODE": "43213",
+    "PII_LOCATION12_POSTCODE": "57099",
+    "PII_LOCATION13_POSTCODE": "93620",
+    "PII_LOCATION14_POSTCODE": "75427",
+    "PII_LOCATION15_POSTCODE": "20728",
+    "PII_LOCATION16_POSTCODE": "64856",
+    "PII_LOCATION17_POSTCODE": "99029",
+    "PII_LOCATION18_POSTCODE": "49090",
+    "PII_LOCATION19_POSTCODE": "94959",
+    "PII_LOCATION20_POSTCODE": "69039",
+    "PII_LOCATION21_POSTCODE": "82272",
+    "PII_LOCATION22_POSTCODE": "03438",
+    "PII_LOCATION23_POSTCODE": "84089",
+    "PII_LOCATION24_POSTCODE": "98760",
+    "PII_LOCATION25_POSTCODE": "49668",
+    "PII_LOCATION1_POSTCODE_EXT": "6376",
+    "PII_LOCATION2_POSTCODE_EXT": "1354",
+    "PII_LOCATION3_POSTCODE_EXT": "4348",
+    "PII_LOCATION4_POSTCODE_EXT": "0675",
+    "PII_LOCATION5_POSTCODE_EXT": "7112",
+    "PII_LOCATION6_POSTCODE_EXT": "5643",
+    "PII_LOCATION7_POSTCODE_EXT": "4659",
+    "PII_LOCATION8_POSTCODE_EXT": "9947",
+    "PII_LOCATION9_POSTCODE_EXT": "6877",
+    "PII_LOCATION10_POSTCODE_EXT": "7272",
+    "PII_LOCATION11_POSTCODE_EXT": "5487",
+    "PII_LOCATION12_POSTCODE_EXT": "3881",
+    "PII_LOCATION13_POSTCODE_EXT": "0196",
+    "PII_LOCATION14_POSTCODE_EXT": "5176",
+    "PII_LOCATION15_POSTCODE_EXT": "1820",
+    "PII_LOCATION16_POSTCODE_EXT": "7658",
+    "PII_LOCATION17_POSTCODE_EXT": "6462",
+    "PII_LOCATION18_POSTCODE_EXT": "4589",
+    "PII_LOCATION19_POSTCODE_EXT": "1057",
+    "PII_LOCATION20_POSTCODE_EXT": "8480",
+    "PII_LOCATION21_POSTCODE_EXT": "9287",
+    "PII_LOCATION22_POSTCODE_EXT": "5454",
+    "PII_LOCATION23_POSTCODE_EXT": "4622",
+    "PII_LOCATION24_POSTCODE_EXT": "2716",
+    "PII_LOCATION25_POSTCODE_EXT": "0454",
+    "PII_LOCATION1_POSTCODE_FULL": "10191-6376",
+    "PII_LOCATION2_POSTCODE_FULL": "56786-1354",
+    "PII_LOCATION3_POSTCODE_FULL": "56570-4348",
+    "PII_LOCATION4_POSTCODE_FULL": "73212-0675",
+    "PII_LOCATION5_POSTCODE_FULL": "94819-7112",
+    "PII_LOCATION6_POSTCODE_FULL": "65193-5643",
+    "PII_LOCATION7_POSTCODE_FULL": "52077-4659",
+    "PII_LOCATION8_POSTCODE_FULL": "83954-9947",
+    "PII_LOCATION9_POSTCODE_FULL": "03904-6877",
+    "PII_LOCATION10_POSTCODE_FULL": "53796-7272",
+    "PII_LOCATION11_POSTCODE_FULL": "43213-5487",
+    "PII_LOCATION12_POSTCODE_FULL": "57099-3881",
+    "PII_LOCATION13_POSTCODE_FULL": "93620-0196",
+    "PII_LOCATION14_POSTCODE_FULL": "75427-5176",
+    "PII_LOCATION15_POSTCODE_FULL": "20728-1820",
+    "PII_LOCATION16_POSTCODE_FULL": "64856-7658",
+    "PII_LOCATION17_POSTCODE_FULL": "99029-6462",
+    "PII_LOCATION18_POSTCODE_FULL": "49090-4589",
+    "PII_LOCATION19_POSTCODE_FULL": "94959-1057",
+    "PII_LOCATION20_POSTCODE_FULL": "69039-8480",
+    "PII_LOCATION21_POSTCODE_FULL": "82272-9287",
+    "PII_LOCATION22_POSTCODE_FULL": "03438-5454",
+    "PII_LOCATION23_POSTCODE_FULL": "84089-4622",
+    "PII_LOCATION24_POSTCODE_FULL": "98760-2716",
+    "PII_LOCATION25_POSTCODE_FULL": "49668-0454",
+    "PII_LOCATION1_CITY_STATE_ZIP": "Lisastad, KS 10191",
+    "PII_LOCATION2_CITY_STATE_ZIP": "Sherimouth, KS 56786",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Port Michael, KS 56570",
+    "PII_LOCATION4_CITY_STATE_ZIP": "East Timothyport, KS 73212",
+    "PII_LOCATION5_CITY_STATE_ZIP": "Emilyburgh, KS 94819",
+    "PII_LOCATION6_CITY_STATE_ZIP": "Kaufmanmouth, KS 65193",
+    "PII_LOCATION7_CITY_STATE_ZIP": "Aaronville, KS 52077",
+    "PII_LOCATION8_CITY_STATE_ZIP": "Porterland, KS 83954",
+    "PII_LOCATION9_CITY_STATE_ZIP": "North Cindy, KS 03904",
+    "PII_LOCATION10_CITY_STATE_ZIP": "Wardland, KS 53796",
+    "PII_LOCATION11_CITY_STATE_ZIP": "South David, KS 43213",
+    "PII_LOCATION12_CITY_STATE_ZIP": "North Noah, KS 57099",
+    "PII_LOCATION13_CITY_STATE_ZIP": "Tinaview, KS 93620",
+    "PII_LOCATION14_CITY_STATE_ZIP": "Hillbury, KS 75427",
+    "PII_LOCATION15_CITY_STATE_ZIP": "Chapmanberg, KS 20728",
+    "PII_LOCATION16_CITY_STATE_ZIP": "Jeffreyhaven, KS 64856",
+    "PII_LOCATION17_CITY_STATE_ZIP": "South Brenda, KS 99029",
+    "PII_LOCATION18_CITY_STATE_ZIP": "Rileyville, KS 49090",
+    "PII_LOCATION19_CITY_STATE_ZIP": "North Juanbury, KS 94959",
+    "PII_LOCATION20_CITY_STATE_ZIP": "Makaylatown, KS 69039",
+    "PII_LOCATION21_CITY_STATE_ZIP": "Laraside, KS 82272",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Christophermouth, KS 03438",
+    "PII_LOCATION23_CITY_STATE_ZIP": "North Elizabeth, KS 84089",
+    "PII_LOCATION24_CITY_STATE_ZIP": "West Timothy, KS 98760",
+    "PII_LOCATION25_CITY_STATE_ZIP": "Manningtown, KS 49668",
+    "PII_SECURITY_CODE": "43ZY",
+    "PII_DELIVERY_INSTRUCTIONS": "Do not leave if raining",
+    "PII_PROMO_CODE": "FALL81",
+    "PII_STREET2": "",
+    "PII_POSTCODE2": "",
+    "PII_CITY_STATE_ZIP2": "",
+    "PII_STREET_2": "",
+    "PII_POSTCODE_2": "",
+    "PII_CITY_STATE_ZIP_2": "",
+    "PII_GIFT_FIRSTNAME": "Joseph",
+    "PII_GIFT_LASTNAME": "Lopez",
+    "PII_GIFT_FULLNAME": "Joseph Lopez",
+    "PII_GIFT_EMAIL": "joseph.lopez@gmail.com",
+    "PII_EMAIL2": "jennifer.hart@hotmail.com",
+    "PII_EMAIL3": "jennifer.hart@hotmail.com",
+    "PII_PHONE2": "7929824483",
+    "PII_PHONE3": "7929824483",
+    "PII_FULLNAME2": "Jennifer Hart",
+    "PII_FULLNAME3": "Jennifer Hart",
+    "PII_FIRSTNAME2": "Jennifer",
+    "PII_FIRSTNAME3": "Jennifer",
+    "PII_LASTNAME2": "Hart",
+    "PII_LASTNAME3": "Hart",
+    "PII_LOGIN_USERNAME2": "jennifer937",
+    "PII_LOGIN_USERNAME3": "jennifer937",
+    "PII_LOGIN_PASSWORD2": ")TCC0J3t&V8",
+    "PII_LOGIN_PASSWORD3": ")TCC0J3t&V8",
+    "SEED": 512528,
+    "ORDER_DATE": "May 10, 2024",
+    "ORDER_SHIPPING_DATE": "May 12, 2024",
+    "ORDER_DELIVERY_DATE": "May 18, 2024",
+    "ORDER_RETURN_BY_DATE": "June 15, 2024",
+    "PII_GIFT_MESSAGE": "Hey Joseph! I saw these trainers and immediately thought of you\u2014perfect for your style! Hope they step up your game for that upcoming adventure.",
+    "PRODUCT1_NAME": "CARE OF by PUMA Men\u2019s Leather Low-Top Trainers, Beige, US 11.5",
+    "PRODUCT1_PRICE": 23.0,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/82/821b4a4a.jpg",
+    "PRODUCT1_DESC": "Made from a supple leather outer for a breathable water-resistant sneaker which can be easily cleaned",
+    "PRODUCT1_RATING": 4.9,
+    "PRODUCT1_NUM_RATINGS": 85,
+    "PRODUCT1_QUANTITY": 6,
+    "PRODUCT1_BRAND": "PUMA",
+    "PRODUCT1_ITEM_CATEGORY": "Trainers",
+    "PRODUCT1_BREADCRUMB": [
+      "Footwear",
+      "Men's Shoes",
+      "Athletic Shoes",
+      "Trainers",
+      "Low-Top Trainers"
+    ],
+    "PRODUCT2_NAME": "Men's Hiking Style Hi-Top Suede-Look Trainers",
+    "PRODUCT2_PRICE": 22.79,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/46/4631b142.jpg",
+    "PRODUCT2_DESC": "Quality Men's for everyday use",
+    "PRODUCT2_RATING": 4.8,
+    "PRODUCT2_NUM_RATINGS": 60,
+    "PRODUCT2_QUANTITY": 1,
+    "PRODUCT2_BRAND": "Generic",
+    "PRODUCT2_ITEM_CATEGORY": "Trainers",
+    "PRODUCT3_NAME": "RED WAGON Boys\u2019 Lace Up Hi-Top Trainers Blue (Navy) 3 UK (35.5 EU)",
+    "PRODUCT3_PRICE": 35.49,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/aa/aa3cfbf7.jpg",
+    "PRODUCT3_DESC": "Canvas upper",
+    "PRODUCT3_RATING": 4.0,
+    "PRODUCT3_NUM_RATINGS": 560,
+    "PRODUCT3_QUANTITY": 1,
+    "PRODUCT3_BRAND": "RED WAGON",
+    "PRODUCT3_ITEM_CATEGORY": "Trainers",
+    "PRODUCT4_NAME": "Women\u2019s Low Top Trainers White 5 UK (38 EU)",
+    "PRODUCT4_PRICE": 23.99,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/90/90256788.jpg",
+    "PRODUCT4_DESC": "Textured upper",
+    "PRODUCT4_RATING": 3.8,
+    "PRODUCT4_NUM_RATINGS": 253,
+    "PRODUCT4_QUANTITY": 1,
+    "PRODUCT4_BRAND": "Generic",
+    "PRODUCT4_ITEM_CATEGORY": "Trainers",
+    "PRODUCT5_NAME": "Women's Walsh Elastic Trainer Pink (Pink) 3 UK (36 EU)",
+    "PRODUCT5_PRICE": 22.99,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/94/94271ad6.jpg",
+    "PRODUCT5_DESC": "Lace-up trainers",
+    "PRODUCT5_RATING": 3.3,
+    "PRODUCT5_NUM_RATINGS": 302,
+    "PRODUCT5_QUANTITY": 1,
+    "PRODUCT5_BRAND": "Women's Walsh",
+    "PRODUCT5_ITEM_CATEGORY": "Trainers",
+    "PRODUCT6_NAME": "RED WAGON Boys\u2019 Low-Top Trainers Green 3 UK (35.5 EU)",
+    "PRODUCT6_PRICE": 34.95,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/4c/4ccc95aa.jpg",
+    "PRODUCT6_DESC": "Open lacing",
+    "PRODUCT6_RATING": 3.8,
+    "PRODUCT6_NUM_RATINGS": 450,
+    "PRODUCT6_QUANTITY": 2,
+    "PRODUCT6_BRAND": "RED WAGON",
+    "PRODUCT6_ITEM_CATEGORY": "Trainers",
+    "PRODUCT7_NAME": "Red Wagon Boys' Triple Strap Chukka Hi-Top Trainers",
+    "PRODUCT7_PRICE": 35.79,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/e7/e778b7cc.jpg",
+    "PRODUCT7_DESC": "Back loop",
+    "PRODUCT7_RATING": 4.5,
+    "PRODUCT7_NUM_RATINGS": 77,
+    "PRODUCT7_QUANTITY": 1,
+    "PRODUCT7_BRAND": "Red Wagon",
+    "PRODUCT7_ITEM_CATEGORY": "Trainers",
+    "PRODUCT8_NAME": "Red Wagon Girls\u2019 Velcro Glitter Hi-Top Trainers",
+    "PRODUCT8_PRICE": 25.95,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/b4/b4520e41.jpg",
+    "PRODUCT8_DESC": "Single glittery strap",
+    "PRODUCT8_RATING": 4.6,
+    "PRODUCT8_NUM_RATINGS": 904,
+    "PRODUCT8_QUANTITY": 1,
+    "PRODUCT8_BRAND": "Red Wagon",
+    "PRODUCT8_ITEM_CATEGORY": "Trainers",
+    "PRODUCT9_NAME": "Women's Walsh Elastic Slipper With Platform Sole Blue (Light Blue) 5 UK (38 EU),04-01-02",
+    "PRODUCT9_PRICE": 31.79,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/6a/6aa736e1.jpg",
+    "PRODUCT9_DESC": "Slip-On Trainers",
+    "PRODUCT9_RATING": 3.6,
+    "PRODUCT9_NUM_RATINGS": 93,
+    "PRODUCT9_QUANTITY": 1,
+    "PRODUCT9_BRAND": "Women's Walsh",
+    "PRODUCT9_ITEM_CATEGORY": "Trainers",
+    "PRODUCT10_NAME": "CARE OF by PUMA Women's Leather Trainers with Platform Sole, beige, 42.5 EU",
+    "PRODUCT10_PRICE": 26.49,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/97/97552694.jpg",
+    "PRODUCT10_DESC": "Quality CARE for everyday use",
+    "PRODUCT10_RATING": 4.6,
+    "PRODUCT10_NUM_RATINGS": 150,
+    "PRODUCT10_QUANTITY": 2,
+    "PRODUCT10_BRAND": "CARE OF by PUMA",
+    "PRODUCT10_ITEM_CATEGORY": "Trainers",
+    "PRODUCT11_NAME": "Women's Walsh Elastic Trainer White (White) 5 UK (38 EU)",
+    "PRODUCT11_PRICE": 28.79,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/40/40c31e6e.jpg",
+    "PRODUCT11_DESC": "Lace-up trainers",
+    "PRODUCT11_RATING": 4.4,
+    "PRODUCT11_NUM_RATINGS": 319,
+    "PRODUCT11_QUANTITY": 1,
+    "PRODUCT11_BRAND": "Women's Walsh",
+    "PRODUCT11_ITEM_CATEGORY": "Trainers",
+    "PRODUCT12_NAME": "RED WAGON Girls\u2019 Low-Top Trainers Gold (Soft Gold) 1 UK (33 EU)",
+    "PRODUCT12_PRICE": 30.99,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/80/80348829.jpg",
+    "PRODUCT12_DESC": "Open lacing",
+    "PRODUCT12_RATING": 3.4,
+    "PRODUCT12_NUM_RATINGS": 22,
+    "PRODUCT12_QUANTITY": 1,
+    "PRODUCT12_BRAND": "RED WAGON",
+    "PRODUCT12_ITEM_CATEGORY": "Trainers",
+    "PRODUCT13_NAME": "CARE OF by PUMA Women's Slip On Trainers",
+    "PRODUCT13_PRICE": 27.49,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/59/5987af89.jpg",
+    "PRODUCT13_DESC": "In all of the Care of by PUMA footwear we've added a cushioned insole that is flexible and breathable to keep you comfortable throughout your busy lifestyle",
+    "PRODUCT13_RATING": 3.7,
+    "PRODUCT13_NUM_RATINGS": 2184,
+    "PRODUCT13_QUANTITY": 3,
+    "PRODUCT13_BRAND": "CARE OF by PUMA",
+    "PRODUCT13_ITEM_CATEGORY": "Trainers",
+    "PRODUCT14_NAME": "Women's Walsh Elastic Trainer Pink (Pink) 3 UK (36 EU)",
+    "PRODUCT14_PRICE": 35.49,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/94/94271ad6.jpg",
+    "PRODUCT14_DESC": "Lace-up trainers",
+    "PRODUCT14_RATING": 4.1,
+    "PRODUCT14_NUM_RATINGS": 1350,
+    "PRODUCT14_QUANTITY": 1,
+    "PRODUCT14_BRAND": "Women's Walsh",
+    "PRODUCT14_ITEM_CATEGORY": "Trainers",
+    "PRODUCT15_NAME": "Women's",
+    "PRODUCT15_PRICE": 27.0,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/da/da6b1960.jpg",
+    "PRODUCT15_DESC": "Slip-on trainers",
+    "PRODUCT15_RATING": 3.7,
+    "PRODUCT15_NUM_RATINGS": 10,
+    "PRODUCT15_QUANTITY": 2,
+    "PRODUCT15_BRAND": "Generic",
+    "PRODUCT15_ITEM_CATEGORY": "Trainers",
+    "PRODUCT16_NAME": "Women's Walsh Elastic Slipper With Platform Sole Red 7 UK (40 EU),04-01-01",
+    "PRODUCT16_PRICE": 34.79,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/95/95ed03ee.jpg",
+    "PRODUCT16_DESC": "Slip-on trainers",
+    "PRODUCT16_RATING": 3.3,
+    "PRODUCT16_NUM_RATINGS": 1943,
+    "PRODUCT16_QUANTITY": 9,
+    "PRODUCT16_BRAND": "Women's Walsh",
+    "PRODUCT16_ITEM_CATEGORY": "Trainers",
+    "PRODUCT17_NAME": "RED WAGON Girls' Glitter Velcro Strap Trainers Black (Black With Black Sequins) 6 UK (39 EU)",
+    "PRODUCT17_PRICE": 34.79,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/d4/d492de60.jpg",
+    "PRODUCT17_DESC": "Sparkly detailing around front and back",
+    "PRODUCT17_RATING": 4.7,
+    "PRODUCT17_NUM_RATINGS": 328,
+    "PRODUCT17_QUANTITY": 2,
+    "PRODUCT17_BRAND": "RED WAGON",
+    "PRODUCT17_ITEM_CATEGORY": "Trainers",
+    "PRODUCT18_NAME": "Men's Amz37/01 Trainers",
+    "PRODUCT18_PRICE": 32.0,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/17/17947465.jpg",
+    "PRODUCT18_DESC": "Smooth, glossy leather finish",
+    "PRODUCT18_RATING": 4.2,
+    "PRODUCT18_NUM_RATINGS": 15,
+    "PRODUCT18_QUANTITY": 1,
+    "PRODUCT18_BRAND": "Men's Amz37/01",
+    "PRODUCT18_ITEM_CATEGORY": "Trainers",
+    "PRODUCT19_NAME": "RED WAGON Boys\u2019 Velcro Low-Top Trainers Black 13 UK (32 EU)",
+    "PRODUCT19_PRICE": 27.99,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/71/71ecd657.jpg",
+    "PRODUCT19_DESC": "Velcro straps",
+    "PRODUCT19_RATING": 4.6,
+    "PRODUCT19_NUM_RATINGS": 198,
+    "PRODUCT19_QUANTITY": 4,
+    "PRODUCT19_BRAND": "RED WAGON",
+    "PRODUCT19_ITEM_CATEGORY": "Trainers",
+    "PRODUCT20_NAME": "RED WAGON Girls' Glitter Velcro Strap Trainers Multicolour (Black With Iris Sequins) 3 UK (35.5 EU)",
+    "PRODUCT20_PRICE": 41.49,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/d5/d5167326.jpg",
+    "PRODUCT20_DESC": "Sparkly detailing around front and back",
+    "PRODUCT20_RATING": 4.6,
+    "PRODUCT20_NUM_RATINGS": 215,
+    "PRODUCT20_QUANTITY": 1,
+    "PRODUCT20_BRAND": "RED WAGON",
+    "PRODUCT20_ITEM_CATEGORY": "Trainers",
+    "PRODUCT21_NAME": "Men's Aston Trainers White (White) 11 UK (46 EU)",
+    "PRODUCT21_PRICE": 32.49,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/a5/a54f5ad2.jpg",
+    "PRODUCT21_DESC": "Canvas sneaker shoes",
+    "PRODUCT21_RATING": 4.3,
+    "PRODUCT21_NUM_RATINGS": 213,
+    "PRODUCT21_QUANTITY": 1,
+    "PRODUCT21_BRAND": "Men's Aston",
+    "PRODUCT21_ITEM_CATEGORY": "Trainers",
+    "PRODUCT22_NAME": "Espadrille Trainers Gold), 3/ 3.5 UK",
+    "PRODUCT22_PRICE": 28.49,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/d0/d0e87f2f.jpg",
+    "PRODUCT22_DESC": "Quality Espadrille for everyday use",
+    "PRODUCT22_RATING": 4.1,
+    "PRODUCT22_NUM_RATINGS": 1979,
+    "PRODUCT22_QUANTITY": 3,
+    "PRODUCT22_BRAND": "Generic",
+    "PRODUCT22_ITEM_CATEGORY": "Trainers",
+    "PRODUCT23_NAME": "Men's Aston Trainers White (White) 6 UK (40 EU)",
+    "PRODUCT23_PRICE": 41.95,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/a5/a54f5ad2.jpg",
+    "PRODUCT23_DESC": "Canvas sneaker shoes",
+    "PRODUCT23_RATING": 4.4,
+    "PRODUCT23_NUM_RATINGS": 141,
+    "PRODUCT23_QUANTITY": 2,
+    "PRODUCT23_BRAND": "Men's Aston",
+    "PRODUCT23_ITEM_CATEGORY": "Trainers",
+    "PRODUCT24_NAME": "RED WAGON Kids' Mirror Metallic Hi-Top Trainers",
+    "PRODUCT24_PRICE": 41.0,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/15/15ea4b3a.jpg",
+    "PRODUCT24_DESC": "Contrast mirrored look",
+    "PRODUCT24_RATING": 3.8,
+    "PRODUCT24_NUM_RATINGS": 42,
+    "PRODUCT24_QUANTITY": 1,
+    "PRODUCT24_BRAND": "RED WAGON",
+    "PRODUCT24_ITEM_CATEGORY": "Trainers",
+    "PRODUCT25_NAME": "RED WAGON Girls\u2019 Metallic Hi-Top Trainers Gold (Rose Gold) 2 UK (34.5 EU)",
+    "PRODUCT25_PRICE": 38.99,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/15/15ea4b3a.jpg",
+    "PRODUCT25_DESC": "Contrast mirrored look",
+    "PRODUCT25_RATING": 3.7,
+    "PRODUCT25_NUM_RATINGS": 2132,
+    "PRODUCT25_QUANTITY": 2,
+    "PRODUCT25_BRAND": "RED WAGON",
+    "PRODUCT25_ITEM_CATEGORY": "Trainers",
+    "PRODUCT26_NAME": "Red Wagon Boys\u2019 Triple Strap Chukka Hi-Top Trainers Blue (Navy) 12 UK (30.5 EU)",
+    "PRODUCT26_PRICE": 30.99,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/cb/cb64d319.jpg",
+    "PRODUCT26_DESC": "Back loop",
+    "PRODUCT26_RATING": 4.9,
+    "PRODUCT26_NUM_RATINGS": 888,
+    "PRODUCT26_QUANTITY": 1,
+    "PRODUCT26_BRAND": "Red Wagon",
+    "PRODUCT26_ITEM_CATEGORY": "Trainers",
+    "PRODUCT27_NAME": "Women\u2019s Low Top Trainers Black 3 UK (36 EU)",
+    "PRODUCT27_PRICE": 23.49,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/99/99c2b0ab.jpg",
+    "PRODUCT27_DESC": "Textured upper",
+    "PRODUCT27_RATING": 4.1,
+    "PRODUCT27_NUM_RATINGS": 76,
+    "PRODUCT27_QUANTITY": 6,
+    "PRODUCT27_BRAND": "Generic",
+    "PRODUCT27_ITEM_CATEGORY": "Trainers",
+    "PRODUCT28_NAME": "Women's Walsh Elastic Trainer White (White) 8 UK (41 EU)",
+    "PRODUCT28_PRICE": 24.49,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/40/40c31e6e.jpg",
+    "PRODUCT28_DESC": "Lace-up trainers",
+    "PRODUCT28_RATING": 4.4,
+    "PRODUCT28_NUM_RATINGS": 4914,
+    "PRODUCT28_QUANTITY": 3,
+    "PRODUCT28_BRAND": "Women's Walsh",
+    "PRODUCT28_ITEM_CATEGORY": "Trainers",
+    "PRODUCT29_NAME": "Women's Elastic Trainer",
+    "PRODUCT29_PRICE": 30.95,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/0a/0aa2562b.jpg",
+    "PRODUCT29_DESC": "Lace-up trainers",
+    "PRODUCT29_RATING": 4.0,
+    "PRODUCT29_NUM_RATINGS": 54,
+    "PRODUCT29_QUANTITY": 5,
+    "PRODUCT29_BRAND": "Generic",
+    "PRODUCT29_ITEM_CATEGORY": "Trainers",
+    "PRODUCT30_NAME": "RED WAGON Boys\u2019 Triple Strap Chukka Hi-Top Trainers Blue (Navy) 2 UK (34.5 EU)",
+    "PRODUCT30_PRICE": 31.49,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/cb/cb64d319.jpg",
+    "PRODUCT30_DESC": "Back loop",
+    "PRODUCT30_RATING": 3.8,
+    "PRODUCT30_NUM_RATINGS": 902,
+    "PRODUCT30_QUANTITY": 5,
+    "PRODUCT30_BRAND": "RED WAGON",
+    "PRODUCT30_ITEM_CATEGORY": "Trainers"
+  },
+  "company": "apple",
+  "page_type": "address-validator",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 1267,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "PII_CITY",
+    "PII_COUNTRY",
+    "PII_EMAIL",
+    "PII_FIRSTNAME",
+    "PII_GIFT_EMAIL",
+    "PII_LASTNAME",
+    "PII_PHONE",
+    "PII_POSTCODE",
+    "PII_POSTCODE_FULL",
+    "PII_STATE_ABBR",
+    "PII_STREET",
+    "PII_STREET2",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_FIRSTNAME",
+    "PII_LASTNAME",
+    "PII_STREET",
+    "PII_STREET2",
+    "PII_POSTCODE",
+    "PII_COUNTRY",
+    "PII_EMAIL",
+    "PII_PHONE",
+    "PII_GIFT_EMAIL"
+  ],
+  "source_image": "data/ui_images/address-validator/8688-apple-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/apple/address-validator/8688/20260116_065019",
+  "reproduction_status": "unknown",
+  "split": "train",
+  "detection_stats": {
+    "pii_found": 17,
+    "pii_visible": 17,
+    "pii_fillable": 9,
+    "products_found": 0,
+    "products_visible": 0,
+    "search_found": 0,
+    "search_visible": 0,
+    "containers_found": 9,
+    "boxes_drawn": 17
+  },
+  "pii_elements": [
+    {
+      "key": "PII_CITY",
+      "value": "East Monica",
+      "bbox": {
+        "x": 408,
+        "y": 369.59375,
+        "width": 102.421875,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_COUNTRY",
+      "value": "United States",
+      "bbox": {
+        "x": 77,
+        "y": 620,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL",
+      "value": "jennifer.hart@hotmail.com",
+      "bbox": {
+        "x": 77,
+        "y": 820,
+        "width": 506,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_FIRSTNAME",
+      "value": "Jennifer",
+      "bbox": {
+        "x": 77,
+        "y": 192.5,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_GIFT_EMAIL",
+      "value": "joseph.lopez@gmail.com",
+      "bbox": {
+        "x": 77,
+        "y": 1048,
+        "width": 246,
+        "height": 21
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_LASTNAME",
+      "value": "Hart",
+      "bbox": {
+        "x": 77,
+        "y": 278,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE",
+      "value": "7929824483",
+      "bbox": {
+        "x": 77,
+        "y": 913.5,
+        "width": 506,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "97853",
+      "bbox": {
+        "x": 548.59375,
+        "y": 369.59375,
+        "width": 54.09375,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "97853",
+      "bbox": {
+        "x": 77,
+        "y": 534.5,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE_FULL",
+      "value": "97853-1493",
+      "bbox": {
+        "x": 548.59375,
+        "y": 486.09375,
+        "width": 103.484375,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_STATE_ABBR",
+      "value": "KS",
+      "bbox": {
+        "x": 521.234375,
+        "y": 369.59375,
+        "width": 21.953125,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "0526 Lisa Radial",
+      "bbox": {
+        "x": 408,
+        "y": 344.09375,
+        "width": 140.0625,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "0526 Lisa Radial",
+      "bbox": {
+        "x": 408,
+        "y": 460.59375,
+        "width": 140.0625,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null,
+      "composite_parent": "PII_STREET_2"
+    },
+    {
+      "key": "PII_STREET",
+      "value": "0526 Lisa Radial",
+      "bbox": {
+        "x": 77,
+        "y": 363.5,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET2",
+      "value": "",
+      "bbox": {
+        "x": 77,
+        "y": 449,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_CITY2",
+      "value": "East Monica",
+      "bbox": {
+        "x": 408,
+        "y": 486.09375,
+        "width": 102.421875,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_STATE_ABBR2",
+      "value": "KS",
+      "bbox": {
+        "x": 521.234375,
+        "y": 486.09375,
+        "width": 21.953125,
+        "height": 20
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    }
+  ],
+  "product_elements": [],
+  "search_elements": [],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 77,
+        "y": 278,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_LASTNAME"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 77,
+        "y": 534.5,
+        "width": 283,
+        "height": 25.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_POSTCODE",
+        "PII_POSTCODE_FULL"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 77,
+        "y": 1048,
+        "width": 246,
+        "height": 21
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_GIFT_EMAIL"
+      ],
+      "semantic_hint": "email input field"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 161.5,
+        "width": 300,
+        "height": 69.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 332.5,
+        "width": 300,
+        "height": 69.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 418,
+        "width": 300,
+        "height": 69.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 589,
+        "width": 300,
+        "height": 69.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 783,
+        "width": 540,
+        "height": 77.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 60,
+        "y": 876.5,
+        "width": 540,
+        "height": 77.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "form group"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_POSTCODE",
+      "PII_FIRSTNAME",
+      "PII_PHONE",
+      "PII_COUNTRY",
+      "PII_EMAIL",
+      "PII_LASTNAME",
+      "PII_GIFT_EMAIL",
+      "PII_STREET2",
+      "PII_STREET"
+    ],
+    "count": 9
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T22:45:52.078891",
+  "_meta": {
+    "anchor_product": "CARE OF by PUMA Men\u2019s Leather Low-Top Trainers, Beige, US 11",
+    "product_category": "trainers",
+    "search_term": "trainers",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_FIRSTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jenn",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_FIRSTNAME",
+              "fill_status": "partial",
+              "char_count": 4,
+              "displayed_value": "Jenn",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_LASTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Ha",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "Ha",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_STREET",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET",
+              "fill_status": "partial",
+              "char_count": 4,
+              "displayed_value": "0526",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 3,
+      "field_name": "PII_STREET2",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_03.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET2",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 4,
+      "field_name": "PII_POSTCODE",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_04.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "978",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "978",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 5,
+      "field_name": "PII_COUNTRY",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_05.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United S",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE",
+              "PII_POSTCODE_FULL"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "partial",
+              "char_count": 8,
+              "displayed_value": "United S",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 6,
+      "field_name": "PII_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_06.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "jennifer.hart@hotma",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE",
+              "PII_POSTCODE_FULL"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "partial",
+              "char_count": 19,
+              "displayed_value": "jennifer.hart@hotma",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 7,
+      "field_name": "PII_PHONE",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_07.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "jennifer.hart@hotmail.com",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "792",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE",
+              "PII_POSTCODE_FULL"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "792",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 8,
+      "field_name": "PII_GIFT_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/6750_partial_08.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 369.59375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 77,
+              "y": 620,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "jennifer.hart@hotmail.com",
+            "bbox": {
+              "x": 77,
+              "y": 820,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Jennifer",
+            "bbox": {
+              "x": 77,
+              "y": 192.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_GIFT_EMAIL",
+            "value": "joseph",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hart",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "7929824483",
+            "bbox": {
+              "x": 77,
+              "y": 913.5,
+              "width": 506,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 548.59375,
+              "y": 369.59375,
+              "width": 54.09375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "97853",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE_FULL",
+            "value": "97853-1493",
+            "bbox": {
+              "x": 548.59375,
+              "y": 486.09375,
+              "width": 103.484375,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 369.59375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 344.09375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 408,
+              "y": 460.59375,
+              "width": 140.0625,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null,
+            "composite_parent": "PII_STREET_2"
+          },
+          {
+            "key": "PII_STREET",
+            "value": "0526 Lisa Radial",
+            "bbox": {
+              "x": 77,
+              "y": 363.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 77,
+              "y": 449,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY2",
+            "value": "East Monica",
+            "bbox": {
+              "x": 408,
+              "y": 486.09375,
+              "width": 102.421875,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR2",
+            "value": "KS",
+            "bbox": {
+              "x": 521.234375,
+              "y": 486.09375,
+              "width": 21.953125,
+              "height": 20
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 278,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 534.5,
+              "width": 283,
+              "height": 25.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE",
+              "PII_POSTCODE_FULL"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 77,
+              "y": 1048,
+              "width": 246,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 161.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 332.5,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 418,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 589,
+              "width": 300,
+              "height": 69.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 783,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 60,
+              "y": 876.5,
+              "width": 540,
+              "height": 77.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "form group"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_GIFT_EMAIL",
+              "fill_status": "partial",
+              "char_count": 6,
+              "displayed_value": "joseph",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/6750_empty.png",
+    "detection_stats": {
+      "pii_found": 17,
+      "pii_visible": 17,
+      "products_found": 0,
+      "products_visible": 0,
+      "search_found": 0,
+      "search_visible": 0
+    },
+    "pii_elements": [
+      {
+        "key": "PII_CITY",
+        "value": "East Monica",
+        "bbox": {
+          "x": 408,
+          "y": 369.59375,
+          "width": 102.421875,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_COUNTRY",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 620,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 820,
+          "width": 506,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_FIRSTNAME",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 192.5,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_GIFT_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 1048,
+          "width": 246,
+          "height": 21
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_LASTNAME",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 278,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 913.5,
+          "width": 506,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "97853",
+        "bbox": {
+          "x": 548.59375,
+          "y": 369.59375,
+          "width": 54.09375,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 534.5,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE_FULL",
+        "value": "97853-1493",
+        "bbox": {
+          "x": 548.59375,
+          "y": 486.09375,
+          "width": 103.484375,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_STATE_ABBR",
+        "value": "KS",
+        "bbox": {
+          "x": 521.234375,
+          "y": 369.59375,
+          "width": 21.953125,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "0526 Lisa Radial",
+        "bbox": {
+          "x": 408,
+          "y": 344.09375,
+          "width": 140.0625,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "0526 Lisa Radial",
+        "bbox": {
+          "x": 408,
+          "y": 460.59375,
+          "width": 140.0625,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null,
+        "composite_parent": "PII_STREET_2"
+      },
+      {
+        "key": "PII_STREET",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 363.5,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET2",
+        "value": "",
+        "bbox": {
+          "x": 77,
+          "y": 449,
+          "width": 283,
+          "height": 25.5
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_CITY2",
+        "value": "East Monica",
+        "bbox": {
+          "x": 408,
+          "y": 486.09375,
+          "width": 102.421875,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_STATE_ABBR2",
+        "value": "KS",
+        "bbox": {
+          "x": 521.234375,
+          "y": 486.09375,
+          "width": 21.953125,
+          "height": 20
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      }
+    ],
+    "product_elements": [],
+    "search_elements": []
+  }
+}
