@@ -2,7 +2,15 @@
 
 This repository contains the project page for [WebPII: A Synthetic Benchmark for Visual PII Detection in E-commerce Web Interfaces](https://webpii.github.io).
 
-WebPII is a synthetic benchmark of 44,865 annotated e-commerce UI images spanning account dashboards, checkout flows, order histories, and product pages. The dataset addresses the lack of public benchmarks for visual PII detection in rendered web interfaces.
+Computer use agents create new privacy risks: training data collected from real websites inevitably contains sensitive information, and cloud-hosted inference exposes user screenshots. Detecting personally identifiable information in web screenshots is critical for privacy-preserving deployment, but no public benchmark exists for this task.
+
+We introduce **WebPII**, a fine-grained synthetic benchmark of 44,865 annotated e-commerce UI images designed with three key properties:
+
+- **Extended PII taxonomy** including transaction-level identifiers that enable reidentification
+- **Anticipatory detection** for partially-filled forms where users are actively entering data
+- **Scalable generation** through VLM-based UI reproduction
+
+Experiments validate that these design choices improve layout-invariant detection across diverse interfaces and generalization to held-out page types. We train **WebRedact** to demonstrate practical utility, more than doubling text-extraction baseline accuracy (0.753 vs 0.357 mAP@50) at real-time CPU latency (20ms). We release the dataset and model to support privacy-preserving computer use research.
 
 ## Citation
 
