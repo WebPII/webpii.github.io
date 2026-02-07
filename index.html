@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="WebPII: Benchmarking Visual PII Detection for Computer-Use Agents">
+  <meta name="keywords" content="PII Detection, Web Interfaces, Computer Vision, Privacy, Benchmark Dataset, Computer-Use Agents">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WebPII: Benchmarking Visual PII Detection for Computer-Use Agents</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="./static/css/viewer.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">
+              WebPII: Benchmarking Visual PII Detection for Computer-Use Agents
+            </h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Anonymous Authors</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="#" class="external-link button is-normal is-rounded is-dark" disabled>
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/WebPII/webpii.github.io" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-code"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/WebPII/models" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Models</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://huggingface.co/datasets/WebPII/webpii" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-database"></i>
+                    </span>
+                    <span>Dataset</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="#dataset-viewer" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-eye"></i>
+                    </span>
+                    <span>Visualizer</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Abstract -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Computer use agents create new privacy risks: training data collected from real websites inevitably contains sensitive information, and cloud-hosted inference exposes user screenshots. Detecting personally identifiable information in web screenshots is critical for privacy-preserving deployment, but no public benchmark exists for this task. We introduce <strong>WebPII</strong>, a fine-grained synthetic benchmark of 44,865 annotated e-commerce UI images designed with three key properties: extended PII taxonomy including transaction-level identifiers that enable reidentification, anticipatory detection for partially-filled forms where users are actively entering data, and scalable generation through VLM-based UI reproduction. Experiments validate that these design choices improve layout-invariant detection across diverse interfaces and generalization to held-out page types. We train <strong>WebRedact</strong> to demonstrate practical utility, more than doubling text-extraction baseline accuracy (0.753 vs 0.357 mAP@50) at real-time CPU latency (20ms). We release the dataset and model to support privacy-preserving computer use research.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dataset Statistics -->
+  <section class="section" style="background-color: #f8f9fa;">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Dataset Composition and Statistics</h2>
+      <p class="subtitle has-text-centered">
+        The dataset comprises 44,865 images spanning 10 e-commerce websites and 19 page types.
+      </p>
+
+      <div class="columns is-multiline">
+        <div class="column is-3">
+          <div class="stat-card">
+            <div class="stat-number">44,865</div>
+            <div class="stat-label">Images</div>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div class="stat-card">
+            <div class="stat-number">993,461</div>
+            <div class="stat-label">Annotations</div>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div class="stat-card">
+            <div class="stat-number">10</div>
+            <div class="stat-label">Companies</div>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div class="stat-card">
+            <div class="stat-number">19</div>
+            <div class="stat-label">Page Types</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns mt-5 is-multiline">
+        <div class="column is-one-third">
+          <div class="distribution-box">
+            <h3 class="title is-5">Form-Fill Variants</h3>
+            <p style="font-size: 13px; color: #666; margin-bottom: 10px;">Distribution across form-fill variants—enabling anticipatory detection training.</p>
+            <ul>
+              <li><strong>Empty (13.4%):</strong> 6,012 images</li>
+              <li><strong>Fully-filled (22.7%):</strong> 10,200 images</li>
+              <li><strong>Partial-fill (63.9%):</strong> 28,653 images</li>
+            </ul>
+          </div>
+        </div>
+        <div class="column is-one-third">
+          <div class="distribution-box">
+            <h3 class="title is-5">Annotation Density</h3>
+            <p style="font-size: 13px; color: #666; margin-bottom: 10px;">Median of 19 boxes per image (mean 22.1), ranging from 0 to 145 annotations per image.</p>
+            <ul>
+              <li><strong>PII classes (52.4%):</strong> Address (25.7%), contact info, names</li>
+              <li><strong>Non-PII classes (47.6%):</strong> Order info (23.0%), product text (18.8%)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="column is-one-third">
+          <div class="distribution-box">
+            <h3 class="title is-5">HTML Element Types</h3>
+            <p style="font-size: 13px; color: #666; margin-bottom: 10px;">Most annotations target rendered text where PII appears on confirmation and review pages.</p>
+            <ul>
+              <li><strong>Rendered text (78.1%):</strong> 775,772 annotations</li>
+              <li><strong>Input fields (13.6%):</strong> 135,136 annotations</li>
+              <li><strong>Images (8.3%):</strong> 82,553 annotations</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Dataset Viewer -->
+  <section class="section">
+    <div class="container is-max-widescreen">
+      <h2 class="title is-3 has-text-centered">Interactive Dataset Viewer</h2>
+      <p class="subtitle has-text-centered">
+        Sample images from the WebPII dataset. Toggle between form states and annotation modes.
+      </p>
+
+      <div id="dataset-viewer"></div>
+    </div>
+  </section>
+
+  <!-- Baseline Results -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Baseline Results</h2>
+      <p class="subtitle has-text-centered">
+        Visual detection substantially outperforms text-based approaches on held-out Amazon layouts.
+      </p>
+
+      <div class="table-container">
+        <table class="table is-striped is-hoverable is-fullwidth">
+          <thead>
+            <tr>
+              <th>Method</th>
+              <th>mAP@50</th>
+              <th>Latency</th>
+              <th>Real-time?</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>OCR + Presidio</strong></td>
+              <td>0.183</td>
+              <td>1,300ms</td>
+              <td><span class="tag is-danger">No</span></td>
+            </tr>
+            <tr>
+              <td><strong>LayoutLMv3 + GPT-4o-mini</strong></td>
+              <td>0.357</td>
+              <td>2,900ms</td>
+              <td><span class="tag is-danger">No</span></td>
+            </tr>
+            <tr class="is-selected">
+              <td><strong>WebRedact (ours)</strong></td>
+              <td>0.753</td>
+              <td><strong>20ms</strong></td>
+              <td><span class="tag is-success">Yes (30 FPS)</span></td>
+            </tr>
+            <tr class="is-selected">
+              <td><strong>WebRedact-large (ours)</strong></td>
+              <td><strong>0.842</strong></td>
+              <td>312ms</td>
+              <td><span class="tag is-warning">Near Real-time (3 FPS)</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="has-text-centered mt-4">
+        <strong>WebRedact</strong> achieves <strong>2.1× better accuracy</strong> (0.753 vs 0.357 mAP@50) with <strong>145× faster inference</strong> than the best text-based method (LayoutLMv3 + GPT-4o-mini), enabling real-time privacy protection at 30 FPS. <strong>WebRedact-large</strong> further improves accuracy to <strong>0.842 mAP@50</strong> with near-real-time performance at 3 FPS.
+      </p>
+    </div>
+  </section>
+
+  <!-- Citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{anonymous2026webpii,
+  title={WebPII: Benchmarking Visual PII Detection for Computer-Use Agents},
+  author={Anonymous Authors},
+  booktitle={ICLR 2026 Workshop on Reliable Autonomy},
+  year={2026}
+}</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        <p>Page template borrowed from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Load dataset viewer -->
+  <script src="./static/js/dataset-viewer.js"></script>
+
+</body>
+
+</html>

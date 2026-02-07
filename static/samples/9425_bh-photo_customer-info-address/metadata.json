@@ -1,0 +1,5037 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/9425.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Nichole",
+    "PII_LASTNAME": "Garner",
+    "PII_FULLNAME": "Nichole Garner",
+    "PII_LOGIN_USERNAME": "nichole_garner",
+    "PII_LOGIN_PASSWORD": "+6YATTfc0l5",
+    "PII_LOGIN_PASSWORD_CONFIRM": "+6YATTfc0l5",
+    "PII_CARD_TYPE": "Discover",
+    "PII_CARD_NUMBER": "6554 7392 8073 3106",
+    "PII_CARD_LAST4": "3106",
+    "PII_CARD_EXPIRY": "07/27",
+    "PII_CARD_EXPIRY_MONTH": "07",
+    "PII_CARD_EXPIRY_YEAR": "27",
+    "PII_CARD_CVV": "958",
+    "PII_CARD_IMAGE": "/payment_methods/discover.webp",
+    "PII_EMAIL": "ngarner@yahoo.com",
+    "PII_DOB": "04/18/1958",
+    "PII_DOB_ISO": "1958-04-18",
+    "PII_DOB_LONG": "April 18, 1958",
+    "PII_DOB_MONTH": "04",
+    "PII_DOB_DAY": "18",
+    "PII_DOB_YEAR": "1958",
+    "PII_COMPANY": "Hansen and Sons",
+    "PII_PO_NUMBER": "PO697578",
+    "PII_JOB_CODE": "",
+    "PII_PHONE": "5359752826",
+    "PII_PHONE_AREA": "535",
+    "PII_PHONE_PREFIX": "975",
+    "PII_PHONE_LINE": "2826",
+    "PII_PHONE_SUFFIX": "2826",
+    "PII_PHONE_ALT": "4305833995",
+    "PII_PHONE_ALT_AREA": "430",
+    "PII_PHONE_ALT_PREFIX": "583",
+    "PII_PHONE_ALT_LINE": "3995",
+    "PII_PHONE_ALT_SUFFIX": "3995",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=female",
+    "PII_ADDRESS": "38365 Brian Pass, Annafurt, MO 50390",
+    "PII_STREET": "38365 Brian Pass",
+    "PII_CITY": "Annafurt",
+    "PII_STATE": "Missouri",
+    "PII_STATE_ABBR": "MO",
+    "PII_POSTCODE": "50390",
+    "PII_POSTCODE_EXT": "1531",
+    "PII_POSTCODE_FULL": "50390-1531",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "Annafurt, MO",
+    "PII_CITY_STATE_ZIP": "Annafurt, MO 50390",
+    "PII_CITY2": "West Nicholas",
+    "PII_STATE2": "FM",
+    "PII_STATE_ABBR2": "FM",
+    "PII_CITY_STATE2": "West Nicholas, FM",
+    "PII_CITY3": "Lake Brandon",
+    "PII_STATE3": "Massachusetts",
+    "PII_STATE_ABBR3": "MA",
+    "PII_CITY_STATE3": "Lake Brandon, MA",
+    "PII_LOCATION1_STREET": "496 Jesse Oval",
+    "PII_LOCATION2_STREET": "82614 Reid Trace",
+    "PII_LOCATION3_STREET": "9110 Rhonda Turnpike Apt. 809",
+    "PII_LOCATION4_STREET": "4071 Briggs Spur Suite 172",
+    "PII_LOCATION5_STREET": "770 Gibson Glen",
+    "PII_LOCATION6_STREET": "50297 Theresa Knoll",
+    "PII_LOCATION7_STREET": "7656 Ballard Villages Apt. 565",
+    "PII_LOCATION8_STREET": "35851 Knight Mount Apt. 098",
+    "PII_LOCATION9_STREET": "32375 Richardson Manors",
+    "PII_LOCATION10_STREET": "9446 Ashley Plains",
+    "PII_LOCATION11_STREET": "0270 Roy Common",
+    "PII_LOCATION12_STREET": "863 Navarro Throughway Apt. 714",
+    "PII_LOCATION13_STREET": "970 Joshua Stravenue",
+    "PII_LOCATION14_STREET": "991 Terrance Keys Apt. 041",
+    "PII_LOCATION15_STREET": "5049 Summer Pine Apt. 525",
+    "PII_LOCATION16_STREET": "10965 David Bypass Apt. 580",
+    "PII_LOCATION17_STREET": "18753 Brown Mountain Suite 413",
+    "PII_LOCATION18_STREET": "635 Stewart Brook",
+    "PII_LOCATION19_STREET": "50727 Rebecca Mountain Suite 127",
+    "PII_LOCATION20_STREET": "979 Rebecca Overpass",
+    "PII_LOCATION21_STREET": "141 Manning Harbors Apt. 039",
+    "PII_LOCATION22_STREET": "554 Nicole Shore Suite 814",
+    "PII_LOCATION23_STREET": "742 Ayala Divide",
+    "PII_LOCATION24_STREET": "83473 Mcdaniel Fields",
+    "PII_LOCATION25_STREET": "708 Angela Springs Suite 433",
+    "PII_LOCATION1_CITY": "Riverastad",
+    "PII_LOCATION2_CITY": "Palmerton",
+    "PII_LOCATION3_CITY": "Monicaberg",
+    "PII_LOCATION4_CITY": "North Brett",
+    "PII_LOCATION5_CITY": "Brownburgh",
+    "PII_LOCATION6_CITY": "Amandamouth",
+    "PII_LOCATION7_CITY": "Thomastown",
+    "PII_LOCATION8_CITY": "Guerreroshire",
+    "PII_LOCATION9_CITY": "Michaelfurt",
+    "PII_LOCATION10_CITY": "Sarahtown",
+    "PII_LOCATION11_CITY": "East Michael",
+    "PII_LOCATION12_CITY": "Lake Jared",
+    "PII_LOCATION13_CITY": "East Kim",
+    "PII_LOCATION14_CITY": "Kellerstad",
+    "PII_LOCATION15_CITY": "North James",
+    "PII_LOCATION16_CITY": "West Eric",
+    "PII_LOCATION17_CITY": "Erictown",
+    "PII_LOCATION18_CITY": "Bellburgh",
+    "PII_LOCATION19_CITY": "Port Candiceburgh",
+    "PII_LOCATION20_CITY": "Robertsonfort",
+    "PII_LOCATION21_CITY": "Hansenton",
+    "PII_LOCATION22_CITY": "Brianhaven",
+    "PII_LOCATION23_CITY": "Ryanview",
+    "PII_LOCATION24_CITY": "Fordville",
+    "PII_LOCATION25_CITY": "North Ericmouth",
+    "PII_LOCATION1_POSTCODE": "21052",
+    "PII_LOCATION2_POSTCODE": "84205",
+    "PII_LOCATION3_POSTCODE": "75957",
+    "PII_LOCATION4_POSTCODE": "98286",
+    "PII_LOCATION5_POSTCODE": "36005",
+    "PII_LOCATION6_POSTCODE": "71665",
+    "PII_LOCATION7_POSTCODE": "14934",
+    "PII_LOCATION8_POSTCODE": "60695",
+    "PII_LOCATION9_POSTCODE": "37716",
+    "PII_LOCATION10_POSTCODE": "78195",
+    "PII_LOCATION11_POSTCODE": "63644",
+    "PII_LOCATION12_POSTCODE": "97698",
+    "PII_LOCATION13_POSTCODE": "87211",
+    "PII_LOCATION14_POSTCODE": "87631",
+    "PII_LOCATION15_POSTCODE": "61236",
+    "PII_LOCATION16_POSTCODE": "92259",
+    "PII_LOCATION17_POSTCODE": "62546",
+    "PII_LOCATION18_POSTCODE": "18723",
+    "PII_LOCATION19_POSTCODE": "12675",
+    "PII_LOCATION20_POSTCODE": "10434",
+    "PII_LOCATION21_POSTCODE": "46065",
+    "PII_LOCATION22_POSTCODE": "96999",
+    "PII_LOCATION23_POSTCODE": "30614",
+    "PII_LOCATION24_POSTCODE": "27622",
+    "PII_LOCATION25_POSTCODE": "52742",
+    "PII_LOCATION1_POSTCODE_EXT": "7978",
+    "PII_LOCATION2_POSTCODE_EXT": "9465",
+    "PII_LOCATION3_POSTCODE_EXT": "6869",
+    "PII_LOCATION4_POSTCODE_EXT": "3187",
+    "PII_LOCATION5_POSTCODE_EXT": "3006",
+    "PII_LOCATION6_POSTCODE_EXT": "6187",
+    "PII_LOCATION7_POSTCODE_EXT": "7402",
+    "PII_LOCATION8_POSTCODE_EXT": "3913",
+    "PII_LOCATION9_POSTCODE_EXT": "9192",
+    "PII_LOCATION10_POSTCODE_EXT": "6732",
+    "PII_LOCATION11_POSTCODE_EXT": "3777",
+    "PII_LOCATION12_POSTCODE_EXT": "5523",
+    "PII_LOCATION13_POSTCODE_EXT": "2584",
+    "PII_LOCATION14_POSTCODE_EXT": "3034",
+    "PII_LOCATION15_POSTCODE_EXT": "7921",
+    "PII_LOCATION16_POSTCODE_EXT": "3381",
+    "PII_LOCATION17_POSTCODE_EXT": "8136",
+    "PII_LOCATION18_POSTCODE_EXT": "3538",
+    "PII_LOCATION19_POSTCODE_EXT": "7262",
+    "PII_LOCATION20_POSTCODE_EXT": "1260",
+    "PII_LOCATION21_POSTCODE_EXT": "4068",
+    "PII_LOCATION22_POSTCODE_EXT": "5309",
+    "PII_LOCATION23_POSTCODE_EXT": "8577",
+    "PII_LOCATION24_POSTCODE_EXT": "5523",
+    "PII_LOCATION25_POSTCODE_EXT": "5322",
+    "PII_LOCATION1_POSTCODE_FULL": "21052-7978",
+    "PII_LOCATION2_POSTCODE_FULL": "84205-9465",
+    "PII_LOCATION3_POSTCODE_FULL": "75957-6869",
+    "PII_LOCATION4_POSTCODE_FULL": "98286-3187",
+    "PII_LOCATION5_POSTCODE_FULL": "36005-3006",
+    "PII_LOCATION6_POSTCODE_FULL": "71665-6187",
+    "PII_LOCATION7_POSTCODE_FULL": "14934-7402",
+    "PII_LOCATION8_POSTCODE_FULL": "60695-3913",
+    "PII_LOCATION9_POSTCODE_FULL": "37716-9192",
+    "PII_LOCATION10_POSTCODE_FULL": "78195-6732",
+    "PII_LOCATION11_POSTCODE_FULL": "63644-3777",
+    "PII_LOCATION12_POSTCODE_FULL": "97698-5523",
+    "PII_LOCATION13_POSTCODE_FULL": "87211-2584",
+    "PII_LOCATION14_POSTCODE_FULL": "87631-3034",
+    "PII_LOCATION15_POSTCODE_FULL": "61236-7921",
+    "PII_LOCATION16_POSTCODE_FULL": "92259-3381",
+    "PII_LOCATION17_POSTCODE_FULL": "62546-8136",
+    "PII_LOCATION18_POSTCODE_FULL": "18723-3538",
+    "PII_LOCATION19_POSTCODE_FULL": "12675-7262",
+    "PII_LOCATION20_POSTCODE_FULL": "10434-1260",
+    "PII_LOCATION21_POSTCODE_FULL": "46065-4068",
+    "PII_LOCATION22_POSTCODE_FULL": "96999-5309",
+    "PII_LOCATION23_POSTCODE_FULL": "30614-8577",
+    "PII_LOCATION24_POSTCODE_FULL": "27622-5523",
+    "PII_LOCATION25_POSTCODE_FULL": "52742-5322",
+    "PII_LOCATION1_CITY_STATE_ZIP": "Riverastad, MO 21052",
+    "PII_LOCATION2_CITY_STATE_ZIP": "Palmerton, MO 84205",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Monicaberg, MO 75957",
+    "PII_LOCATION4_CITY_STATE_ZIP": "North Brett, MO 98286",
+    "PII_LOCATION5_CITY_STATE_ZIP": "Brownburgh, MO 36005",
+    "PII_LOCATION6_CITY_STATE_ZIP": "Amandamouth, MO 71665",
+    "PII_LOCATION7_CITY_STATE_ZIP": "Thomastown, MO 14934",
+    "PII_LOCATION8_CITY_STATE_ZIP": "Guerreroshire, MO 60695",
+    "PII_LOCATION9_CITY_STATE_ZIP": "Michaelfurt, MO 37716",
+    "PII_LOCATION10_CITY_STATE_ZIP": "Sarahtown, MO 78195",
+    "PII_LOCATION11_CITY_STATE_ZIP": "East Michael, MO 63644",
+    "PII_LOCATION12_CITY_STATE_ZIP": "Lake Jared, MO 97698",
+    "PII_LOCATION13_CITY_STATE_ZIP": "East Kim, MO 87211",
+    "PII_LOCATION14_CITY_STATE_ZIP": "Kellerstad, MO 87631",
+    "PII_LOCATION15_CITY_STATE_ZIP": "North James, MO 61236",
+    "PII_LOCATION16_CITY_STATE_ZIP": "West Eric, MO 92259",
+    "PII_LOCATION17_CITY_STATE_ZIP": "Erictown, MO 62546",
+    "PII_LOCATION18_CITY_STATE_ZIP": "Bellburgh, MO 18723",
+    "PII_LOCATION19_CITY_STATE_ZIP": "Port Candiceburgh, MO 12675",
+    "PII_LOCATION20_CITY_STATE_ZIP": "Robertsonfort, MO 10434",
+    "PII_LOCATION21_CITY_STATE_ZIP": "Hansenton, MO 46065",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Brianhaven, MO 96999",
+    "PII_LOCATION23_CITY_STATE_ZIP": "Ryanview, MO 30614",
+    "PII_LOCATION24_CITY_STATE_ZIP": "Fordville, MO 27622",
+    "PII_LOCATION25_CITY_STATE_ZIP": "North Ericmouth, MO 52742",
+    "PII_SECURITY_CODE": "24274",
+    "PII_DELIVERY_INSTRUCTIONS": "",
+    "PII_PROMO_CODE": "EXTRA65",
+    "PII_STREET2": "Apt. 357",
+    "PII_POSTCODE2": "94546",
+    "PII_CITY_STATE_ZIP2": "Annafurt, MO 94546",
+    "PII_STREET_2": "Apt. 357",
+    "PII_POSTCODE_2": "94546",
+    "PII_CITY_STATE_ZIP_2": "Annafurt, MO 94546",
+    "PII_GIFT_FIRSTNAME": "Roberto",
+    "PII_GIFT_LASTNAME": "Edwards",
+    "PII_GIFT_FULLNAME": "Roberto Edwards",
+    "PII_GIFT_EMAIL": "redwards@gmail.com",
+    "PII_EMAIL2": "ngarner@yahoo.com",
+    "PII_EMAIL3": "ngarner@yahoo.com",
+    "PII_PHONE2": "5359752826",
+    "PII_PHONE3": "5359752826",
+    "PII_FULLNAME2": "Nichole Garner",
+    "PII_FULLNAME3": "Nichole Garner",
+    "PII_FIRSTNAME2": "Nichole",
+    "PII_FIRSTNAME3": "Nichole",
+    "PII_LASTNAME2": "Garner",
+    "PII_LASTNAME3": "Garner",
+    "PII_LOGIN_USERNAME2": "nichole_garner",
+    "PII_LOGIN_USERNAME3": "nichole_garner",
+    "PII_LOGIN_PASSWORD2": "+6YATTfc0l5",
+    "PII_LOGIN_PASSWORD3": "+6YATTfc0l5",
+    "SEED": 478045,
+    "ORDER_DATE": "April 20, 2024",
+    "ORDER_SHIPPING_DATE": "April 21, 2024",
+    "ORDER_DELIVERY_DATE": "April 23, 2024",
+    "ORDER_RETURN_BY_DATE": "May 16, 2024",
+    "PII_GIFT_MESSAGE": "I thought this cozy duvet set would be perfect for your new space! I can't wait to see how it brings warmth to your room\u2014just like you do for everyone around you. Enjoy making it your own!  \nNichole",
+    "PRODUCT1_NAME": "Stone & Beam Distressed Farmhouse Duvet Set",
+    "PRODUCT1_PRICE": 115.99,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/8c/8ce00b4f.jpg",
+    "PRODUCT1_DESC": "Quality Stone for everyday use",
+    "PRODUCT1_RATING": 4.2,
+    "PRODUCT1_NUM_RATINGS": 1462,
+    "PRODUCT1_QUANTITY": 2,
+    "PRODUCT1_BRAND": "Stone & Beam",
+    "PRODUCT1_ITEM_CATEGORY": "Duvet Set",
+    "PRODUCT1_BREADCRUMB": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bedding Sets",
+      "Duvet Sets",
+      "Farmhouse Duvet Sets"
+    ],
+    "PRODUCT2_NAME": "Pinzon 160-Gram Solid Flannel Twin Duvet Cover, Olive",
+    "PRODUCT2_PRICE": 38.79,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/47/476ebb11.jpg",
+    "PRODUCT2_DESC": "Twin-size flannel duvet cover; made in Portugal",
+    "PRODUCT2_RATING": 4.1,
+    "PRODUCT2_NUM_RATINGS": 1406,
+    "PRODUCT2_QUANTITY": 1,
+    "PRODUCT2_BRAND": "",
+    "PRODUCT2_ITEM_CATEGORY": "",
+    "PRODUCT3_NAME": "Essentials Microfiber Duvet Cover Set,Lightweight and Soft Bedding Set (8 Sizes,12 Colours)(200x200+",
+    "PRODUCT3_PRICE": 21.0,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/82/82022a21.jpg",
+    "PRODUCT3_DESC": "Includes: 1 duvet cover measures 200x200cm and 2 pillowcases measure 80x80cm - (200x200cm+2x80x80cm).",
+    "PRODUCT3_RATING": 3.8,
+    "PRODUCT3_NUM_RATINGS": 3430,
+    "PRODUCT3_QUANTITY": 1,
+    "PRODUCT3_BRAND": "",
+    "PRODUCT3_ITEM_CATEGORY": "",
+    "PRODUCT4_NAME": "365 Everyday Value, Organic Garlic Granules, 0.92 oz",
+    "PRODUCT4_PRICE": 4.0,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/dd/dd832171.jpg",
+    "PRODUCT4_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT4_RATING": 4.5,
+    "PRODUCT4_NUM_RATINGS": 621,
+    "PRODUCT4_QUANTITY": 2,
+    "PRODUCT4_BRAND": "",
+    "PRODUCT4_ITEM_CATEGORY": "",
+    "PRODUCT5_NAME": "Pinzon Bedding and Towel Set Bundle, Double - Green/White",
+    "PRODUCT5_PRICE": 52.0,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/a7/a7ff273e.jpg",
+    "PRODUCT5_DESC": "Duvet cover 200x200cm and 2 pillowcases 50x75cm",
+    "PRODUCT5_RATING": 4.3,
+    "PRODUCT5_NUM_RATINGS": 94,
+    "PRODUCT5_QUANTITY": 3,
+    "PRODUCT5_BRAND": "",
+    "PRODUCT5_ITEM_CATEGORY": "",
+    "PRODUCT6_NAME": "365 Everyday Value, Organic Broccoli Florets, 32 oz, (Frozen)",
+    "PRODUCT6_PRICE": 3.49,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/9a/9af6e05e.jpg",
+    "PRODUCT6_DESC": "Brought to you by Whole Foods Market. Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Value",
+    "PRODUCT6_RATING": 4.6,
+    "PRODUCT6_NUM_RATINGS": 533,
+    "PRODUCT6_QUANTITY": 2,
+    "PRODUCT6_BRAND": "",
+    "PRODUCT6_ITEM_CATEGORY": "",
+    "PRODUCT7_NAME": "Essentials Set of 4 Chenille Cushion Covers. 40 x 40 cm, 45 x 45 cm, yellow, 40x40",
+    "PRODUCT7_PRICE": 17.49,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/45/4521db78.jpg",
+    "PRODUCT7_DESC": "Size: 40 cm x 40 cm. Box contents: pack of 4.",
+    "PRODUCT7_RATING": 4.3,
+    "PRODUCT7_NUM_RATINGS": 29,
+    "PRODUCT7_QUANTITY": 1,
+    "PRODUCT7_BRAND": "",
+    "PRODUCT7_ITEM_CATEGORY": "",
+    "PRODUCT8_NAME": "365 Everyday Value, Cal-Mag-Zinc with Vitamin D3, 180 ct",
+    "PRODUCT8_PRICE": 11.79,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/1d/1dbf6885.jpg",
+    "PRODUCT8_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT8_RATING": 4.4,
+    "PRODUCT8_NUM_RATINGS": 86,
+    "PRODUCT8_QUANTITY": 15,
+    "PRODUCT8_BRAND": "",
+    "PRODUCT8_ITEM_CATEGORY": "",
+    "PRODUCT9_NAME": "18k Yellow Gold Plated Sterling Silver Genuine Citrine Oval Cut 5x4mm and Diamond Accent Tennis Brac",
+    "PRODUCT9_PRICE": 71.49,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/8d/8dc51848.jpg",
+    "PRODUCT9_DESC": "Tennis bracelet featuring prong set 5x4mm oval cut genuine citrine stones with diamond accent detail in 18k yellow gold plated sterling silver",
+    "PRODUCT9_RATING": 4.7,
+    "PRODUCT9_NUM_RATINGS": 42,
+    "PRODUCT9_QUANTITY": 4,
+    "PRODUCT9_BRAND": "",
+    "PRODUCT9_ITEM_CATEGORY": "",
+    "PRODUCT10_NAME": "100% Linen Duvet Cover Set-155x220+1x80x80cm",
+    "PRODUCT10_PRICE": 79.79,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/2b/2b521c56.jpg",
+    "PRODUCT10_DESC": "Material: 100% Linen",
+    "PRODUCT10_RATING": 3.4,
+    "PRODUCT10_NUM_RATINGS": 430,
+    "PRODUCT10_QUANTITY": 2,
+    "PRODUCT10_BRAND": "",
+    "PRODUCT10_ITEM_CATEGORY": "",
+    "PRODUCT11_NAME": "WHOLE FOODS MARKET Roasted Poblano Dressing, 12 FZ",
+    "PRODUCT11_PRICE": 3.0,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/8c/8cf6a773.jpg",
+    "PRODUCT11_DESC": "Brought to you by Whole Foods Market. Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Value",
+    "PRODUCT11_RATING": 4.6,
+    "PRODUCT11_NUM_RATINGS": 64,
+    "PRODUCT11_QUANTITY": 4,
+    "PRODUCT11_BRAND": "",
+    "PRODUCT11_ITEM_CATEGORY": "",
+    "PRODUCT12_NAME": "365 Everyday Value, Body Lotion, Vanilla Bourbon, Maximum Moisture, 8 fl oz",
+    "PRODUCT12_PRICE": 10.0,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/ac/ac407117.jpg",
+    "PRODUCT12_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT12_RATING": 4.3,
+    "PRODUCT12_NUM_RATINGS": 74,
+    "PRODUCT12_QUANTITY": 9,
+    "PRODUCT12_BRAND": "",
+    "PRODUCT12_ITEM_CATEGORY": "",
+    "PRODUCT13_NAME": "365 Everyday Value, Cal-Mag 2:1 Ratio, 250 ct",
+    "PRODUCT13_PRICE": 11.99,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/59/591f6ad4.jpg",
+    "PRODUCT13_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT13_RATING": 3.7,
+    "PRODUCT13_NUM_RATINGS": 10,
+    "PRODUCT13_QUANTITY": 1,
+    "PRODUCT13_BRAND": "",
+    "PRODUCT13_ITEM_CATEGORY": "",
+    "PRODUCT14_NAME": "Stone & Beam Flared-Back Dining Chair, 37\"H, Set of 2, Gray",
+    "PRODUCT14_PRICE": 14.49,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/f9/f96481be.jpg",
+    "PRODUCT14_DESC": "The flared backs of these chairs create a unique visual element that will help add sophistication to any dining area. The silver nailhead design along the chair edges completes the contemporary look. ",
+    "PRODUCT14_RATING": 4.5,
+    "PRODUCT14_NUM_RATINGS": 50,
+    "PRODUCT14_QUANTITY": 4,
+    "PRODUCT14_BRAND": "",
+    "PRODUCT14_ITEM_CATEGORY": "",
+    "PRODUCT15_NAME": "Moon and Back Set of 5 Organic Reversible Lined Burp Cloths Handkerchief, Navy Sea, One Size",
+    "PRODUCT15_PRICE": 134.79,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/1b/1b3dd6a4.jpg",
+    "PRODUCT15_DESC": "Messy burps are no match for these reversible burp cloths that pair supersoft interlock fabric with baby terry for double the absorbency; features bound finished edges",
+    "PRODUCT15_RATING": 4.0,
+    "PRODUCT15_NUM_RATINGS": 226,
+    "PRODUCT15_QUANTITY": 2,
+    "PRODUCT15_BRAND": "",
+    "PRODUCT15_ITEM_CATEGORY": "",
+    "PRODUCT16_NAME": "Pinzon Kids Printed Citrus Twin Duvet Cover",
+    "PRODUCT16_PRICE": 28.79,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/ea/ea7db2d8.jpg",
+    "PRODUCT16_DESC": "Twin duvet cover measures 68 by 86 inches",
+    "PRODUCT16_RATING": 4.8,
+    "PRODUCT16_NUM_RATINGS": 40,
+    "PRODUCT16_QUANTITY": 1,
+    "PRODUCT16_BRAND": "",
+    "PRODUCT16_ITEM_CATEGORY": "",
+    "PRODUCT17_NAME": "Platinum-Plated Sterling Silver Freshwater Pearl Open with Frosty Mint Swarovski Zirconia Accents Ri",
+    "PRODUCT17_PRICE": 46.49,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/e8/e832ce81.jpg",
+    "PRODUCT17_DESC": "Freshwater Cultured White Pearl Ring ring in platinum plated sterling silver set with Frosty Mint Swarovski Zirconia accents",
+    "PRODUCT17_RATING": 4.5,
+    "PRODUCT17_NUM_RATINGS": 569,
+    "PRODUCT17_QUANTITY": 3,
+    "PRODUCT17_BRAND": "",
+    "PRODUCT17_ITEM_CATEGORY": "",
+    "PRODUCT18_NAME": "365 Everyday Value, Wild Blueberry Fruit Spread, 10 oz",
+    "PRODUCT18_PRICE": 20.0,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/06/068225b2.jpg",
+    "PRODUCT18_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT18_RATING": 3.3,
+    "PRODUCT18_NUM_RATINGS": 51,
+    "PRODUCT18_QUANTITY": 2,
+    "PRODUCT18_BRAND": "",
+    "PRODUCT18_ITEM_CATEGORY": "",
+    "PRODUCT19_NAME": "Phoenix Home Lotusville Vintage PU Leather, Set of 2 Counter Height Stool, Gray",
+    "PRODUCT19_PRICE": 50.49,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/81/81e7d07d.jpg",
+    "PRODUCT19_DESC": "Counter-height bar stool (set of 2) offers a clean, simple profile and vintage-inspired good looks",
+    "PRODUCT19_RATING": 4.6,
+    "PRODUCT19_NUM_RATINGS": 914,
+    "PRODUCT19_QUANTITY": 1,
+    "PRODUCT19_BRAND": "",
+    "PRODUCT19_ITEM_CATEGORY": "",
+    "PRODUCT20_NAME": "365 Everyday Value, Vitamin D3 1000 IU, 100 ct",
+    "PRODUCT20_PRICE": 7.0,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/1b/1b024e9e.jpg",
+    "PRODUCT20_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT20_RATING": 4.3,
+    "PRODUCT20_NUM_RATINGS": 33,
+    "PRODUCT20_QUANTITY": 4,
+    "PRODUCT20_BRAND": "",
+    "PRODUCT20_ITEM_CATEGORY": "",
+    "PRODUCT21_NAME": "365 Everyday Value, Wild-Caught Seafood Value Pack, Uncooked Key West Pink Shrimp, Tail-Off - Peeled",
+    "PRODUCT21_PRICE": 6.79,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/41/41f35d01.jpg",
+    "PRODUCT21_DESC": "Brought to you by Whole Foods Market.\u00a0 Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT21_RATING": 4.5,
+    "PRODUCT21_NUM_RATINGS": 944,
+    "PRODUCT21_QUANTITY": 1,
+    "PRODUCT21_BRAND": "",
+    "PRODUCT21_ITEM_CATEGORY": "",
+    "PRODUCT22_NAME": "365 Everyday Value, Scone Mix, White Cheddar, Chive & Thyme, 14.1 oz",
+    "PRODUCT22_PRICE": 5.79,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/29/294650fc.jpg",
+    "PRODUCT22_DESC": "Brought to you by Whole Foods Market. Our standards are what set us apart, and our quality is what keeps us Stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Value",
+    "PRODUCT22_RATING": 4.8,
+    "PRODUCT22_NUM_RATINGS": 739,
+    "PRODUCT22_QUANTITY": 4,
+    "PRODUCT22_BRAND": "",
+    "PRODUCT22_ITEM_CATEGORY": "",
+    "PRODUCT23_NAME": "100% Linen Duvet Cover Set-200x200+2x80x80cm",
+    "PRODUCT23_PRICE": 27.79,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/61/61adbaa5.jpg",
+    "PRODUCT23_DESC": "Material: 100% Linen",
+    "PRODUCT23_RATING": 4.7,
+    "PRODUCT23_NUM_RATINGS": 41,
+    "PRODUCT23_QUANTITY": 2,
+    "PRODUCT23_BRAND": "",
+    "PRODUCT23_ITEM_CATEGORY": "",
+    "PRODUCT24_NAME": "Pinzon Kids Printed Fish/Blue Stripe Twin Duvet Cover",
+    "PRODUCT24_PRICE": 48.79,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/96/96fe7bfa.jpg",
+    "PRODUCT24_DESC": "Reversible twin duvet cover measures 68 by 86 inches",
+    "PRODUCT24_RATING": 3.9,
+    "PRODUCT24_NUM_RATINGS": 242,
+    "PRODUCT24_QUANTITY": 3,
+    "PRODUCT24_BRAND": "",
+    "PRODUCT24_ITEM_CATEGORY": "",
+    "PRODUCT25_NAME": "Platinum Plated Sterling Silver \"Y\" Initial Pendant Necklace set with Swarovski Zirconia (.18 cttw)",
+    "PRODUCT25_PRICE": 30.99,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/32/32107b7c.jpg",
+    "PRODUCT25_DESC": "Necklace featuring a Swarovski Zirconia set Y initial pendant",
+    "PRODUCT25_RATING": 3.2,
+    "PRODUCT25_NUM_RATINGS": 211,
+    "PRODUCT25_QUANTITY": 8,
+    "PRODUCT25_BRAND": "",
+    "PRODUCT25_ITEM_CATEGORY": "",
+    "PRODUCT26_NAME": "Platinum Plated Sterling Silver Swarovski Zirconia Round Cut Bridal Ring, Size 7",
+    "PRODUCT26_PRICE": 41.95,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/59/5941c7e9.jpg",
+    "PRODUCT26_DESC": "Two-piece wedding set featuring engagement ring with round brilliant cut Swarovski Zirconia centerpiece and half-length inset Zirconia and full eternity wedding band with pave-set Zirconia rounds",
+    "PRODUCT26_RATING": 3.8,
+    "PRODUCT26_NUM_RATINGS": 73,
+    "PRODUCT26_QUANTITY": 1,
+    "PRODUCT26_BRAND": "",
+    "PRODUCT26_ITEM_CATEGORY": "",
+    "PRODUCT27_NAME": "Platinum-Plated Sterling Silver Solitaire Ring set with Round Swarovski Zirconia (2 cttw), Size 5",
+    "PRODUCT27_PRICE": 46.79,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/fc/fc5d9905.jpg",
+    "PRODUCT27_DESC": "Plated .925 sterling silver ring set with round brilliant cut Swarovski Zirconia",
+    "PRODUCT27_RATING": 4.3,
+    "PRODUCT27_NUM_RATINGS": 126,
+    "PRODUCT27_QUANTITY": 1,
+    "PRODUCT27_BRAND": "",
+    "PRODUCT27_ITEM_CATEGORY": "",
+    "PRODUCT28_NAME": "365 Everyday Value, Organic Medium Salsa, Thick & Chunky, 16 oz",
+    "PRODUCT28_PRICE": 81.99,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/23/23eb962d.jpg",
+    "PRODUCT28_DESC": "Brought to you by Whole Foods Market.  Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Valu",
+    "PRODUCT28_RATING": 4.5,
+    "PRODUCT28_NUM_RATINGS": 44,
+    "PRODUCT28_QUANTITY": 1,
+    "PRODUCT28_BRAND": "",
+    "PRODUCT28_ITEM_CATEGORY": "",
+    "PRODUCT29_NAME": "Strathwood Garden Furniture - St. Thomas Cast Aluminium Swivel Dining Armchairs Set of 2",
+    "PRODUCT29_PRICE": 89.0,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/0d/0d18ef33.jpg",
+    "PRODUCT29_DESC": "Set of 2 all-weather, matching swivel armchairs with cushions",
+    "PRODUCT29_RATING": 3.7,
+    "PRODUCT29_NUM_RATINGS": 83,
+    "PRODUCT29_QUANTITY": 6,
+    "PRODUCT29_BRAND": "",
+    "PRODUCT29_ITEM_CATEGORY": "",
+    "PRODUCT30_NAME": "Rivet Classic Maxwell Garment- Washed Stripe Full/Queen Duvet Cover Set",
+    "PRODUCT30_PRICE": 72.99,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/12/12984008.jpg",
+    "PRODUCT30_DESC": "Quality Rivet for everyday use",
+    "PRODUCT30_RATING": 4.6,
+    "PRODUCT30_NUM_RATINGS": 1560,
+    "PRODUCT30_QUANTITY": 14,
+    "PRODUCT30_BRAND": "",
+    "PRODUCT30_ITEM_CATEGORY": ""
+  },
+  "company": "bh-photo",
+  "page_type": "customer-info-address",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 1029,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "ORDER_SHIPPING_COST",
+    "ORDER_TAX",
+    "PII_CITY",
+    "PII_COUNTRY",
+    "PII_EMAIL",
+    "PII_FIRSTNAME",
+    "PII_LASTNAME",
+    "PII_LOCATION1_CITY",
+    "PII_LOCATION1_POSTCODE",
+    "PII_LOCATION1_STATE_ABBR",
+    "PII_LOCATION1_STREET",
+    "PII_PHONE",
+    "PII_POSTCODE",
+    "PII_STATE_ABBR",
+    "PII_STREET",
+    "PII_STREET2",
+    "PRODUCT1_PRICE",
+    "PRODUCT1_QUANTITY",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_COUNTRY",
+    "PII_FIRSTNAME",
+    "PII_LASTNAME",
+    "PII_STREET",
+    "PII_STREET2",
+    "PII_POSTCODE",
+    "PII_CITY",
+    "PII_STATE_ABBR",
+    "PII_PHONE",
+    "PII_EMAIL"
+  ],
+  "source_image": "data/ui_images/customer-info-address/4255-b-h-photo-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/bh-photo/customer-info-address/4255/20260115_181822",
+  "reproduction_status": "unknown",
+  "split": "train",
+  "detection_stats": {
+    "pii_found": 10,
+    "pii_visible": 10,
+    "pii_fillable": 10,
+    "products_found": 4,
+    "products_visible": 4,
+    "search_found": 0,
+    "search_visible": 0,
+    "containers_found": 9,
+    "boxes_drawn": 14
+  },
+  "pii_elements": [
+    {
+      "key": "PII_CITY",
+      "value": "Annafurt",
+      "bbox": {
+        "x": 224,
+        "y": 588.5,
+        "width": 130,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_COUNTRY",
+      "value": "United States",
+      "bbox": {
+        "x": 224,
+        "y": 193,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL",
+      "value": "ngarner@yahoo.com",
+      "bbox": {
+        "x": 224,
+        "y": 736,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_FIRSTNAME",
+      "value": "Nichole",
+      "bbox": {
+        "x": 224,
+        "y": 253,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_LASTNAME",
+      "value": "Garner",
+      "bbox": {
+        "x": 224,
+        "y": 313,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE",
+      "value": "5359752826",
+      "bbox": {
+        "x": 224,
+        "y": 648.5,
+        "width": 190,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "50390",
+      "bbox": {
+        "x": 224,
+        "y": 528.5,
+        "width": 80,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STATE_ABBR",
+      "value": "MO",
+      "bbox": {
+        "x": 443.0625,
+        "y": 588.5,
+        "width": 70,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "38365 Brian Pass",
+      "bbox": {
+        "x": 224,
+        "y": 408.5,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET2",
+      "value": "Apt. 357",
+      "bbox": {
+        "x": 224,
+        "y": 468.5,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "product_elements": [
+    {
+      "key": "ORDER_SUBTOTAL",
+      "value": "$231.98",
+      "bbox": {
+        "x": 1099.078125,
+        "y": 175.5,
+        "width": 57.921875,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SHIPPING_COST",
+      "value": "$3.50",
+      "bbox": {
+        "x": 1116.90625,
+        "y": 204.5,
+        "width": 40.09375,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_TAX",
+      "value": "$0.00",
+      "bbox": {
+        "x": 1116.90625,
+        "y": 233.5,
+        "width": 40.09375,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_TOTAL",
+      "value": "$235.48",
+      "bbox": {
+        "x": 1084.109375,
+        "y": 279.5,
+        "width": 72.890625,
+        "height": 19
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    }
+  ],
+  "search_elements": [],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 253,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_FIRSTNAME"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 313,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_LASTNAME"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 408.5,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_STREET"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 468.5,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_STREET2"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 528.5,
+        "width": 80,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_POSTCODE"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 588.5,
+        "width": 130,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_CITY"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 648.5,
+        "width": 190,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_PHONE"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 224,
+        "y": 736,
+        "width": 350,
+        "height": 40
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_EMAIL"
+      ],
+      "semantic_hint": "email input field"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 894,
+        "y": 156.5,
+        "width": 280,
+        "height": 314
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "order details card"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_POSTCODE",
+      "PII_FIRSTNAME",
+      "PII_PHONE",
+      "PII_CITY",
+      "PII_COUNTRY",
+      "PII_EMAIL",
+      "PII_LASTNAME",
+      "PII_STREET2",
+      "PII_STATE_ABBR",
+      "PII_STREET"
+    ],
+    "count": 10
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T23:40:31.613985",
+  "_meta": {
+    "anchor_product": "Stone & Beam Distressed Farmhouse Duvet Set",
+    "product_category": "duvet set",
+    "search_term": "duvet set",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_COUNTRY",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "partial",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_FIRSTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_FIRSTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nicho",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_FIRSTNAME",
+              "fill_status": "partial",
+              "char_count": 5,
+              "displayed_value": "Nicho",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_LASTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "G",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "G",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 3,
+      "field_name": "PII_STREET",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_03.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Bria",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET",
+              "fill_status": "partial",
+              "char_count": 10,
+              "displayed_value": "38365 Bria",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 4,
+      "field_name": "PII_STREET2",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_04.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Ap",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET2",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "Ap",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 5,
+      "field_name": "PII_POSTCODE",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_05.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "50",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Apt. 357",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "50",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 6,
+      "field_name": "PII_CITY",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_06.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "A",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "50390",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Apt. 357",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_CITY",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "A",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 7,
+      "field_name": "PII_STATE_ABBR",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_07.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Annafurt",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "50390",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Apt. 357",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_CITY"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STATE_ABBR",
+              "fill_status": "partial",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 8,
+      "field_name": "PII_PHONE",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_08.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Annafurt",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "53",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "50390",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "MO",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Apt. 357",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_CITY"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "53",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 9,
+      "field_name": "PII_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/9425_partial_09.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Annafurt",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 224,
+              "y": 193,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "ngarner@",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Nichole",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Garner",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "5359752826",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "50390",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE_ABBR",
+            "value": "MO",
+            "bbox": {
+              "x": 443.0625,
+              "y": 588.5,
+              "width": 70,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "38365 Brian Pass",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "Apt. 357",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$231.98",
+            "bbox": {
+              "x": 1099.078125,
+              "y": 175.5,
+              "width": 57.921875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$3.50",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 204.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TAX",
+            "value": "$0.00",
+            "bbox": {
+              "x": 1116.90625,
+              "y": 233.5,
+              "width": 40.09375,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$235.48",
+            "bbox": {
+              "x": 1084.109375,
+              "y": 279.5,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 253,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FIRSTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 313,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_LASTNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 408.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 468.5,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 528.5,
+              "width": 80,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_POSTCODE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 588.5,
+              "width": 130,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_CITY"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 648.5,
+              "width": 190,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 224,
+              "y": 736,
+              "width": 350,
+              "height": 40
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "email input field"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 894,
+              "y": 156.5,
+              "width": 280,
+              "height": 314
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "partial",
+              "char_count": 8,
+              "displayed_value": "ngarner@",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/9425_empty.png",
+    "detection_stats": {
+      "pii_found": 10,
+      "pii_visible": 10,
+      "products_found": 4,
+      "products_visible": 4,
+      "search_found": 0,
+      "search_visible": 0
+    },
+    "pii_elements": [
+      {
+        "key": "PII_CITY",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 588.5,
+          "width": 130,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_COUNTRY",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 193,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 736,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_FIRSTNAME",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 253,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_LASTNAME",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 313,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 648.5,
+          "width": 190,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 528.5,
+          "width": 80,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STATE_ABBR",
+        "value": "",
+        "bbox": {
+          "x": 443.0625,
+          "y": 588.5,
+          "width": 70,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 408.5,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET2",
+        "value": "",
+        "bbox": {
+          "x": 224,
+          "y": 468.5,
+          "width": 350,
+          "height": 40
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ],
+    "product_elements": [
+      {
+        "key": "ORDER_SUBTOTAL",
+        "value": "$231.98",
+        "bbox": {
+          "x": 1099.078125,
+          "y": 175.5,
+          "width": 57.921875,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SHIPPING_COST",
+        "value": "$3.50",
+        "bbox": {
+          "x": 1116.90625,
+          "y": 204.5,
+          "width": 40.09375,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_TAX",
+        "value": "$0.00",
+        "bbox": {
+          "x": 1116.90625,
+          "y": 233.5,
+          "width": 40.09375,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_TOTAL",
+        "value": "$235.48",
+        "bbox": {
+          "x": 1084.109375,
+          "y": 279.5,
+          "width": 72.890625,
+          "height": 19
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      }
+    ],
+    "search_elements": []
+  }
+}

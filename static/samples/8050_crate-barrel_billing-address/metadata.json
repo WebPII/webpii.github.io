@@ -1,0 +1,3602 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/8050.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Amber",
+    "PII_LASTNAME": "Smith",
+    "PII_FULLNAME": "Amber Smith",
+    "PII_LOGIN_USERNAME": "amber_smith",
+    "PII_LOGIN_PASSWORD": "@7B1NKto_T",
+    "PII_LOGIN_PASSWORD_CONFIRM": "@7B1NKto_T",
+    "PII_CARD_TYPE": "Visa",
+    "PII_CARD_NUMBER": "4583 4394 1340 8136",
+    "PII_CARD_LAST4": "8136",
+    "PII_CARD_EXPIRY": "01/29",
+    "PII_CARD_EXPIRY_MONTH": "01",
+    "PII_CARD_EXPIRY_YEAR": "29",
+    "PII_CARD_CVV": "190",
+    "PII_CARD_IMAGE": "/payment_methods/visa_brandmark_blue.png",
+    "PII_EMAIL": "amber_smith@gmail.com",
+    "PII_DOB": "04/04/1994",
+    "PII_DOB_ISO": "1994-04-04",
+    "PII_DOB_LONG": "April 04, 1994",
+    "PII_DOB_MONTH": "04",
+    "PII_DOB_DAY": "04",
+    "PII_DOB_YEAR": "1994",
+    "PII_COMPANY": "",
+    "PII_PO_NUMBER": "",
+    "PII_JOB_CODE": "",
+    "PII_PHONE": "6023592427",
+    "PII_PHONE_AREA": "602",
+    "PII_PHONE_PREFIX": "359",
+    "PII_PHONE_LINE": "2427",
+    "PII_PHONE_SUFFIX": "2427",
+    "PII_PHONE_ALT": "",
+    "PII_PHONE_ALT_AREA": "",
+    "PII_PHONE_ALT_PREFIX": "",
+    "PII_PHONE_ALT_LINE": "",
+    "PII_PHONE_ALT_SUFFIX": "",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=female",
+    "PII_ADDRESS": "669 Shaffer Avenue Suite 500, Lake Lisa, AL 93776",
+    "PII_STREET": "669 Shaffer Avenue Suite 500",
+    "PII_CITY": "Lake Lisa",
+    "PII_STATE": "Alabama",
+    "PII_STATE_ABBR": "AL",
+    "PII_POSTCODE": "93776",
+    "PII_POSTCODE_EXT": "8322",
+    "PII_POSTCODE_FULL": "93776-8322",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "Lake Lisa, AL",
+    "PII_CITY_STATE_ZIP": "Lake Lisa, AL 93776",
+    "PII_CITY2": "Port Williamtown",
+    "PII_STATE2": "South Carolina",
+    "PII_STATE_ABBR2": "SC",
+    "PII_CITY_STATE2": "Port Williamtown, SC",
+    "PII_CITY3": "Jasonmouth",
+    "PII_STATE3": "New Mexico",
+    "PII_STATE_ABBR3": "NM",
+    "PII_CITY_STATE3": "Jasonmouth, NM",
+    "PII_LOCATION1_STREET": "481 Mary Cove Apt. 858",
+    "PII_LOCATION2_STREET": "9816 Kelli Ports Suite 713",
+    "PII_LOCATION3_STREET": "3889 Stokes Mews",
+    "PII_LOCATION4_STREET": "767 Jeremy Loaf",
+    "PII_LOCATION5_STREET": "52922 Russell Mews Suite 972",
+    "PII_LOCATION6_STREET": "365 Audrey Glen Suite 369",
+    "PII_LOCATION7_STREET": "307 Jones Path Apt. 796",
+    "PII_LOCATION8_STREET": "98812 Wilson Bypass",
+    "PII_LOCATION9_STREET": "845 Nicole Spur",
+    "PII_LOCATION10_STREET": "4843 Andrea Manor",
+    "PII_LOCATION11_STREET": "724 Regina Glen Apt. 576",
+    "PII_LOCATION12_STREET": "6998 Lance Orchard",
+    "PII_LOCATION13_STREET": "768 Justin Mount Apt. 127",
+    "PII_LOCATION14_STREET": "8210 Jones Ferry Apt. 474",
+    "PII_LOCATION15_STREET": "9399 Hannah Cape",
+    "PII_LOCATION16_STREET": "662 Cynthia Isle",
+    "PII_LOCATION17_STREET": "458 Christine Lakes Apt. 913",
+    "PII_LOCATION18_STREET": "735 Mason Center Suite 075",
+    "PII_LOCATION19_STREET": "49721 Trevino Via",
+    "PII_LOCATION20_STREET": "4456 Felicia Stravenue",
+    "PII_LOCATION21_STREET": "5717 Price Spur Apt. 481",
+    "PII_LOCATION22_STREET": "68017 Brewer Shoal Suite 225",
+    "PII_LOCATION23_STREET": "09137 Padilla Road Suite 965",
+    "PII_LOCATION24_STREET": "14779 Bradford Way",
+    "PII_LOCATION25_STREET": "90940 Mary Terrace",
+    "PII_LOCATION1_CITY": "Cohenborough",
+    "PII_LOCATION2_CITY": "Danielside",
+    "PII_LOCATION3_CITY": "Lake Dakota",
+    "PII_LOCATION4_CITY": "East Zacharychester",
+    "PII_LOCATION5_CITY": "West George",
+    "PII_LOCATION6_CITY": "Samanthafurt",
+    "PII_LOCATION7_CITY": "West Shannonchester",
+    "PII_LOCATION8_CITY": "Lake Michaelmouth",
+    "PII_LOCATION9_CITY": "Rasmussenmouth",
+    "PII_LOCATION10_CITY": "Andrewberg",
+    "PII_LOCATION11_CITY": "Rodriguezshire",
+    "PII_LOCATION12_CITY": "Martinezfort",
+    "PII_LOCATION13_CITY": "Coltonmouth",
+    "PII_LOCATION14_CITY": "Royhaven",
+    "PII_LOCATION15_CITY": "Sarahport",
+    "PII_LOCATION16_CITY": "West Jonathan",
+    "PII_LOCATION17_CITY": "Rogersmouth",
+    "PII_LOCATION18_CITY": "East Martinshire",
+    "PII_LOCATION19_CITY": "New Megan",
+    "PII_LOCATION20_CITY": "South Eric",
+    "PII_LOCATION21_CITY": "South Christine",
+    "PII_LOCATION22_CITY": "Laurashire",
+    "PII_LOCATION23_CITY": "South Tina",
+    "PII_LOCATION24_CITY": "Port Julie",
+    "PII_LOCATION25_CITY": "East Alan",
+    "PII_LOCATION1_POSTCODE": "02731",
+    "PII_LOCATION2_POSTCODE": "20948",
+    "PII_LOCATION3_POSTCODE": "03368",
+    "PII_LOCATION4_POSTCODE": "53181",
+    "PII_LOCATION5_POSTCODE": "42914",
+    "PII_LOCATION6_POSTCODE": "25919",
+    "PII_LOCATION7_POSTCODE": "79943",
+    "PII_LOCATION8_POSTCODE": "42187",
+    "PII_LOCATION9_POSTCODE": "23382",
+    "PII_LOCATION10_POSTCODE": "89517",
+    "PII_LOCATION11_POSTCODE": "51202",
+    "PII_LOCATION12_POSTCODE": "16514",
+    "PII_LOCATION13_POSTCODE": "23135",
+    "PII_LOCATION14_POSTCODE": "60042",
+    "PII_LOCATION15_POSTCODE": "31419",
+    "PII_LOCATION16_POSTCODE": "92433",
+    "PII_LOCATION17_POSTCODE": "55491",
+    "PII_LOCATION18_POSTCODE": "06743",
+    "PII_LOCATION19_POSTCODE": "77472",
+    "PII_LOCATION20_POSTCODE": "44128",
+    "PII_LOCATION21_POSTCODE": "41751",
+    "PII_LOCATION22_POSTCODE": "93159",
+    "PII_LOCATION23_POSTCODE": "21907",
+    "PII_LOCATION24_POSTCODE": "12557",
+    "PII_LOCATION25_POSTCODE": "80240",
+    "PII_LOCATION1_POSTCODE_EXT": "4931",
+    "PII_LOCATION2_POSTCODE_EXT": "4063",
+    "PII_LOCATION3_POSTCODE_EXT": "0469",
+    "PII_LOCATION4_POSTCODE_EXT": "7568",
+    "PII_LOCATION5_POSTCODE_EXT": "5477",
+    "PII_LOCATION6_POSTCODE_EXT": "2765",
+    "PII_LOCATION7_POSTCODE_EXT": "0036",
+    "PII_LOCATION8_POSTCODE_EXT": "8150",
+    "PII_LOCATION9_POSTCODE_EXT": "6453",
+    "PII_LOCATION10_POSTCODE_EXT": "9760",
+    "PII_LOCATION11_POSTCODE_EXT": "1108",
+    "PII_LOCATION12_POSTCODE_EXT": "7915",
+    "PII_LOCATION13_POSTCODE_EXT": "0719",
+    "PII_LOCATION14_POSTCODE_EXT": "0874",
+    "PII_LOCATION15_POSTCODE_EXT": "8389",
+    "PII_LOCATION16_POSTCODE_EXT": "6080",
+    "PII_LOCATION17_POSTCODE_EXT": "2317",
+    "PII_LOCATION18_POSTCODE_EXT": "1811",
+    "PII_LOCATION19_POSTCODE_EXT": "4724",
+    "PII_LOCATION20_POSTCODE_EXT": "4584",
+    "PII_LOCATION21_POSTCODE_EXT": "8244",
+    "PII_LOCATION22_POSTCODE_EXT": "8945",
+    "PII_LOCATION23_POSTCODE_EXT": "7725",
+    "PII_LOCATION24_POSTCODE_EXT": "1188",
+    "PII_LOCATION25_POSTCODE_EXT": "8228",
+    "PII_LOCATION1_POSTCODE_FULL": "02731-4931",
+    "PII_LOCATION2_POSTCODE_FULL": "20948-4063",
+    "PII_LOCATION3_POSTCODE_FULL": "03368-0469",
+    "PII_LOCATION4_POSTCODE_FULL": "53181-7568",
+    "PII_LOCATION5_POSTCODE_FULL": "42914-5477",
+    "PII_LOCATION6_POSTCODE_FULL": "25919-2765",
+    "PII_LOCATION7_POSTCODE_FULL": "79943-0036",
+    "PII_LOCATION8_POSTCODE_FULL": "42187-8150",
+    "PII_LOCATION9_POSTCODE_FULL": "23382-6453",
+    "PII_LOCATION10_POSTCODE_FULL": "89517-9760",
+    "PII_LOCATION11_POSTCODE_FULL": "51202-1108",
+    "PII_LOCATION12_POSTCODE_FULL": "16514-7915",
+    "PII_LOCATION13_POSTCODE_FULL": "23135-0719",
+    "PII_LOCATION14_POSTCODE_FULL": "60042-0874",
+    "PII_LOCATION15_POSTCODE_FULL": "31419-8389",
+    "PII_LOCATION16_POSTCODE_FULL": "92433-6080",
+    "PII_LOCATION17_POSTCODE_FULL": "55491-2317",
+    "PII_LOCATION18_POSTCODE_FULL": "06743-1811",
+    "PII_LOCATION19_POSTCODE_FULL": "77472-4724",
+    "PII_LOCATION20_POSTCODE_FULL": "44128-4584",
+    "PII_LOCATION21_POSTCODE_FULL": "41751-8244",
+    "PII_LOCATION22_POSTCODE_FULL": "93159-8945",
+    "PII_LOCATION23_POSTCODE_FULL": "21907-7725",
+    "PII_LOCATION24_POSTCODE_FULL": "12557-1188",
+    "PII_LOCATION25_POSTCODE_FULL": "80240-8228",
+    "PII_LOCATION1_CITY_STATE_ZIP": "Cohenborough, AL 02731",
+    "PII_LOCATION2_CITY_STATE_ZIP": "Danielside, AL 20948",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Lake Dakota, AL 03368",
+    "PII_LOCATION4_CITY_STATE_ZIP": "East Zacharychester, AL 53181",
+    "PII_LOCATION5_CITY_STATE_ZIP": "West George, AL 42914",
+    "PII_LOCATION6_CITY_STATE_ZIP": "Samanthafurt, AL 25919",
+    "PII_LOCATION7_CITY_STATE_ZIP": "West Shannonchester, AL 79943",
+    "PII_LOCATION8_CITY_STATE_ZIP": "Lake Michaelmouth, AL 42187",
+    "PII_LOCATION9_CITY_STATE_ZIP": "Rasmussenmouth, AL 23382",
+    "PII_LOCATION10_CITY_STATE_ZIP": "Andrewberg, AL 89517",
+    "PII_LOCATION11_CITY_STATE_ZIP": "Rodriguezshire, AL 51202",
+    "PII_LOCATION12_CITY_STATE_ZIP": "Martinezfort, AL 16514",
+    "PII_LOCATION13_CITY_STATE_ZIP": "Coltonmouth, AL 23135",
+    "PII_LOCATION14_CITY_STATE_ZIP": "Royhaven, AL 60042",
+    "PII_LOCATION15_CITY_STATE_ZIP": "Sarahport, AL 31419",
+    "PII_LOCATION16_CITY_STATE_ZIP": "West Jonathan, AL 92433",
+    "PII_LOCATION17_CITY_STATE_ZIP": "Rogersmouth, AL 55491",
+    "PII_LOCATION18_CITY_STATE_ZIP": "East Martinshire, AL 06743",
+    "PII_LOCATION19_CITY_STATE_ZIP": "New Megan, AL 77472",
+    "PII_LOCATION20_CITY_STATE_ZIP": "South Eric, AL 44128",
+    "PII_LOCATION21_CITY_STATE_ZIP": "South Christine, AL 41751",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Laurashire, AL 93159",
+    "PII_LOCATION23_CITY_STATE_ZIP": "South Tina, AL 21907",
+    "PII_LOCATION24_CITY_STATE_ZIP": "Port Julie, AL 12557",
+    "PII_LOCATION25_CITY_STATE_ZIP": "East Alan, AL 80240",
+    "PII_SECURITY_CODE": "10473",
+    "PII_DELIVERY_INSTRUCTIONS": "Signature required",
+    "PII_PROMO_CODE": "WINTER25",
+    "PII_STREET2": "",
+    "PII_POSTCODE2": "",
+    "PII_CITY_STATE_ZIP2": "",
+    "PII_STREET_2": "",
+    "PII_POSTCODE_2": "",
+    "PII_CITY_STATE_ZIP_2": "",
+    "PII_GIFT_FIRSTNAME": "Gregory",
+    "PII_GIFT_LASTNAME": "Salazar",
+    "PII_GIFT_FULLNAME": "Gregory Salazar",
+    "PII_GIFT_EMAIL": "gregorysalazar@gmail.com",
+    "PII_EMAIL2": "amber_smith@gmail.com",
+    "PII_EMAIL3": "amber_smith@gmail.com",
+    "PII_PHONE2": "6023592427",
+    "PII_PHONE3": "6023592427",
+    "PII_FULLNAME2": "Amber Smith",
+    "PII_FULLNAME3": "Amber Smith",
+    "PII_FIRSTNAME2": "Amber",
+    "PII_FIRSTNAME3": "Amber",
+    "PII_LASTNAME2": "Smith",
+    "PII_LASTNAME3": "Smith",
+    "PII_LOGIN_USERNAME2": "amber_smith",
+    "PII_LOGIN_USERNAME3": "amber_smith",
+    "PII_LOGIN_PASSWORD2": "@7B1NKto_T",
+    "PII_LOGIN_PASSWORD3": "@7B1NKto_T",
+    "SEED": 125833,
+    "ORDER_DATE": "August 24, 2021",
+    "ORDER_SHIPPING_DATE": "August 25, 2021",
+    "ORDER_DELIVERY_DATE": "September 01, 2021",
+    "ORDER_RETURN_BY_DATE": "September 28, 2021",
+    "PII_GIFT_MESSAGE": "I came across this beautiful photo and immediately thought of you and your love for horses. I hope it brings a touch of joy to your space and reminds you of all the beautiful moments we\u2019ve shared. Enjoy!  \nAmber",
+    "PRODUCT1_NAME": "Stone & Beam Modern Black and White Horse's Nose Photo",
+    "PRODUCT1_PRICE": 23.0,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/a1/a1b3a2ea.jpg",
+    "PRODUCT1_DESC": "Quality Stone for everyday use",
+    "PRODUCT1_RATING": 3.8,
+    "PRODUCT1_NUM_RATINGS": 10,
+    "PRODUCT1_QUANTITY": 1,
+    "PRODUCT1_BRAND": "Stone & Beam",
+    "PRODUCT1_ITEM_CATEGORY": "Photo",
+    "PRODUCT1_BREADCRUMB": [
+      "Home",
+      "Decor",
+      "Wall Art",
+      "Photography",
+      "Animal Photography"
+    ],
+    "PRODUCT2_NAME": "Arizona Desert Sand Horizon Photo with Wood Hanger",
+    "PRODUCT2_PRICE": 24.99,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/c6/c6889ed4.jpg",
+    "PRODUCT2_DESC": "Quality Arizona for everyday use",
+    "PRODUCT2_RATING": 4.4,
+    "PRODUCT2_NUM_RATINGS": 268,
+    "PRODUCT2_QUANTITY": 1,
+    "PRODUCT2_BRAND": "Generic",
+    "PRODUCT2_ITEM_CATEGORY": "Photo Print",
+    "PRODUCT3_NAME": "Modern Black and White Desert Cactus Photo Wall Art on Wood",
+    "PRODUCT3_PRICE": 31.99,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/f0/f0c6788b.jpg",
+    "PRODUCT3_DESC": "Quality Modern for everyday use",
+    "PRODUCT3_RATING": 4.7,
+    "PRODUCT3_NUM_RATINGS": 61,
+    "PRODUCT3_QUANTITY": 2,
+    "PRODUCT3_BRAND": "Generic",
+    "PRODUCT3_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT4_NAME": "Essentials A3 Poster Certificate Photo Frame 4 Set Picture Frames 29.7x42cm,White",
+    "PRODUCT4_PRICE": 62.49,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/4b/4b6462c4.jpg",
+    "PRODUCT4_DESC": "PACK OF FOUR: Our package includes 4 A3 29.7 x 42 cm Certificate photo frames suitable for A3 (11.8x16.6 inch) picture. Plexiglass sheet has protective film on both sides, please tear off it manually ",
+    "PRODUCT4_RATING": 4.4,
+    "PRODUCT4_NUM_RATINGS": 341,
+    "PRODUCT4_QUANTITY": 1,
+    "PRODUCT4_BRAND": "Essentials",
+    "PRODUCT4_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT5_NAME": "Essentials Double Photo Glass Frame Ideal for Family Photographs Baby Photographs and Wedding Photos",
+    "PRODUCT5_PRICE": 19.95,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/8f/8f37def3.jpg",
+    "PRODUCT5_DESC": "Glass frame with double pictures in the format 13 x 18 cm.",
+    "PRODUCT5_RATING": 3.8,
+    "PRODUCT5_NUM_RATINGS": 40,
+    "PRODUCT5_QUANTITY": 1,
+    "PRODUCT5_BRAND": "Essentials",
+    "PRODUCT5_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT6_NAME": "7x5 Photo Frame Vintage Metal Picture Frames for Desktop, 7 x 5 inch",
+    "PRODUCT6_PRICE": 15.95,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/cb/cb5f0d65.jpg",
+    "PRODUCT6_DESC": "ATTRACTIVE DESIGN. Antique 7x5 photo frames designed with engraved edge and crystal embellishment, it makes the picture frame noticeable and keep your photos standing out.",
+    "PRODUCT6_RATING": 4.1,
+    "PRODUCT6_NUM_RATINGS": 114,
+    "PRODUCT6_QUANTITY": 1,
+    "PRODUCT6_BRAND": "Generic",
+    "PRODUCT6_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT7_NAME": "Wooden Door to an Old City Photo Print",
+    "PRODUCT7_PRICE": 31.95,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/ab/abdc8684.jpg",
+    "PRODUCT7_DESC": "Quality Wooden for everyday use",
+    "PRODUCT7_RATING": 4.8,
+    "PRODUCT7_NUM_RATINGS": 54,
+    "PRODUCT7_QUANTITY": 2,
+    "PRODUCT7_BRAND": "Generic",
+    "PRODUCT7_ITEM_CATEGORY": "Photo Print",
+    "PRODUCT8_NAME": "Picture Frame, A5 Size, Photo Frame, Set of 2",
+    "PRODUCT8_PRICE": 12.0,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/66/6641c6b5.jpg",
+    "PRODUCT8_DESC": "Product Dimensions: 8.0 x 10.0 inches (202 x 253",
+    "PRODUCT8_RATING": 4.6,
+    "PRODUCT8_NUM_RATINGS": 77,
+    "PRODUCT8_QUANTITY": 1,
+    "PRODUCT8_BRAND": "Generic",
+    "PRODUCT8_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT9_NAME": "Stone & Beam Modern Black and White Cabin in Snow Photo Poster Print Framed Wall Art D\u00e9cor",
+    "PRODUCT9_PRICE": 23.99,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/bd/bd7eb4d6.jpg",
+    "PRODUCT9_DESC": "Quality Stone for everyday use",
+    "PRODUCT9_RATING": 3.7,
+    "PRODUCT9_NUM_RATINGS": 255,
+    "PRODUCT9_QUANTITY": 1,
+    "PRODUCT9_BRAND": "Stone & Beam",
+    "PRODUCT9_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT10_NAME": "Essentials Certificate Photo Frames 8.5x11 inch, Glass Picture Frame, 2 Pack",
+    "PRODUCT10_PRICE": 37.49,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/e6/e6645044.jpg",
+    "PRODUCT10_DESC": "DIMENSION. The package includes 2 piece 8.5 x 11 certificate frames, it\u2019s a great addition for your desk, dressing table, countertop and more.",
+    "PRODUCT10_RATING": 4.4,
+    "PRODUCT10_NUM_RATINGS": 159,
+    "PRODUCT10_QUANTITY": 2,
+    "PRODUCT10_BRAND": "Essentials",
+    "PRODUCT10_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT11_NAME": "Essentials 11x8.5 Photo Frames Rustic Picture Frame with White Border for Wall Hanging or Tabletop D",
+    "PRODUCT11_PRICE": 32.0,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/73/73261913.jpg",
+    "PRODUCT11_DESC": "MATERIAL: Distressed certificate frames made of recycle composite wood material, frame featuring with wood texture and accented with white edge finish adds elegance to your home and makes your photos ",
+    "PRODUCT11_RATING": 4.2,
+    "PRODUCT11_NUM_RATINGS": 26,
+    "PRODUCT11_QUANTITY": 7,
+    "PRODUCT11_BRAND": "Essentials",
+    "PRODUCT11_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT12_NAME": "Rivet Up Close Black and White Elephant Photo Canvas Print Wall Art Decor",
+    "PRODUCT12_PRICE": 65.49,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/36/36d64589.jpg",
+    "PRODUCT12_DESC": "Quality Rivet for everyday use",
+    "PRODUCT12_RATING": 3.8,
+    "PRODUCT12_NUM_RATINGS": 64,
+    "PRODUCT12_QUANTITY": 2,
+    "PRODUCT12_BRAND": "Rivet",
+    "PRODUCT12_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT13_NAME": "Essentials 5\"x7\" European Royal Photo Frame",
+    "PRODUCT13_PRICE": 52.0,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/61/611ce169.jpg",
+    "PRODUCT13_DESC": "DIMENSIONS: Total frame size: 7.8\" x 11\". Inner frame size: 5\" x 7\"",
+    "PRODUCT13_RATING": 4.7,
+    "PRODUCT13_NUM_RATINGS": 1022,
+    "PRODUCT13_QUANTITY": 1,
+    "PRODUCT13_BRAND": "Essentials",
+    "PRODUCT13_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT14_NAME": "Essentials 11x17 Poster Photo Frames Black Picture Frame 11 x 17 Set, Wall Hanging, 3 Pack",
+    "PRODUCT14_PRICE": 25.99,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/6c/6cbe01e1.jpg",
+    "PRODUCT14_DESC": "NOTE. Package comes with 3 piece 11x17 frames, there are protective film on the both side of front cover, please tear off it manually before use.",
+    "PRODUCT14_RATING": 4.2,
+    "PRODUCT14_NUM_RATINGS": 163,
+    "PRODUCT14_QUANTITY": 1,
+    "PRODUCT14_BRAND": "Essentials",
+    "PRODUCT14_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT15_NAME": "Essentials Collage Photo Frame with 12 Photos 10 x 15 cm Format Black",
+    "PRODUCT15_PRICE": 38.99,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/3b/3b2b618e.jpg",
+    "PRODUCT15_DESC": "Modern multi-picture gallery and special design as an eye-catcher in the living room or office.",
+    "PRODUCT15_RATING": 4.7,
+    "PRODUCT15_NUM_RATINGS": 38,
+    "PRODUCT15_QUANTITY": 1,
+    "PRODUCT15_BRAND": "Essentials",
+    "PRODUCT15_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT16_NAME": "Stone & Beam Modern Black and White Nautical Sailboat at Sea Photo Wall Art D\u00e9cor",
+    "PRODUCT16_PRICE": 38.49,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/62/6200f1de.jpg",
+    "PRODUCT16_DESC": "Quality Stone for everyday use",
+    "PRODUCT16_RATING": 4.3,
+    "PRODUCT16_NUM_RATINGS": 113,
+    "PRODUCT16_QUANTITY": 7,
+    "PRODUCT16_BRAND": "Stone & Beam",
+    "PRODUCT16_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT17_NAME": "Modern Black and White Photo of Bull Wall Art in Charcoal Frame",
+    "PRODUCT17_PRICE": 32.95,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/fa/fa19dbe4.jpg",
+    "PRODUCT17_DESC": "Quality Modern for everyday use",
+    "PRODUCT17_RATING": 3.8,
+    "PRODUCT17_NUM_RATINGS": 68,
+    "PRODUCT17_QUANTITY": 2,
+    "PRODUCT17_BRAND": "Generic",
+    "PRODUCT17_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT18_NAME": "DENY Designs Modern Black and White Desert Cactus Photo on Wood",
+    "PRODUCT18_PRICE": 41.95,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/31/3113bd73.jpg",
+    "PRODUCT18_DESC": "Quality DENY for everyday use",
+    "PRODUCT18_RATING": 4.2,
+    "PRODUCT18_NUM_RATINGS": 401,
+    "PRODUCT18_QUANTITY": 1,
+    "PRODUCT18_BRAND": "DENY Designs",
+    "PRODUCT18_ITEM_CATEGORY": "Photo Print",
+    "PRODUCT19_NAME": "Essentials 6x4 Black Photo Frame for Desktop Display and Wall Hanging, 2 Pack",
+    "PRODUCT19_PRICE": 29.79,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/72/725f68ac.jpg",
+    "PRODUCT19_DESC": "FRAME\u2019S FEATURE: 2 piece Picture Frames set in the same Sizes, 6x4 black photo frame decor any photograph, drawing, or portrait into a piece of elegant art!",
+    "PRODUCT19_RATING": 4.0,
+    "PRODUCT19_NUM_RATINGS": 1421,
+    "PRODUCT19_QUANTITY": 2,
+    "PRODUCT19_BRAND": "Essentials",
+    "PRODUCT19_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT20_NAME": "Stone & Beam Vintage Black and White Barn Door Photo",
+    "PRODUCT20_PRICE": 27.95,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/19/190d3509.jpg",
+    "PRODUCT20_DESC": "Quality Stone for everyday use",
+    "PRODUCT20_RATING": 4.7,
+    "PRODUCT20_NUM_RATINGS": 216,
+    "PRODUCT20_QUANTITY": 3,
+    "PRODUCT20_BRAND": "Stone & Beam",
+    "PRODUCT20_ITEM_CATEGORY": "Photo",
+    "PRODUCT21_NAME": "Essentials 7x5 Photo Frames Glass Mirrored Picture Frame 7 x 5 Set, 4 Pack, Tabletop Display",
+    "PRODUCT21_PRICE": 38.0,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/a5/a5eb5f51.jpg",
+    "PRODUCT21_DESC": "PACKAGE includes 4 piece 7x5 inch photo frames,the overall size of frame is about 9x7 inches,fits7x5 photo,it\u2019s a great addition for your desk, table, countertop and more.",
+    "PRODUCT21_RATING": 3.5,
+    "PRODUCT21_NUM_RATINGS": 499,
+    "PRODUCT21_QUANTITY": 2,
+    "PRODUCT21_BRAND": "Essentials",
+    "PRODUCT21_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT22_NAME": "Rivet Pink Tree Blossoms at the Villa Photo Print Wall Art",
+    "PRODUCT22_PRICE": 33.0,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/cb/cb176eb4.jpg",
+    "PRODUCT22_DESC": "Quality Rivet for everyday use",
+    "PRODUCT22_RATING": 4.2,
+    "PRODUCT22_NUM_RATINGS": 276,
+    "PRODUCT22_QUANTITY": 1,
+    "PRODUCT22_BRAND": "Rivet",
+    "PRODUCT22_ITEM_CATEGORY": "Photo Print",
+    "PRODUCT23_NAME": "Essentials 14x11 Photo Frames 4 Pack Rustic Wooden Poster Picture Frame for Wall Hanging, Brown",
+    "PRODUCT23_PRICE": 30.0,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/31/31e855eb.jpg",
+    "PRODUCT23_DESC": "MATERIAL: Distressed picture frames made of recycle composite wood material, frame featuring with wood texture and accented with white edge finish adds elegance to your home and makes your photos look",
+    "PRODUCT23_RATING": 3.5,
+    "PRODUCT23_NUM_RATINGS": 67,
+    "PRODUCT23_QUANTITY": 2,
+    "PRODUCT23_BRAND": "Essentials",
+    "PRODUCT23_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT24_NAME": "Essentials 7x5 Photo Picture Frames Ocean Themed with Seashell Starfish Pearl Decor, Wall Hanging an",
+    "PRODUCT24_PRICE": 39.0,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/6f/6fe0aeb2.jpg",
+    "PRODUCT24_DESC": "EYE-CATCHING. Oceanic theme with seashell, starfish, pearls decoration, beveled and mirrored border, all the details make the photo frames more attractive.",
+    "PRODUCT24_RATING": 4.3,
+    "PRODUCT24_NUM_RATINGS": 632,
+    "PRODUCT24_QUANTITY": 1,
+    "PRODUCT24_BRAND": "Essentials",
+    "PRODUCT24_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT25_NAME": "Rivet Up Close Black and White Elephant Photo Canvas Print Wall Art Decor",
+    "PRODUCT25_PRICE": 29.95,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/36/36d64589.jpg",
+    "PRODUCT25_DESC": "Quality Rivet for everyday use",
+    "PRODUCT25_RATING": 4.0,
+    "PRODUCT25_NUM_RATINGS": 84,
+    "PRODUCT25_QUANTITY": 2,
+    "PRODUCT25_BRAND": "Rivet",
+    "PRODUCT25_ITEM_CATEGORY": "Photo Print",
+    "PRODUCT26_NAME": "Essentials 10x8 Glass Photo Frame Picture Frames for Tabletop, Set of 2",
+    "PRODUCT26_PRICE": 14.79,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/fc/fcc3d583.jpg",
+    "PRODUCT26_DESC": "DIMENSIONS: Total frame size is about: 30.2x25.3cm(11.9x9.9inches). Slide-in loading is convenient for you to add 8x10 inch photos.",
+    "PRODUCT26_RATING": 4.2,
+    "PRODUCT26_NUM_RATINGS": 2955,
+    "PRODUCT26_QUANTITY": 2,
+    "PRODUCT26_BRAND": "Essentials",
+    "PRODUCT26_ITEM_CATEGORY": "Photo Frame",
+    "PRODUCT27_NAME": "365 Everyday Value, Organic 100% Juice Flavored Juice Blend from Concentrate, Cranberry Pomegranate,",
+    "PRODUCT27_PRICE": 29.95,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/cf/cf8ccbaf.jpg",
+    "PRODUCT27_DESC": "Brought to you by Whole Foods Market.\u00a0 The packaging for this product has a fresh new look. During this transition, you may get the original packaging or the new packaging in your order, but the produ",
+    "PRODUCT27_RATING": 4.7,
+    "PRODUCT27_NUM_RATINGS": 344,
+    "PRODUCT27_QUANTITY": 3,
+    "PRODUCT27_BRAND": "365 Everyday Value",
+    "PRODUCT27_ITEM_CATEGORY": "Juice",
+    "PRODUCT28_NAME": "Women's 137.27 Espadrilles, Multicolour Snake, 8 us",
+    "PRODUCT28_PRICE": 47.79,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/6d/6da4d111.jpg",
+    "PRODUCT28_DESC": "Snakeskin effect uppers",
+    "PRODUCT28_RATING": 3.6,
+    "PRODUCT28_NUM_RATINGS": 92,
+    "PRODUCT28_QUANTITY": 4,
+    "PRODUCT28_BRAND": "Generic",
+    "PRODUCT28_ITEM_CATEGORY": "Footwear",
+    "PRODUCT29_NAME": "365 Everyday Value, Witch Hazel, 16 fl oz",
+    "PRODUCT29_PRICE": 23.49,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/1d/1d0e7b0f.jpg",
+    "PRODUCT29_DESC": "Brought to you by Whole Foods Market.\u00a0 The packaging for this product has a fresh new look. During this transition, you may get the original packaging or the new packaging in your order, but the produ",
+    "PRODUCT29_RATING": 4.5,
+    "PRODUCT29_NUM_RATINGS": 65,
+    "PRODUCT29_QUANTITY": 2,
+    "PRODUCT29_BRAND": "365 Everyday Value",
+    "PRODUCT29_ITEM_CATEGORY": "Witch Hazel",
+    "PRODUCT30_NAME": "Pike Street 100% Egyptian Cotton 725-Gram 6-Piece Towel Set",
+    "PRODUCT30_PRICE": 52.95,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/75/75b4720f.jpg",
+    "PRODUCT30_DESC": "6-piece towel set with 2 bath towels, 2 hand towels, and 2 washcloths",
+    "PRODUCT30_RATING": 4.3,
+    "PRODUCT30_NUM_RATINGS": 23,
+    "PRODUCT30_QUANTITY": 5,
+    "PRODUCT30_BRAND": "Pike Street",
+    "PRODUCT30_ITEM_CATEGORY": "Towel Set"
+  },
+  "company": "crate-barrel",
+  "page_type": "billing-address",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 1253,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "CART_NUM_ITEMS",
+    "PII_STATE",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_FIRSTNAME",
+    "PII_LASTNAME",
+    "PII_STREET",
+    "PII_STREET_2",
+    "PII_POSTCODE",
+    "PII_CITY",
+    "PII_STATE",
+    "PII_PHONE",
+    "PII_EMAIL"
+  ],
+  "source_image": "data/ui_images/billing-address/4226-crate-barrel-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/crate-barrel/billing-address/4226/20260115_045715",
+  "reproduction_status": "unknown",
+  "split": "train",
+  "detection_stats": {
+    "pii_found": 9,
+    "pii_visible": 9,
+    "pii_fillable": 9,
+    "products_found": 0,
+    "products_visible": 0,
+    "search_found": 0,
+    "search_visible": 0,
+    "containers_found": 8,
+    "boxes_drawn": 9
+  },
+  "pii_elements": [
+    {
+      "key": "PII_STATE",
+      "value": "Alabama",
+      "bbox": {
+        "x": 340,
+        "y": 617,
+        "width": 260,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_FIRSTNAME",
+      "value": "Amber",
+      "bbox": {
+        "x": 40,
+        "y": 315,
+        "width": 343,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_LASTNAME",
+      "value": "Smith",
+      "bbox": {
+        "x": 407,
+        "y": 315,
+        "width": 343,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "669 Shaffer Avenue Suite 500",
+      "bbox": {
+        "x": 40,
+        "y": 390.5,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET2",
+      "value": "",
+      "bbox": {
+        "x": 40,
+        "y": 466,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "93776",
+      "bbox": {
+        "x": 40,
+        "y": 541.5,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_CITY",
+      "value": "Lake Lisa",
+      "bbox": {
+        "x": 40,
+        "y": 617,
+        "width": 220,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE",
+      "value": "6023592427",
+      "bbox": {
+        "x": 40,
+        "y": 692.5,
+        "width": 220,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL",
+      "value": "amber_smith@gmail.com",
+      "bbox": {
+        "x": 40,
+        "y": 768,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "product_elements": [],
+  "search_elements": [],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 315,
+        "width": 343,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 407,
+        "y": 315,
+        "width": 343,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 390.5,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 466,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 541.5,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 617,
+        "width": 220,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 692.5,
+        "width": 220,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 40,
+        "y": 768,
+        "width": 710,
+        "height": 36
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "email input field"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_POSTCODE",
+      "PII_FIRSTNAME",
+      "PII_PHONE",
+      "PII_CITY",
+      "PII_EMAIL",
+      "PII_STATE",
+      "PII_LASTNAME",
+      "PII_STREET2",
+      "PII_STREET"
+    ],
+    "count": 9
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T23:14:34.814295",
+  "_meta": {
+    "anchor_product": "Stone & Beam Modern Black and White Horse's Nose Photo",
+    "product_category": "photo",
+    "search_term": "photo",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_FIRSTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Am",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_FIRSTNAME",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "Am",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_LASTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Sm",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "partial",
+              "char_count": 2,
+              "displayed_value": "Sm",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_STREET",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer ",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET",
+              "fill_status": "partial",
+              "char_count": 12,
+              "displayed_value": "669 Shaffer ",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 3,
+      "field_name": "PII_STREET_2",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_03.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 4,
+      "field_name": "PII_POSTCODE",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_04.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "9",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "9",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 5,
+      "field_name": "PII_CITY",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_05.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "93776",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "Lake",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_CITY",
+              "fill_status": "partial",
+              "char_count": 4,
+              "displayed_value": "Lake",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 6,
+      "field_name": "PII_STATE",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_06.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "93776",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "Lake Lisa",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STATE",
+              "fill_status": "partial",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 7,
+      "field_name": "PII_PHONE",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_07.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "Alabama",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "93776",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "Lake Lisa",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "602",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "602",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 8,
+      "field_name": "PII_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/8050_partial_08.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_STATE",
+            "value": "Alabama",
+            "bbox": {
+              "x": 340,
+              "y": 617,
+              "width": 260,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Amber",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Smith",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "669 Shaffer Avenue Suite 500",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "93776",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_CITY",
+            "value": "Lake Lisa",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "6023592427",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "amber_smith@gmai",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 407,
+              "y": 315,
+              "width": 343,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 390.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 466,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 541.5,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 617,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 692.5,
+              "width": 220,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 40,
+              "y": 768,
+              "width": 710,
+              "height": 36
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "email input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "partial",
+              "char_count": 16,
+              "displayed_value": "amber_smith@gmai",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/8050_empty.png",
+    "detection_stats": {
+      "pii_found": 9,
+      "pii_visible": 9,
+      "products_found": 0,
+      "products_visible": 0,
+      "search_found": 0,
+      "search_visible": 0
+    },
+    "pii_elements": [
+      {
+        "key": "PII_STATE",
+        "value": "",
+        "bbox": {
+          "x": 340,
+          "y": 617,
+          "width": 260,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_FIRSTNAME",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 315,
+          "width": 343,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_LASTNAME",
+        "value": "",
+        "bbox": {
+          "x": 407,
+          "y": 315,
+          "width": 343,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 390.5,
+          "width": 710,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET2",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 466,
+          "width": 710,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 541.5,
+          "width": 710,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_CITY",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 617,
+          "width": 220,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 692.5,
+          "width": 220,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 40,
+          "y": 768,
+          "width": 710,
+          "height": 36
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "input",
+        "line_index": null
+      }
+    ],
+    "product_elements": [],
+    "search_elements": []
+  }
+}

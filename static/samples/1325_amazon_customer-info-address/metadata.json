@@ -1,0 +1,4443 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/1325.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Matthew",
+    "PII_LASTNAME": "Sheppard",
+    "PII_FULLNAME": "Matthew Sheppard",
+    "PII_LOGIN_USERNAME": "matthewsheppard61",
+    "PII_LOGIN_PASSWORD": "ev1j*ntR8*@(H",
+    "PII_LOGIN_PASSWORD_CONFIRM": "ev1j*ntR8*@(H",
+    "PII_CARD_TYPE": "Visa",
+    "PII_CARD_NUMBER": "4368 2821 3071 4019",
+    "PII_CARD_LAST4": "4019",
+    "PII_CARD_EXPIRY": "03/30",
+    "PII_CARD_EXPIRY_MONTH": "03",
+    "PII_CARD_EXPIRY_YEAR": "30",
+    "PII_CARD_CVV": "848",
+    "PII_CARD_IMAGE": "/payment_methods/visa_brandmark_blue.png",
+    "PII_EMAIL": "matthew_sheppard@hotmail.com",
+    "PII_DOB": "05/15/1951",
+    "PII_DOB_ISO": "1951-05-15",
+    "PII_DOB_LONG": "May 15, 1951",
+    "PII_DOB_MONTH": "05",
+    "PII_DOB_DAY": "15",
+    "PII_DOB_YEAR": "1951",
+    "PII_COMPANY": "Robles PLC",
+    "PII_PO_NUMBER": "273966",
+    "PII_JOB_CODE": "PRJ-7809-66",
+    "PII_PHONE": "3175498318",
+    "PII_PHONE_AREA": "317",
+    "PII_PHONE_PREFIX": "549",
+    "PII_PHONE_LINE": "8318",
+    "PII_PHONE_SUFFIX": "8318",
+    "PII_PHONE_ALT": "",
+    "PII_PHONE_ALT_AREA": "",
+    "PII_PHONE_ALT_PREFIX": "",
+    "PII_PHONE_ALT_LINE": "",
+    "PII_PHONE_ALT_SUFFIX": "",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=male",
+    "PII_ADDRESS": "530 Kevin Stream, Tiffanyview, FL 72859",
+    "PII_STREET": "530 Kevin Stream",
+    "PII_CITY": "Tiffanyview",
+    "PII_STATE": "Florida",
+    "PII_STATE_ABBR": "FL",
+    "PII_POSTCODE": "72859",
+    "PII_POSTCODE_EXT": "1177",
+    "PII_POSTCODE_FULL": "72859-1177",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "Tiffanyview, FL",
+    "PII_CITY_STATE_ZIP": "Tiffanyview, FL 72859",
+    "PII_CITY2": "South Rebeccaborough",
+    "PII_STATE2": "Massachusetts",
+    "PII_STATE_ABBR2": "MA",
+    "PII_CITY_STATE2": "South Rebeccaborough, MA",
+    "PII_CITY3": "Davidview",
+    "PII_STATE3": "Kansas",
+    "PII_STATE_ABBR3": "KS",
+    "PII_CITY_STATE3": "Davidview, KS",
+    "PII_LOCATION1_STREET": "7068 Rivera Springs",
+    "PII_LOCATION2_STREET": "6030 Maurice Parkway",
+    "PII_LOCATION3_STREET": "79141 Harvey Meadow",
+    "PII_LOCATION4_STREET": "3286 Julie Knoll",
+    "PII_LOCATION5_STREET": "32901 Lucas Falls Apt. 970",
+    "PII_LOCATION6_STREET": "008 Alec Pike",
+    "PII_LOCATION7_STREET": "4040 Adams Squares",
+    "PII_LOCATION8_STREET": "509 Jones Street Apt. 220",
+    "PII_LOCATION9_STREET": "425 Woods Trafficway",
+    "PII_LOCATION10_STREET": "090 Larry Way",
+    "PII_LOCATION11_STREET": "08378 Robert Fort Suite 812",
+    "PII_LOCATION12_STREET": "38014 Barrera Fort Apt. 121",
+    "PII_LOCATION13_STREET": "93600 Katie Unions Apt. 996",
+    "PII_LOCATION14_STREET": "327 Karen Ferry Apt. 618",
+    "PII_LOCATION15_STREET": "2076 Maria Walks Apt. 795",
+    "PII_LOCATION16_STREET": "627 Stewart Roads",
+    "PII_LOCATION17_STREET": "3157 Reid Unions Suite 019",
+    "PII_LOCATION18_STREET": "351 Bright Corner",
+    "PII_LOCATION19_STREET": "6940 Timothy Road",
+    "PII_LOCATION20_STREET": "993 Suarez Terrace Apt. 568",
+    "PII_LOCATION21_STREET": "60601 Steven Lane Suite 083",
+    "PII_LOCATION22_STREET": "97560 Gerald Fort Apt. 117",
+    "PII_LOCATION23_STREET": "1894 Berry Hills",
+    "PII_LOCATION24_STREET": "04949 Melanie Estates",
+    "PII_LOCATION25_STREET": "64680 Natalie Club",
+    "PII_LOCATION1_CITY": "Edwardport",
+    "PII_LOCATION2_CITY": "Ryanland",
+    "PII_LOCATION3_CITY": "Jeremyhaven",
+    "PII_LOCATION4_CITY": "East Matthewstad",
+    "PII_LOCATION5_CITY": "Cantuview",
+    "PII_LOCATION6_CITY": "South Briantown",
+    "PII_LOCATION7_CITY": "New Kyle",
+    "PII_LOCATION8_CITY": "East Rodneyland",
+    "PII_LOCATION9_CITY": "West Karenhaven",
+    "PII_LOCATION10_CITY": "Lake Jason",
+    "PII_LOCATION11_CITY": "East William",
+    "PII_LOCATION12_CITY": "New Samanthaport",
+    "PII_LOCATION13_CITY": "Johnsonview",
+    "PII_LOCATION14_CITY": "Lake Rogerland",
+    "PII_LOCATION15_CITY": "East Scott",
+    "PII_LOCATION16_CITY": "Lake Thomas",
+    "PII_LOCATION17_CITY": "Rodriguezburgh",
+    "PII_LOCATION18_CITY": "Lake Johntown",
+    "PII_LOCATION19_CITY": "West Tammyfort",
+    "PII_LOCATION20_CITY": "East Jeffrey",
+    "PII_LOCATION21_CITY": "Bensonshire",
+    "PII_LOCATION22_CITY": "Lake Ryan",
+    "PII_LOCATION23_CITY": "Hancockburgh",
+    "PII_LOCATION24_CITY": "Brewerville",
+    "PII_LOCATION25_CITY": "South Jamie",
+    "PII_LOCATION1_POSTCODE": "81931",
+    "PII_LOCATION2_POSTCODE": "53237",
+    "PII_LOCATION3_POSTCODE": "46017",
+    "PII_LOCATION4_POSTCODE": "75843",
+    "PII_LOCATION5_POSTCODE": "33385",
+    "PII_LOCATION6_POSTCODE": "63657",
+    "PII_LOCATION7_POSTCODE": "84148",
+    "PII_LOCATION8_POSTCODE": "84147",
+    "PII_LOCATION9_POSTCODE": "62395",
+    "PII_LOCATION10_POSTCODE": "72363",
+    "PII_LOCATION11_POSTCODE": "54835",
+    "PII_LOCATION12_POSTCODE": "33596",
+    "PII_LOCATION13_POSTCODE": "22500",
+    "PII_LOCATION14_POSTCODE": "06222",
+    "PII_LOCATION15_POSTCODE": "42058",
+    "PII_LOCATION16_POSTCODE": "05464",
+    "PII_LOCATION17_POSTCODE": "91331",
+    "PII_LOCATION18_POSTCODE": "10481",
+    "PII_LOCATION19_POSTCODE": "92752",
+    "PII_LOCATION20_POSTCODE": "56791",
+    "PII_LOCATION21_POSTCODE": "02185",
+    "PII_LOCATION22_POSTCODE": "18054",
+    "PII_LOCATION23_POSTCODE": "09848",
+    "PII_LOCATION24_POSTCODE": "00902",
+    "PII_LOCATION25_POSTCODE": "04927",
+    "PII_LOCATION1_POSTCODE_EXT": "5615",
+    "PII_LOCATION2_POSTCODE_EXT": "4643",
+    "PII_LOCATION3_POSTCODE_EXT": "5933",
+    "PII_LOCATION4_POSTCODE_EXT": "3976",
+    "PII_LOCATION5_POSTCODE_EXT": "1414",
+    "PII_LOCATION6_POSTCODE_EXT": "3132",
+    "PII_LOCATION7_POSTCODE_EXT": "0837",
+    "PII_LOCATION8_POSTCODE_EXT": "1845",
+    "PII_LOCATION9_POSTCODE_EXT": "9610",
+    "PII_LOCATION10_POSTCODE_EXT": "9007",
+    "PII_LOCATION11_POSTCODE_EXT": "6671",
+    "PII_LOCATION12_POSTCODE_EXT": "3538",
+    "PII_LOCATION13_POSTCODE_EXT": "9481",
+    "PII_LOCATION14_POSTCODE_EXT": "4911",
+    "PII_LOCATION15_POSTCODE_EXT": "3691",
+    "PII_LOCATION16_POSTCODE_EXT": "9732",
+    "PII_LOCATION17_POSTCODE_EXT": "4335",
+    "PII_LOCATION18_POSTCODE_EXT": "7064",
+    "PII_LOCATION19_POSTCODE_EXT": "9743",
+    "PII_LOCATION20_POSTCODE_EXT": "3432",
+    "PII_LOCATION21_POSTCODE_EXT": "7879",
+    "PII_LOCATION22_POSTCODE_EXT": "9305",
+    "PII_LOCATION23_POSTCODE_EXT": "5251",
+    "PII_LOCATION24_POSTCODE_EXT": "3224",
+    "PII_LOCATION25_POSTCODE_EXT": "5276",
+    "PII_LOCATION1_POSTCODE_FULL": "81931-5615",
+    "PII_LOCATION2_POSTCODE_FULL": "53237-4643",
+    "PII_LOCATION3_POSTCODE_FULL": "46017-5933",
+    "PII_LOCATION4_POSTCODE_FULL": "75843-3976",
+    "PII_LOCATION5_POSTCODE_FULL": "33385-1414",
+    "PII_LOCATION6_POSTCODE_FULL": "63657-3132",
+    "PII_LOCATION7_POSTCODE_FULL": "84148-0837",
+    "PII_LOCATION8_POSTCODE_FULL": "84147-1845",
+    "PII_LOCATION9_POSTCODE_FULL": "62395-9610",
+    "PII_LOCATION10_POSTCODE_FULL": "72363-9007",
+    "PII_LOCATION11_POSTCODE_FULL": "54835-6671",
+    "PII_LOCATION12_POSTCODE_FULL": "33596-3538",
+    "PII_LOCATION13_POSTCODE_FULL": "22500-9481",
+    "PII_LOCATION14_POSTCODE_FULL": "06222-4911",
+    "PII_LOCATION15_POSTCODE_FULL": "42058-3691",
+    "PII_LOCATION16_POSTCODE_FULL": "05464-9732",
+    "PII_LOCATION17_POSTCODE_FULL": "91331-4335",
+    "PII_LOCATION18_POSTCODE_FULL": "10481-7064",
+    "PII_LOCATION19_POSTCODE_FULL": "92752-9743",
+    "PII_LOCATION20_POSTCODE_FULL": "56791-3432",
+    "PII_LOCATION21_POSTCODE_FULL": "02185-7879",
+    "PII_LOCATION22_POSTCODE_FULL": "18054-9305",
+    "PII_LOCATION23_POSTCODE_FULL": "09848-5251",
+    "PII_LOCATION24_POSTCODE_FULL": "00902-3224",
+    "PII_LOCATION25_POSTCODE_FULL": "04927-5276",
+    "PII_LOCATION1_CITY_STATE_ZIP": "Edwardport, FL 81931",
+    "PII_LOCATION2_CITY_STATE_ZIP": "Ryanland, FL 53237",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Jeremyhaven, FL 46017",
+    "PII_LOCATION4_CITY_STATE_ZIP": "East Matthewstad, FL 75843",
+    "PII_LOCATION5_CITY_STATE_ZIP": "Cantuview, FL 33385",
+    "PII_LOCATION6_CITY_STATE_ZIP": "South Briantown, FL 63657",
+    "PII_LOCATION7_CITY_STATE_ZIP": "New Kyle, FL 84148",
+    "PII_LOCATION8_CITY_STATE_ZIP": "East Rodneyland, FL 84147",
+    "PII_LOCATION9_CITY_STATE_ZIP": "West Karenhaven, FL 62395",
+    "PII_LOCATION10_CITY_STATE_ZIP": "Lake Jason, FL 72363",
+    "PII_LOCATION11_CITY_STATE_ZIP": "East William, FL 54835",
+    "PII_LOCATION12_CITY_STATE_ZIP": "New Samanthaport, FL 33596",
+    "PII_LOCATION13_CITY_STATE_ZIP": "Johnsonview, FL 22500",
+    "PII_LOCATION14_CITY_STATE_ZIP": "Lake Rogerland, FL 06222",
+    "PII_LOCATION15_CITY_STATE_ZIP": "East Scott, FL 42058",
+    "PII_LOCATION16_CITY_STATE_ZIP": "Lake Thomas, FL 05464",
+    "PII_LOCATION17_CITY_STATE_ZIP": "Rodriguezburgh, FL 91331",
+    "PII_LOCATION18_CITY_STATE_ZIP": "Lake Johntown, FL 10481",
+    "PII_LOCATION19_CITY_STATE_ZIP": "West Tammyfort, FL 92752",
+    "PII_LOCATION20_CITY_STATE_ZIP": "East Jeffrey, FL 56791",
+    "PII_LOCATION21_CITY_STATE_ZIP": "Bensonshire, FL 02185",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Lake Ryan, FL 18054",
+    "PII_LOCATION23_CITY_STATE_ZIP": "Hancockburgh, FL 09848",
+    "PII_LOCATION24_CITY_STATE_ZIP": "Brewerville, FL 00902",
+    "PII_LOCATION25_CITY_STATE_ZIP": "South Jamie, FL 04927",
+    "PII_SECURITY_CODE": "1622",
+    "PII_DELIVERY_INSTRUCTIONS": "Signature required",
+    "PII_PROMO_CODE": "SUMMER45",
+    "PII_STREET2": "0764 Ryan Estates Apt. 392",
+    "PII_POSTCODE2": "27126",
+    "PII_CITY_STATE_ZIP2": "Tiffanyview, FL 27126",
+    "PII_STREET_2": "0764 Ryan Estates Apt. 392",
+    "PII_POSTCODE_2": "27126",
+    "PII_CITY_STATE_ZIP_2": "Tiffanyview, FL 27126",
+    "PII_GIFT_FIRSTNAME": "Shannon",
+    "PII_GIFT_LASTNAME": "Carter",
+    "PII_GIFT_FULLNAME": "Shannon Carter",
+    "PII_GIFT_EMAIL": "shannon.carter@gmail.com",
+    "PII_EMAIL2": "matthew_sheppard@hotmail.com",
+    "PII_EMAIL3": "matthew_sheppard@hotmail.com",
+    "PII_PHONE2": "3175498318",
+    "PII_PHONE3": "3175498318",
+    "PII_FULLNAME2": "Matthew Sheppard",
+    "PII_FULLNAME3": "Matthew Sheppard",
+    "PII_FIRSTNAME2": "Matthew",
+    "PII_FIRSTNAME3": "Matthew",
+    "PII_LASTNAME2": "Sheppard",
+    "PII_LASTNAME3": "Sheppard",
+    "PII_LOGIN_USERNAME2": "matthewsheppard61",
+    "PII_LOGIN_USERNAME3": "matthewsheppard61",
+    "PII_LOGIN_PASSWORD2": "ev1j*ntR8*@(H",
+    "PII_LOGIN_PASSWORD3": "ev1j*ntR8*@(H",
+    "SEED": 601430,
+    "ORDER_DATE": "December 25, 2023",
+    "ORDER_SHIPPING_DATE": "December 26, 2023",
+    "ORDER_DELIVERY_DATE": "January 01, 2024",
+    "ORDER_RETURN_BY_DATE": "January 30, 2024",
+    "PII_GIFT_MESSAGE": "Hey Shannon! I thought this neck gaiter would be perfect for your next fishing trip\u2014keeps you cozy and protected from the wind! Hope it makes your days outdoors even better.  \nMatthew",
+    "PRODUCT1_NAME": "OUXX Ear Loop Neck Gaiter, Reusable Washable Cloth Face Scarf Bandana Balaclava Men's Women's for Du",
+    "PRODUCT1_PRICE": 13.99,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/21/2177a28d.jpg",
+    "PRODUCT1_DESC": "Quality OUXX for everyday use",
+    "PRODUCT1_RATING": 3.9,
+    "PRODUCT1_NUM_RATINGS": 183,
+    "PRODUCT1_QUANTITY": 1,
+    "PRODUCT1_BRAND": "OUXX",
+    "PRODUCT1_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT1_BREADCRUMB": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Face Masks & Coverings",
+      "Neck Gaiters"
+    ],
+    "PRODUCT2_NAME": "Essential Classic Solid Color Dog Collar in Navy, X-Small, Neck 21cm-28cm, Adjustable Collars for Do",
+    "PRODUCT2_PRICE": 10.95,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/de/def781cc.jpg",
+    "PRODUCT2_DESC": "Quality Essential for everyday use",
+    "PRODUCT2_RATING": 4.2,
+    "PRODUCT2_NUM_RATINGS": 340,
+    "PRODUCT2_QUANTITY": 1,
+    "PRODUCT2_BRAND": "Essential",
+    "PRODUCT2_ITEM_CATEGORY": "Dog Collar",
+    "PRODUCT3_NAME": "Ristake Neck Gaiters, Face Bandana Neck Gaiter Face Scarf Balaclava for Sun Dust Wind, 1 Pack, Multi",
+    "PRODUCT3_PRICE": 12.99,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/ea/eaf04391.jpg",
+    "PRODUCT3_DESC": "Quality Ristake for everyday use",
+    "PRODUCT3_RATING": 4.4,
+    "PRODUCT3_NUM_RATINGS": 110,
+    "PRODUCT3_QUANTITY": 1,
+    "PRODUCT3_BRAND": "Ristake",
+    "PRODUCT3_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT4_NAME": "WXXM Ear Loops Face Cover Breathable Face Scarf Sun UV Protection Neck Gaiter 1 Piece Grey",
+    "PRODUCT4_PRICE": 12.99,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/9e/9ee86af8.jpg",
+    "PRODUCT4_DESC": "Quality WXXM for everyday use",
+    "PRODUCT4_RATING": 4.2,
+    "PRODUCT4_NUM_RATINGS": 260,
+    "PRODUCT4_QUANTITY": 9,
+    "PRODUCT4_BRAND": "WXXM",
+    "PRODUCT4_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT5_NAME": "SuMade Unisex Headwear Face Cover Headband Magic Scarf Neck Gaiter Bandanas",
+    "PRODUCT5_PRICE": 11.99,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/0c/0c61262a.jpg",
+    "PRODUCT5_DESC": "Quality SuMade for everyday use",
+    "PRODUCT5_RATING": 4.6,
+    "PRODUCT5_NUM_RATINGS": 524,
+    "PRODUCT5_QUANTITY": 1,
+    "PRODUCT5_BRAND": "SuMade",
+    "PRODUCT5_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT6_NAME": "Bun Large Seamless Face Scarf Bandana with Ear Loops Balaclava Neck Gaiter for Outdoor Sport, 1 Pack",
+    "PRODUCT6_PRICE": 11.99,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/70/7020f46d.jpg",
+    "PRODUCT6_DESC": "Quality Bun for everyday use",
+    "PRODUCT6_RATING": 4.3,
+    "PRODUCT6_NUM_RATINGS": 39,
+    "PRODUCT6_QUANTITY": 3,
+    "PRODUCT6_BRAND": "Bun",
+    "PRODUCT6_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT7_NAME": "JPGO Men Face Scarf with Ear Loops Breathable Flag Pattern Neck Gaiter 1 Pack",
+    "PRODUCT7_PRICE": 18.99,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/18/18d42d25.jpg",
+    "PRODUCT7_DESC": "Quality JPGO for everyday use",
+    "PRODUCT7_RATING": 4.0,
+    "PRODUCT7_NUM_RATINGS": 10,
+    "PRODUCT7_QUANTITY": 1,
+    "PRODUCT7_BRAND": "JPGO",
+    "PRODUCT7_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT8_NAME": "Ear Loops Balaclava, Hissox Womens Mens Comfort Bandana Face Scarf Bandana Mask Neck Gaiters Outdoor",
+    "PRODUCT8_PRICE": 20.79,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/22/22debfd1.jpg",
+    "PRODUCT8_DESC": "Quality Ear for everyday use",
+    "PRODUCT8_RATING": 4.1,
+    "PRODUCT8_NUM_RATINGS": 772,
+    "PRODUCT8_QUANTITY": 7,
+    "PRODUCT8_BRAND": "Hissox",
+    "PRODUCT8_ITEM_CATEGORY": "Bandana",
+    "PRODUCT9_NAME": "Bun Large Summer Face Mask Neck Gaiter Bandana Protective Face Cover for Outdoors Colour 04",
+    "PRODUCT9_PRICE": 16.99,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/06/06eedf35.jpg",
+    "PRODUCT9_DESC": "Quality Bun for everyday use",
+    "PRODUCT9_RATING": 4.6,
+    "PRODUCT9_NUM_RATINGS": 142,
+    "PRODUCT9_QUANTITY": 1,
+    "PRODUCT9_BRAND": "Bun",
+    "PRODUCT9_ITEM_CATEGORY": "Face Mask",
+    "PRODUCT10_NAME": "OUXX Ear Loop Neck Gaiter, Reusable Washable Cloth Face Scarf Bandana Balaclava Men's Women's for Du",
+    "PRODUCT10_PRICE": 12.99,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/64/64e2ad64.jpg",
+    "PRODUCT10_DESC": "Quality OUXX for everyday use",
+    "PRODUCT10_RATING": 4.7,
+    "PRODUCT10_NUM_RATINGS": 124,
+    "PRODUCT10_QUANTITY": 1,
+    "PRODUCT10_BRAND": "OUXX",
+    "PRODUCT10_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT11_NAME": "JPGO Women Neck Gaiter Ear Loops Cooling Face Cover Scarf Dust Wind Proof Badana Black Flag 1 Pack",
+    "PRODUCT11_PRICE": 13.49,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/b4/b421fb26.jpg",
+    "PRODUCT11_DESC": "Quality JPGO for everyday use",
+    "PRODUCT11_RATING": 4.6,
+    "PRODUCT11_NUM_RATINGS": 294,
+    "PRODUCT11_QUANTITY": 1,
+    "PRODUCT11_BRAND": "JPGO",
+    "PRODUCT11_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT12_NAME": "CGTL Ear Loops Neck Gaiter Motocycle Biking Face Scarf Stylish Earloops Face Bandana for Dust Wind U",
+    "PRODUCT12_PRICE": 12.79,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/e9/e9c34ff4.jpg",
+    "PRODUCT12_DESC": "Quality CGTL for everyday use",
+    "PRODUCT12_RATING": 3.6,
+    "PRODUCT12_NUM_RATINGS": 423,
+    "PRODUCT12_QUANTITY": 1,
+    "PRODUCT12_BRAND": "CGLT",
+    "PRODUCT12_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT13_NAME": "Bun Large Unisex Men Women Face Scarf Bandana Ear Loops Face Neck Gaiter Headwrap Balaclava Neck Gai",
+    "PRODUCT13_PRICE": 18.95,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/1a/1a780c35.jpg",
+    "PRODUCT13_DESC": "Quality Bun for everyday use",
+    "PRODUCT13_RATING": 4.6,
+    "PRODUCT13_NUM_RATINGS": 332,
+    "PRODUCT13_QUANTITY": 1,
+    "PRODUCT13_BRAND": "Bun",
+    "PRODUCT13_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT14_NAME": "Face Mask Bandanas Neck Gaiter?Taloyone Face Balaclava Non Slip Light Cool Breathable for Sun Wind D",
+    "PRODUCT14_PRICE": 18.79,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/7e/7ec3a3ed.jpg",
+    "PRODUCT14_DESC": "Quality Face for everyday use",
+    "PRODUCT14_RATING": 4.5,
+    "PRODUCT14_NUM_RATINGS": 311,
+    "PRODUCT14_QUANTITY": 1,
+    "PRODUCT14_BRAND": "Taloyone",
+    "PRODUCT14_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT15_NAME": "BINACL Neck Gaiter Filter Ear Loops Bandana, Men Women Seamless Ice Silk Ear Loops Rave Face Mask Pu",
+    "PRODUCT15_PRICE": 10.95,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/64/6424f1a7.jpg",
+    "PRODUCT15_DESC": "Quality BINACL for everyday use",
+    "PRODUCT15_RATING": 4.5,
+    "PRODUCT15_NUM_RATINGS": 17,
+    "PRODUCT15_QUANTITY": 1,
+    "PRODUCT15_BRAND": "BINACL",
+    "PRODUCT15_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT16_NAME": "CGTL Face Gaiter Bandanas Ear Loops Ice Dacron Seamless Headband Scarf Headwear Dust Wind UV Protect",
+    "PRODUCT16_PRICE": 14.95,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/f2/f21729ca.jpg",
+    "PRODUCT16_DESC": "Quality CGTL for everyday use",
+    "PRODUCT16_RATING": 4.1,
+    "PRODUCT16_NUM_RATINGS": 51,
+    "PRODUCT16_QUANTITY": 1,
+    "PRODUCT16_BRAND": "CGLT",
+    "PRODUCT16_ITEM_CATEGORY": "Headband",
+    "PRODUCT17_NAME": "WAMSOFT Women Spring Scarfs Lightweight, Girls Large Chiffon Neck Scarves Soft Flower Print Sheer Of",
+    "PRODUCT17_PRICE": 9.49,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/2e/2ee83531.jpg",
+    "PRODUCT17_DESC": "Quality WAMSOFT for everyday use",
+    "PRODUCT17_RATING": 3.2,
+    "PRODUCT17_NUM_RATINGS": 351,
+    "PRODUCT17_QUANTITY": 6,
+    "PRODUCT17_BRAND": "WAMSOFT",
+    "PRODUCT17_ITEM_CATEGORY": "Scarf",
+    "PRODUCT18_NAME": "Ristake Seamless Face Scarf Bandana with Ear Loops Balaclava Neck Gaiter for Outdoor Sport, 1 Pack, ",
+    "PRODUCT18_PRICE": 17.99,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/44/4498eea1.jpg",
+    "PRODUCT18_DESC": "Quality Ristake for everyday use",
+    "PRODUCT18_RATING": 4.5,
+    "PRODUCT18_NUM_RATINGS": 759,
+    "PRODUCT18_QUANTITY": 3,
+    "PRODUCT18_BRAND": "Ristake",
+    "PRODUCT18_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT19_NAME": "Ristake Unisex Men Women Face Scarf Bandana Face Neck Gaiter Headwrap Balaclava Neck Gaiters for Dus",
+    "PRODUCT19_PRICE": 16.95,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/89/899c6de9.jpg",
+    "PRODUCT19_DESC": "Quality Ristake for everyday use",
+    "PRODUCT19_RATING": 4.5,
+    "PRODUCT19_NUM_RATINGS": 336,
+    "PRODUCT19_QUANTITY": 1,
+    "PRODUCT19_BRAND": "Ristake",
+    "PRODUCT19_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT20_NAME": "Eono Essentials Junior Fleece Vest (Black, 164)",
+    "PRODUCT20_PRICE": 22.79,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/e4/e41e1487.jpg",
+    "PRODUCT20_DESC": "Features a full-length zip and short neck tab",
+    "PRODUCT20_RATING": 4.1,
+    "PRODUCT20_NUM_RATINGS": 71,
+    "PRODUCT20_QUANTITY": 2,
+    "PRODUCT20_BRAND": "Eono Essentials",
+    "PRODUCT20_ITEM_CATEGORY": "Fleece Vest",
+    "PRODUCT21_NAME": "Taloyone Face Mask Bandanas Neck Gaiter Ear Loops Face Balaclava Non Slip Light Cool Breathable Band",
+    "PRODUCT21_PRICE": 26.79,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/1f/1fa304af.jpg",
+    "PRODUCT21_DESC": "Quality Taloyone for everyday use",
+    "PRODUCT21_RATING": 3.6,
+    "PRODUCT21_NUM_RATINGS": 114,
+    "PRODUCT21_QUANTITY": 4,
+    "PRODUCT21_BRAND": "Taloyone",
+    "PRODUCT21_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT22_NAME": "AWLE Earloop Face Cover Bandana Cycling Motorcycle Windproof Seamless Face Scarf Rave Balaclava Head",
+    "PRODUCT22_PRICE": 19.95,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/5a/5ab42541.jpg",
+    "PRODUCT22_DESC": "Quality AWLE for everyday use",
+    "PRODUCT22_RATING": 3.8,
+    "PRODUCT22_NUM_RATINGS": 529,
+    "PRODUCT22_QUANTITY": 1,
+    "PRODUCT22_BRAND": "AWLE",
+    "PRODUCT22_ITEM_CATEGORY": "Face Cover",
+    "PRODUCT23_NAME": "BINACL Face Bandanas Balaclava, Unisex Neck Gaiter Scarf Novelty Stretchable Wind Sun UV Protection ",
+    "PRODUCT23_PRICE": 16.99,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/12/12c8f19e.jpg",
+    "PRODUCT23_DESC": "Quality BINACL for everyday use",
+    "PRODUCT23_RATING": 3.9,
+    "PRODUCT23_NUM_RATINGS": 54,
+    "PRODUCT23_QUANTITY": 1,
+    "PRODUCT23_BRAND": "BINACL",
+    "PRODUCT23_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT24_NAME": "Ear Loops Balaclava, Hissox Womens Mens Comfort Bandana Face Scarf Bandana Mask Neck Gaiters Outdoor",
+    "PRODUCT24_PRICE": 17.49,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/c5/c5b9c8ba.jpg",
+    "PRODUCT24_DESC": "Quality Ear for everyday use",
+    "PRODUCT24_RATING": 4.5,
+    "PRODUCT24_NUM_RATINGS": 495,
+    "PRODUCT24_QUANTITY": 1,
+    "PRODUCT24_BRAND": "Hissox",
+    "PRODUCT24_ITEM_CATEGORY": "Bandana",
+    "PRODUCT25_NAME": "Taloyone Face Mask Bandanas Neck Gaiter Ear Loops Face Balaclava Non Slip Light Cool Breathable for ",
+    "PRODUCT25_PRICE": 16.99,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/23/23448171.jpg",
+    "PRODUCT25_DESC": "Quality Taloyone for everyday use",
+    "PRODUCT25_RATING": 3.5,
+    "PRODUCT25_NUM_RATINGS": 795,
+    "PRODUCT25_QUANTITY": 1,
+    "PRODUCT25_BRAND": "Taloyone",
+    "PRODUCT25_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT26_NAME": "Bun Large Summer Face Mask Neck Gaiter Bandana Protective Face Cover for Outdoors Colour 05",
+    "PRODUCT26_PRICE": 9.95,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/61/6162275c.jpg",
+    "PRODUCT26_DESC": "Quality Bun for everyday use",
+    "PRODUCT26_RATING": 4.1,
+    "PRODUCT26_NUM_RATINGS": 10,
+    "PRODUCT26_QUANTITY": 5,
+    "PRODUCT26_BRAND": "Bun",
+    "PRODUCT26_ITEM_CATEGORY": "Face Mask",
+    "PRODUCT27_NAME": "Women Men Face Mask Scarf Outdoor Headwear Bandana Sports Tube UV Face Mask for Workout Yoga Running",
+    "PRODUCT27_PRICE": 14.49,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/0a/0a066bb3.jpg",
+    "PRODUCT27_DESC": "Quality Women for everyday use",
+    "PRODUCT27_RATING": 3.9,
+    "PRODUCT27_NUM_RATINGS": 417,
+    "PRODUCT27_QUANTITY": 1,
+    "PRODUCT27_BRAND": "Generic",
+    "PRODUCT27_ITEM_CATEGORY": "Face Mask",
+    "PRODUCT28_NAME": "Forcool Neck Gaiter Face Cover Bandana Headband Balaclava for Outdoor Cycling Fishing Hunting, 1 Pie",
+    "PRODUCT28_PRICE": 13.79,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/66/66fe1ac8.jpg",
+    "PRODUCT28_DESC": "Quality Forcool for everyday use",
+    "PRODUCT28_RATING": 4.0,
+    "PRODUCT28_NUM_RATINGS": 10,
+    "PRODUCT28_QUANTITY": 4,
+    "PRODUCT28_BRAND": "Forcool",
+    "PRODUCT28_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT29_NAME": "Face Mask Bandanas Neck Gaiter?Taloyone Face Balaclava Non Slip Light Cool Breathable for Sun Wind D",
+    "PRODUCT29_PRICE": 20.79,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/fb/fb84d848.jpg",
+    "PRODUCT29_DESC": "Quality Face for everyday use",
+    "PRODUCT29_RATING": 4.0,
+    "PRODUCT29_NUM_RATINGS": 150,
+    "PRODUCT29_QUANTITY": 1,
+    "PRODUCT29_BRAND": "Taloyone",
+    "PRODUCT29_ITEM_CATEGORY": "Neck Gaiter",
+    "PRODUCT30_NAME": "Essential 43cm Lightweight Reflective Dog Raincoat with Hood & Harness Hole, Blue, Outdoor Rain Gear",
+    "PRODUCT30_PRICE": 34.0,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/79/793983a5.jpg",
+    "PRODUCT30_DESC": "Size 43cm: Chest Girth 60cm- 66cm, Neck 45cm- 50cm, Back Length 43cm. (In order to cover the entire back of the dog, the back length of raincoat is lengthened to 43cm.) Measure your dog from the base ",
+    "PRODUCT30_RATING": 4.5,
+    "PRODUCT30_NUM_RATINGS": 29,
+    "PRODUCT30_QUANTITY": 2,
+    "PRODUCT30_BRAND": "Essential",
+    "PRODUCT30_ITEM_CATEGORY": "Dog Raincoat"
+  },
+  "company": "amazon",
+  "page_type": "customer-info-address",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 831,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "PII_CITY",
+    "PII_COUNTRY",
+    "PII_FULLNAME",
+    "PII_LOCATION1_CITY",
+    "PII_LOCATION1_POSTCODE",
+    "PII_LOCATION1_STREET",
+    "PII_PHONE",
+    "PII_POSTCODE",
+    "PII_STATE",
+    "PII_STREET",
+    "PII_STREET2",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_COUNTRY",
+    "PII_FULLNAME",
+    "PII_PHONE",
+    "PII_STREET",
+    "PII_STREET2",
+    "PII_CITY",
+    "PII_STATE",
+    "PII_POSTCODE"
+  ],
+  "source_image": "data/ui_images/customer-info-address/8783-amazon-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/amazon/customer-info-address/8783/20260116_030520",
+  "reproduction_status": "unknown",
+  "split": "test",
+  "detection_stats": {
+    "pii_found": 11,
+    "pii_visible": 11,
+    "pii_fillable": 8,
+    "products_found": 0,
+    "products_visible": 0,
+    "search_found": 4,
+    "search_visible": 4,
+    "containers_found": 10,
+    "boxes_drawn": 15
+  },
+  "pii_elements": [
+    {
+      "key": "PII_CITY",
+      "value": "Tiffanyview",
+      "bbox": {
+        "x": 56,
+        "y": 551,
+        "width": 286,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_COUNTRY",
+      "value": "United States",
+      "bbox": {
+        "x": 56,
+        "y": 230,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_FULLNAME",
+      "value": "Matthew Sheppard",
+      "bbox": {
+        "x": 56,
+        "y": 300.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_LOCATION1_CITY",
+      "value": "Edwardport",
+      "bbox": {
+        "x": 1002.734375,
+        "y": 320.5,
+        "width": 69.3125,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_LOCATION1_POSTCODE",
+      "value": "81931",
+      "bbox": {
+        "x": 947.453125,
+        "y": 354.5,
+        "width": 38.1875,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_LOCATION1_STREET",
+      "value": "7068 Rivera Springs",
+      "bbox": {
+        "x": 873.5,
+        "y": 320.5,
+        "width": 121.59375,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE",
+      "value": "3175498318",
+      "bbox": {
+        "x": 56,
+        "y": 371,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "72859",
+      "bbox": {
+        "x": 486,
+        "y": 551,
+        "width": 100,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STATE",
+      "value": "Florida",
+      "bbox": {
+        "x": 354,
+        "y": 551,
+        "width": 120,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "530 Kevin Stream",
+      "bbox": {
+        "x": 56,
+        "y": 441.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET2",
+      "value": "0764 Ryan Estates Apt. 392",
+      "bbox": {
+        "x": 56,
+        "y": 480.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "product_elements": [],
+  "search_elements": [
+    {
+      "key": "SEARCH_PICKUP_ADDRESS",
+      "value": "",
+      "bbox": {
+        "x": 843,
+        "y": 288.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "SEARCH_PICKUP_ZIP",
+      "value": "",
+      "bbox": {
+        "x": 843,
+        "y": 348.5,
+        "width": 70,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "SEARCH_PICKUP_LANDMARK",
+      "value": "",
+      "bbox": {
+        "x": 843,
+        "y": 386.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "SEARCH_PICKUP_LOCKER",
+      "value": "",
+      "bbox": {
+        "x": 843,
+        "y": 446.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 56,
+        "y": 300.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_FULLNAME"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 56,
+        "y": 371,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_PHONE"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 56,
+        "y": 441.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_STREET"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 56,
+        "y": 480.5,
+        "width": 530,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_STREET2"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 56,
+        "y": 551,
+        "width": 286,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_CITY"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 486,
+        "y": 551,
+        "width": 100,
+        "height": 31
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_POSTCODE"
+      ],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 843,
+        "y": 288.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 843,
+        "y": 348.5,
+        "width": 70,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 843,
+        "y": 386.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 843,
+        "y": 446.5,
+        "width": 381,
+        "height": 26
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_POSTCODE",
+      "PII_PHONE",
+      "PII_CITY",
+      "PII_COUNTRY",
+      "PII_STATE",
+      "PII_FULLNAME",
+      "PII_STREET2",
+      "PII_STREET"
+    ],
+    "count": 8
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T20:48:33.930844",
+  "_meta": {
+    "anchor_product": "OUXX Ear Loop Neck Gaiter, Reusable Washable Cloth Face Scar",
+    "product_category": "neck gaiter",
+    "search_term": "neck gaiter",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_COUNTRY",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_COUNTRY",
+              "fill_status": "partial",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_FULLNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_FULLNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matt",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_FULLNAME",
+              "fill_status": "partial",
+              "char_count": 4,
+              "displayed_value": "Matt",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_PHONE",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "317",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "317",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 3,
+      "field_name": "PII_STREET",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_03.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "3175498318",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "530",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "530",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 4,
+      "field_name": "PII_STREET2",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_04.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "3175498318",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "530 Kevin Stream",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "0764 Ryan E",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET2",
+              "fill_status": "partial",
+              "char_count": 11,
+              "displayed_value": "0764 Ryan E",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_CITY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 5,
+      "field_name": "PII_CITY",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_05.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Tiffanyv",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "3175498318",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "530 Kevin Stream",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "0764 Ryan Estates Apt. 392",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_CITY",
+              "fill_status": "partial",
+              "char_count": 8,
+              "displayed_value": "Tiffanyv",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STATE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 6,
+      "field_name": "PII_STATE",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_06.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Tiffanyview",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "3175498318",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "530 Kevin Stream",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "0764 Ryan Estates Apt. 392",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_CITY"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STATE",
+              "fill_status": "partial",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "select"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 7,
+      "field_name": "PII_POSTCODE",
+      "image_path": "more_images_and_maps_fixed_all_flags/1325_partial_07.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_CITY",
+            "value": "Tiffanyview",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 56,
+              "y": 230,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_FULLNAME",
+            "value": "Matthew Sheppard",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_CITY",
+            "value": "Edwardport",
+            "bbox": {
+              "x": 1002.734375,
+              "y": 320.5,
+              "width": 69.3125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_POSTCODE",
+            "value": "81931",
+            "bbox": {
+              "x": 947.453125,
+              "y": 354.5,
+              "width": 38.1875,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_LOCATION1_STREET",
+            "value": "7068 Rivera Springs",
+            "bbox": {
+              "x": 873.5,
+              "y": 320.5,
+              "width": 121.59375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE",
+            "value": "3175498318",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "728",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STATE",
+            "value": "Florida",
+            "bbox": {
+              "x": 354,
+              "y": 551,
+              "width": 120,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "530 Kevin Stream",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "0764 Ryan Estates Apt. 392",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [],
+        "search_elements": [
+          {
+            "key": "SEARCH_PICKUP_ADDRESS",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_ZIP",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LANDMARK",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "SEARCH_PICKUP_LOCKER",
+            "value": "",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 300.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_FULLNAME"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 371,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_PHONE"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 441.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 480.5,
+              "width": 530,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_STREET2"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 56,
+              "y": 551,
+              "width": 286,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_CITY"
+            ],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 486,
+              "y": 551,
+              "width": 100,
+              "height": 31
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 288.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 348.5,
+              "width": 70,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 386.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 843,
+              "y": 446.5,
+              "width": 381,
+              "height": 26
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "728",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/1325_empty.png",
+    "detection_stats": {
+      "pii_found": 11,
+      "pii_visible": 11,
+      "products_found": 0,
+      "products_visible": 0,
+      "search_found": 4,
+      "search_visible": 4
+    },
+    "pii_elements": [
+      {
+        "key": "PII_CITY",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 551,
+          "width": 286,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_COUNTRY",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 230,
+          "width": 530,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_FULLNAME",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 300.5,
+          "width": 530,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_LOCATION1_CITY",
+        "value": "Edwardport",
+        "bbox": {
+          "x": 1002.734375,
+          "y": 320.5,
+          "width": 69.3125,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_LOCATION1_POSTCODE",
+        "value": "81931",
+        "bbox": {
+          "x": 947.453125,
+          "y": 354.5,
+          "width": 38.1875,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_LOCATION1_STREET",
+        "value": "7068 Rivera Springs",
+        "bbox": {
+          "x": 873.5,
+          "y": 320.5,
+          "width": 121.59375,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 371,
+          "width": 530,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "",
+        "bbox": {
+          "x": 486,
+          "y": 551,
+          "width": 100,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STATE",
+        "value": "",
+        "bbox": {
+          "x": 354,
+          "y": 551,
+          "width": 120,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 441.5,
+          "width": 530,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET2",
+        "value": "",
+        "bbox": {
+          "x": 56,
+          "y": 480.5,
+          "width": 530,
+          "height": 31
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ],
+    "product_elements": [],
+    "search_elements": [
+      {
+        "key": "SEARCH_PICKUP_ADDRESS",
+        "value": "",
+        "bbox": {
+          "x": 843,
+          "y": 288.5,
+          "width": 381,
+          "height": 26
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "SEARCH_PICKUP_ZIP",
+        "value": "",
+        "bbox": {
+          "x": 843,
+          "y": 348.5,
+          "width": 70,
+          "height": 26
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "SEARCH_PICKUP_LANDMARK",
+        "value": "",
+        "bbox": {
+          "x": 843,
+          "y": 386.5,
+          "width": 381,
+          "height": 26
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "SEARCH_PICKUP_LOCKER",
+        "value": "",
+        "bbox": {
+          "x": 843,
+          "y": 446.5,
+          "width": 381,
+          "height": 26
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ]
+  }
+}

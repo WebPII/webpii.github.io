@@ -1,0 +1,6125 @@
+{
+  "image_path": "more_images_and_maps_fixed_all_flags/7050.png",
+  "data_json": {
+    "PII_FIRSTNAME": "Alexandra",
+    "PII_LASTNAME": "Hill",
+    "PII_FULLNAME": "Alexandra Hill",
+    "PII_LOGIN_USERNAME": "alexandra_hill",
+    "PII_LOGIN_PASSWORD": "C$!F8HBA$RAwIj",
+    "PII_LOGIN_PASSWORD_CONFIRM": "C$!F8HBA$RAwIj",
+    "PII_CARD_TYPE": "Discover",
+    "PII_CARD_NUMBER": "6565 5092 8971 5173",
+    "PII_CARD_LAST4": "5173",
+    "PII_CARD_EXPIRY": "03/27",
+    "PII_CARD_EXPIRY_MONTH": "03",
+    "PII_CARD_EXPIRY_YEAR": "27",
+    "PII_CARD_CVV": "854",
+    "PII_CARD_IMAGE": "/payment_methods/discover.webp",
+    "PII_EMAIL": "alexandra.hill@hotmail.com",
+    "PII_DOB": "01/18/1958",
+    "PII_DOB_ISO": "1958-01-18",
+    "PII_DOB_LONG": "January 18, 1958",
+    "PII_DOB_MONTH": "01",
+    "PII_DOB_DAY": "18",
+    "PII_DOB_YEAR": "1958",
+    "PII_COMPANY": "",
+    "PII_PO_NUMBER": "",
+    "PII_JOB_CODE": "",
+    "PII_PHONE": "4967702992",
+    "PII_PHONE_AREA": "496",
+    "PII_PHONE_PREFIX": "770",
+    "PII_PHONE_LINE": "2992",
+    "PII_PHONE_SUFFIX": "2992",
+    "PII_PHONE_ALT": "",
+    "PII_PHONE_ALT_AREA": "",
+    "PII_PHONE_ALT_PREFIX": "",
+    "PII_PHONE_ALT_LINE": "",
+    "PII_PHONE_ALT_SUFFIX": "",
+    "PII_AVATAR": "https://xsgames.co/randomusers/avatar.php?g=female",
+    "PII_ADDRESS": "547 Theresa Cliff, Jamesfurt, GA 41724",
+    "PII_STREET": "547 Theresa Cliff",
+    "PII_CITY": "Jamesfurt",
+    "PII_STATE": "Georgia",
+    "PII_STATE_ABBR": "GA",
+    "PII_POSTCODE": "41724",
+    "PII_POSTCODE_EXT": "4879",
+    "PII_POSTCODE_FULL": "41724-4879",
+    "PII_COUNTRY": "United States",
+    "PII_COUNTRY_CODE": "US",
+    "PII_CITY_STATE": "Jamesfurt, GA",
+    "PII_CITY_STATE_ZIP": "Jamesfurt, GA 41724",
+    "PII_CITY2": "Harrellburgh",
+    "PII_STATE2": "Tennessee",
+    "PII_STATE_ABBR2": "TN",
+    "PII_CITY_STATE2": "Harrellburgh, TN",
+    "PII_CITY3": "Jenniferstad",
+    "PII_STATE3": "Connecticut",
+    "PII_STATE_ABBR3": "CT",
+    "PII_CITY_STATE3": "Jenniferstad, CT",
+    "PII_LOCATION1_STREET": "7489 Taylor Squares",
+    "PII_LOCATION2_STREET": "6019 Jared Estates Suite 006",
+    "PII_LOCATION3_STREET": "1904 French Valley Suite 817",
+    "PII_LOCATION4_STREET": "020 Gillespie Springs Suite 382",
+    "PII_LOCATION5_STREET": "422 Stephanie Ridges Suite 586",
+    "PII_LOCATION6_STREET": "51562 Armstrong Burg Apt. 773",
+    "PII_LOCATION7_STREET": "87310 Elliott Burg Suite 196",
+    "PII_LOCATION8_STREET": "616 Lawrence Estate Suite 740",
+    "PII_LOCATION9_STREET": "44176 Fernandez Brooks",
+    "PII_LOCATION10_STREET": "54907 Richard Street",
+    "PII_LOCATION11_STREET": "5837 Holt Trafficway Suite 873",
+    "PII_LOCATION12_STREET": "8169 Gilmore Trafficway",
+    "PII_LOCATION13_STREET": "05903 Hart Prairie Apt. 352",
+    "PII_LOCATION14_STREET": "88799 Cynthia Knoll Apt. 580",
+    "PII_LOCATION15_STREET": "371 Dunn Heights",
+    "PII_LOCATION16_STREET": "4708 Michelle Ridges Apt. 470",
+    "PII_LOCATION17_STREET": "74674 Brittany Creek",
+    "PII_LOCATION18_STREET": "1725 Ralph Glens Apt. 713",
+    "PII_LOCATION19_STREET": "71074 Heather Valleys Apt. 793",
+    "PII_LOCATION20_STREET": "933 Wallace Hills Suite 435",
+    "PII_LOCATION21_STREET": "569 Juan Parks",
+    "PII_LOCATION22_STREET": "0598 Justin Point",
+    "PII_LOCATION23_STREET": "8293 Sherry Brooks Suite 230",
+    "PII_LOCATION24_STREET": "029 Fuller Lock",
+    "PII_LOCATION25_STREET": "2042 Anthony Road Apt. 219",
+    "PII_LOCATION1_CITY": "Karenfurt",
+    "PII_LOCATION2_CITY": "West Amyfurt",
+    "PII_LOCATION3_CITY": "Santiagostad",
+    "PII_LOCATION4_CITY": "New Michael",
+    "PII_LOCATION5_CITY": "Brianfort",
+    "PII_LOCATION6_CITY": "South Karen",
+    "PII_LOCATION7_CITY": "Cruzside",
+    "PII_LOCATION8_CITY": "West Linda",
+    "PII_LOCATION9_CITY": "Lake Julia",
+    "PII_LOCATION10_CITY": "East Jeffreyland",
+    "PII_LOCATION11_CITY": "East Michaelmouth",
+    "PII_LOCATION12_CITY": "Nicholasland",
+    "PII_LOCATION13_CITY": "Katrinaburgh",
+    "PII_LOCATION14_CITY": "East Juanfort",
+    "PII_LOCATION15_CITY": "East Danielside",
+    "PII_LOCATION16_CITY": "South Tom",
+    "PII_LOCATION17_CITY": "Lake Elizabethbury",
+    "PII_LOCATION18_CITY": "Markport",
+    "PII_LOCATION19_CITY": "Martinhaven",
+    "PII_LOCATION20_CITY": "Jamieborough",
+    "PII_LOCATION21_CITY": "Jocelynmouth",
+    "PII_LOCATION22_CITY": "Elizabethton",
+    "PII_LOCATION23_CITY": "East Jeffreyberg",
+    "PII_LOCATION24_CITY": "Brettshire",
+    "PII_LOCATION25_CITY": "Joshualand",
+    "PII_LOCATION1_POSTCODE": "68934",
+    "PII_LOCATION2_POSTCODE": "52781",
+    "PII_LOCATION3_POSTCODE": "98954",
+    "PII_LOCATION4_POSTCODE": "21760",
+    "PII_LOCATION5_POSTCODE": "61251",
+    "PII_LOCATION6_POSTCODE": "44021",
+    "PII_LOCATION7_POSTCODE": "14719",
+    "PII_LOCATION8_POSTCODE": "44353",
+    "PII_LOCATION9_POSTCODE": "60573",
+    "PII_LOCATION10_POSTCODE": "92958",
+    "PII_LOCATION11_POSTCODE": "35504",
+    "PII_LOCATION12_POSTCODE": "31648",
+    "PII_LOCATION13_POSTCODE": "83389",
+    "PII_LOCATION14_POSTCODE": "52591",
+    "PII_LOCATION15_POSTCODE": "82386",
+    "PII_LOCATION16_POSTCODE": "14973",
+    "PII_LOCATION17_POSTCODE": "80804",
+    "PII_LOCATION18_POSTCODE": "69427",
+    "PII_LOCATION19_POSTCODE": "95012",
+    "PII_LOCATION20_POSTCODE": "27711",
+    "PII_LOCATION21_POSTCODE": "74828",
+    "PII_LOCATION22_POSTCODE": "97381",
+    "PII_LOCATION23_POSTCODE": "77056",
+    "PII_LOCATION24_POSTCODE": "79994",
+    "PII_LOCATION25_POSTCODE": "46657",
+    "PII_LOCATION1_POSTCODE_EXT": "2482",
+    "PII_LOCATION2_POSTCODE_EXT": "5006",
+    "PII_LOCATION3_POSTCODE_EXT": "2213",
+    "PII_LOCATION4_POSTCODE_EXT": "0627",
+    "PII_LOCATION5_POSTCODE_EXT": "8529",
+    "PII_LOCATION6_POSTCODE_EXT": "2272",
+    "PII_LOCATION7_POSTCODE_EXT": "2910",
+    "PII_LOCATION8_POSTCODE_EXT": "7749",
+    "PII_LOCATION9_POSTCODE_EXT": "4100",
+    "PII_LOCATION10_POSTCODE_EXT": "5335",
+    "PII_LOCATION11_POSTCODE_EXT": "2752",
+    "PII_LOCATION12_POSTCODE_EXT": "3394",
+    "PII_LOCATION13_POSTCODE_EXT": "6058",
+    "PII_LOCATION14_POSTCODE_EXT": "4258",
+    "PII_LOCATION15_POSTCODE_EXT": "7925",
+    "PII_LOCATION16_POSTCODE_EXT": "2657",
+    "PII_LOCATION17_POSTCODE_EXT": "7304",
+    "PII_LOCATION18_POSTCODE_EXT": "4612",
+    "PII_LOCATION19_POSTCODE_EXT": "3944",
+    "PII_LOCATION20_POSTCODE_EXT": "4732",
+    "PII_LOCATION21_POSTCODE_EXT": "4436",
+    "PII_LOCATION22_POSTCODE_EXT": "5296",
+    "PII_LOCATION23_POSTCODE_EXT": "8209",
+    "PII_LOCATION24_POSTCODE_EXT": "6315",
+    "PII_LOCATION25_POSTCODE_EXT": "5878",
+    "PII_LOCATION1_POSTCODE_FULL": "68934-2482",
+    "PII_LOCATION2_POSTCODE_FULL": "52781-5006",
+    "PII_LOCATION3_POSTCODE_FULL": "98954-2213",
+    "PII_LOCATION4_POSTCODE_FULL": "21760-0627",
+    "PII_LOCATION5_POSTCODE_FULL": "61251-8529",
+    "PII_LOCATION6_POSTCODE_FULL": "44021-2272",
+    "PII_LOCATION7_POSTCODE_FULL": "14719-2910",
+    "PII_LOCATION8_POSTCODE_FULL": "44353-7749",
+    "PII_LOCATION9_POSTCODE_FULL": "60573-4100",
+    "PII_LOCATION10_POSTCODE_FULL": "92958-5335",
+    "PII_LOCATION11_POSTCODE_FULL": "35504-2752",
+    "PII_LOCATION12_POSTCODE_FULL": "31648-3394",
+    "PII_LOCATION13_POSTCODE_FULL": "83389-6058",
+    "PII_LOCATION14_POSTCODE_FULL": "52591-4258",
+    "PII_LOCATION15_POSTCODE_FULL": "82386-7925",
+    "PII_LOCATION16_POSTCODE_FULL": "14973-2657",
+    "PII_LOCATION17_POSTCODE_FULL": "80804-7304",
+    "PII_LOCATION18_POSTCODE_FULL": "69427-4612",
+    "PII_LOCATION19_POSTCODE_FULL": "95012-3944",
+    "PII_LOCATION20_POSTCODE_FULL": "27711-4732",
+    "PII_LOCATION21_POSTCODE_FULL": "74828-4436",
+    "PII_LOCATION22_POSTCODE_FULL": "97381-5296",
+    "PII_LOCATION23_POSTCODE_FULL": "77056-8209",
+    "PII_LOCATION24_POSTCODE_FULL": "79994-6315",
+    "PII_LOCATION25_POSTCODE_FULL": "46657-5878",
+    "PII_LOCATION1_CITY_STATE_ZIP": "Karenfurt, GA 68934",
+    "PII_LOCATION2_CITY_STATE_ZIP": "West Amyfurt, GA 52781",
+    "PII_LOCATION3_CITY_STATE_ZIP": "Santiagostad, GA 98954",
+    "PII_LOCATION4_CITY_STATE_ZIP": "New Michael, GA 21760",
+    "PII_LOCATION5_CITY_STATE_ZIP": "Brianfort, GA 61251",
+    "PII_LOCATION6_CITY_STATE_ZIP": "South Karen, GA 44021",
+    "PII_LOCATION7_CITY_STATE_ZIP": "Cruzside, GA 14719",
+    "PII_LOCATION8_CITY_STATE_ZIP": "West Linda, GA 44353",
+    "PII_LOCATION9_CITY_STATE_ZIP": "Lake Julia, GA 60573",
+    "PII_LOCATION10_CITY_STATE_ZIP": "East Jeffreyland, GA 92958",
+    "PII_LOCATION11_CITY_STATE_ZIP": "East Michaelmouth, GA 35504",
+    "PII_LOCATION12_CITY_STATE_ZIP": "Nicholasland, GA 31648",
+    "PII_LOCATION13_CITY_STATE_ZIP": "Katrinaburgh, GA 83389",
+    "PII_LOCATION14_CITY_STATE_ZIP": "East Juanfort, GA 52591",
+    "PII_LOCATION15_CITY_STATE_ZIP": "East Danielside, GA 82386",
+    "PII_LOCATION16_CITY_STATE_ZIP": "South Tom, GA 14973",
+    "PII_LOCATION17_CITY_STATE_ZIP": "Lake Elizabethbury, GA 80804",
+    "PII_LOCATION18_CITY_STATE_ZIP": "Markport, GA 69427",
+    "PII_LOCATION19_CITY_STATE_ZIP": "Martinhaven, GA 95012",
+    "PII_LOCATION20_CITY_STATE_ZIP": "Jamieborough, GA 27711",
+    "PII_LOCATION21_CITY_STATE_ZIP": "Jocelynmouth, GA 74828",
+    "PII_LOCATION22_CITY_STATE_ZIP": "Elizabethton, GA 97381",
+    "PII_LOCATION23_CITY_STATE_ZIP": "East Jeffreyberg, GA 77056",
+    "PII_LOCATION24_CITY_STATE_ZIP": "Brettshire, GA 79994",
+    "PII_LOCATION25_CITY_STATE_ZIP": "Joshualand, GA 46657",
+    "PII_SECURITY_CODE": "4917",
+    "PII_DELIVERY_INSTRUCTIONS": "Leave at front door",
+    "PII_PROMO_CODE": "PROMO27NU",
+    "PII_STREET2": "",
+    "PII_POSTCODE2": "",
+    "PII_CITY_STATE_ZIP2": "",
+    "PII_STREET_2": "",
+    "PII_POSTCODE_2": "",
+    "PII_CITY_STATE_ZIP_2": "",
+    "PII_GIFT_FIRSTNAME": "Lee",
+    "PII_GIFT_LASTNAME": "Black",
+    "PII_GIFT_FULLNAME": "Lee Black",
+    "PII_GIFT_EMAIL": "lblack@hotmail.com",
+    "PII_EMAIL2": "alexandra.hill@hotmail.com",
+    "PII_EMAIL3": "alexandra.hill@hotmail.com",
+    "PII_PHONE2": "4967702992",
+    "PII_PHONE3": "4967702992",
+    "PII_FULLNAME2": "Alexandra Hill",
+    "PII_FULLNAME3": "Alexandra Hill",
+    "PII_FIRSTNAME2": "Alexandra",
+    "PII_FIRSTNAME3": "Alexandra",
+    "PII_LASTNAME2": "Hill",
+    "PII_LASTNAME3": "Hill",
+    "PII_LOGIN_USERNAME2": "alexandra_hill",
+    "PII_LOGIN_USERNAME3": "alexandra_hill",
+    "PII_LOGIN_PASSWORD2": "C$!F8HBA$RAwIj",
+    "PII_LOGIN_PASSWORD3": "C$!F8HBA$RAwIj",
+    "SEED": 409850,
+    "ORDER_DATE": "January 07, 2022",
+    "ORDER_SHIPPING_DATE": "January 07, 2022",
+    "ORDER_DELIVERY_DATE": "January 14, 2022",
+    "ORDER_RETURN_BY_DATE": "February 01, 2022",
+    "PII_GIFT_MESSAGE": "Happy housewarming, Lee! I couldn\u2019t resist getting you this awesome water filtration system\u2014thought you\u2019d appreciate having pure, fresh water right at home. Cheers to new beginnings!  \nAlexandra",
+    "PRODUCT1_NAME": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+    "PRODUCT1_PRICE": 32.99,
+    "PRODUCT1_IMAGE": "products/abo-images-small/images/small/a1/a1e5d653.jpg",
+    "PRODUCT1_DESC": "[Best value for your family]: Waterdrop G2 Under-Sink Reverse Osmosis Water Filtration System. The compact filters offer excellent performance, and due to the composite filters and formula, you won\u2019t ",
+    "PRODUCT1_RATING": 3.5,
+    "PRODUCT1_NUM_RATINGS": 36,
+    "PRODUCT1_QUANTITY": 3,
+    "PRODUCT1_BRAND": "Waterdrop",
+    "PRODUCT1_ITEM_CATEGORY": "Water Filtration System",
+    "PRODUCT1_BREADCRUMB": [
+      "Home",
+      "Health & Household",
+      "Kitchen & Dining",
+      "Water Filtration",
+      "Reverse Osmosis Systems"
+    ],
+    "PRODUCT2_NAME": "Waterdrop RO Reverse Osmosis Drinking Water Filtration System, NSF Certified, TDS Reduction, 400 GPD",
+    "PRODUCT2_PRICE": 35.0,
+    "PRODUCT2_IMAGE": "products/abo-images-small/images/small/70/70b8c2b1.jpg",
+    "PRODUCT2_DESC": "Three filters are included in the package. Search \"Waterdrop WD-G3-W Filter\" for replacement filters",
+    "PRODUCT2_RATING": 3.5,
+    "PRODUCT2_NUM_RATINGS": 4433,
+    "PRODUCT2_QUANTITY": 4,
+    "PRODUCT2_BRAND": "Waterdrop",
+    "PRODUCT2_ITEM_CATEGORY": "Water Filtration System",
+    "PRODUCT3_NAME": "Waterdrop WD-PT-04B Chubby 10-Cup Water Filter Pitcher, Long-lasting (200 gallons), 5X Times Lifetim",
+    "PRODUCT3_PRICE": 40.79,
+    "PRODUCT3_IMAGE": "products/abo-images-small/images/small/b3/b374608d.jpg",
+    "PRODUCT3_DESC": "Effective filtration: Using 7-stage water pitcher filter technology, the Waterdrop Chubby water filter pitcher tests the water to eliminate to the barest minimum. Reducing heavy metals such as arsenic",
+    "PRODUCT3_RATING": 4.4,
+    "PRODUCT3_NUM_RATINGS": 79,
+    "PRODUCT3_QUANTITY": 1,
+    "PRODUCT3_BRAND": "Waterdrop",
+    "PRODUCT3_ITEM_CATEGORY": "Water Filter Pitcher",
+    "PRODUCT4_NAME": "Waterdrop 15UA Under Sink Water Filter System, 16K Gallons Ultra High Capacity Main Faucet Under Cou",
+    "PRODUCT4_PRICE": 30.95,
+    "PRODUCT4_IMAGE": "products/abo-images-small/images/small/b6/b6b0a383.jpg",
+    "PRODUCT4_DESC": "\u3010Innovative five-stage filtration\u3011The Waterdrop Direct Connect Undersink Water Filtration System uses innovative five-stage filtration. Tested against NSF standards, it removes 99% of chlorine, heavy ",
+    "PRODUCT4_RATING": 4.7,
+    "PRODUCT4_NUM_RATINGS": 19,
+    "PRODUCT4_QUANTITY": 3,
+    "PRODUCT4_BRAND": "Waterdrop",
+    "PRODUCT4_ITEM_CATEGORY": "Under Sink Water Filter",
+    "PRODUCT5_NAME": "Eono Essentials 70L Waterproof, Ultralight Hiking Backpack with Internal Frame and Breathable Mesh B",
+    "PRODUCT5_PRICE": 23.0,
+    "PRODUCT5_IMAGE": "products/abo-images-small/images/small/1e/1ea1dd3f.jpg",
+    "PRODUCT5_DESC": "HYDRATION SYSTEM COMPATIBLE: It offers water bottles access on both sides of the pack with water reservoir sleeves for easy hydration when running, cycling or hiking. Its big enough for a 3 liters\u2019 hy",
+    "PRODUCT5_RATING": 4.4,
+    "PRODUCT5_NUM_RATINGS": 47,
+    "PRODUCT5_QUANTITY": 3,
+    "PRODUCT5_BRAND": "Eono Essentials",
+    "PRODUCT5_ITEM_CATEGORY": "Hiking Backpack",
+    "PRODUCT6_NAME": "Happy Belly Spring Water, 1 Gallon",
+    "PRODUCT6_PRICE": 26.0,
+    "PRODUCT6_IMAGE": "products/abo-images-small/images/small/8a/8a11fc41.jpg",
+    "PRODUCT6_DESC": "Purified by reverse osmosis and advanced filtration",
+    "PRODUCT6_RATING": 3.6,
+    "PRODUCT6_NUM_RATINGS": 150,
+    "PRODUCT6_QUANTITY": 2,
+    "PRODUCT6_BRAND": "Happy Belly",
+    "PRODUCT6_ITEM_CATEGORY": "Spring Water",
+    "PRODUCT7_NAME": "ROSSINI JUST 3 SEATER",
+    "PRODUCT7_PRICE": 38.49,
+    "PRODUCT7_IMAGE": "products/abo-images-small/images/small/b3/b33da8aa.jpg",
+    "PRODUCT7_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT7_RATING": 4.5,
+    "PRODUCT7_NUM_RATINGS": 72,
+    "PRODUCT7_QUANTITY": 2,
+    "PRODUCT7_BRAND": "ROSSINI",
+    "PRODUCT7_ITEM_CATEGORY": "Sofa",
+    "PRODUCT8_NAME": "ROSSINI JUST 3 SEATER",
+    "PRODUCT8_PRICE": 31.79,
+    "PRODUCT8_IMAGE": "products/abo-images-small/images/small/5e/5e767da4.jpg",
+    "PRODUCT8_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT8_RATING": 3.3,
+    "PRODUCT8_NUM_RATINGS": 112,
+    "PRODUCT8_QUANTITY": 1,
+    "PRODUCT8_BRAND": "ROSSINI",
+    "PRODUCT8_ITEM_CATEGORY": "Sofa",
+    "PRODUCT9_NAME": "ROSSINI LIFE 3 SEATER",
+    "PRODUCT9_PRICE": 31.79,
+    "PRODUCT9_IMAGE": "products/abo-images-small/images/small/1f/1fecda87.jpg",
+    "PRODUCT9_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT9_RATING": 4.4,
+    "PRODUCT9_NUM_RATINGS": 45,
+    "PRODUCT9_QUANTITY": 1,
+    "PRODUCT9_BRAND": "ROSSINI",
+    "PRODUCT9_ITEM_CATEGORY": "Sofa",
+    "PRODUCT10_NAME": "ROSSINI LIFE 2 SEATER",
+    "PRODUCT10_PRICE": 40.49,
+    "PRODUCT10_IMAGE": "products/abo-images-small/images/small/6a/6a552fd7.jpg",
+    "PRODUCT10_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT10_RATING": 4.0,
+    "PRODUCT10_NUM_RATINGS": 513,
+    "PRODUCT10_QUANTITY": 1,
+    "PRODUCT10_BRAND": "ROSSINI",
+    "PRODUCT10_ITEM_CATEGORY": "Sofa",
+    "PRODUCT11_NAME": "ROSSINI RUBY 3 SEATER",
+    "PRODUCT11_PRICE": 25.49,
+    "PRODUCT11_IMAGE": "products/abo-images-small/images/small/7a/7acf7b80.jpg",
+    "PRODUCT11_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT11_RATING": 3.5,
+    "PRODUCT11_NUM_RATINGS": 1168,
+    "PRODUCT11_QUANTITY": 1,
+    "PRODUCT11_BRAND": "ROSSINI",
+    "PRODUCT11_ITEM_CATEGORY": "Sofa",
+    "PRODUCT12_NAME": "ROSSINI RUBY 2 SEATER",
+    "PRODUCT12_PRICE": 31.79,
+    "PRODUCT12_IMAGE": "products/abo-images-small/images/small/12/125a079a.jpg",
+    "PRODUCT12_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT12_RATING": 4.6,
+    "PRODUCT12_NUM_RATINGS": 205,
+    "PRODUCT12_QUANTITY": 2,
+    "PRODUCT12_BRAND": "ROSSINI",
+    "PRODUCT12_ITEM_CATEGORY": "Sofa",
+    "PRODUCT13_NAME": "ROSSINI LIFE 3 SEATER",
+    "PRODUCT13_PRICE": 30.49,
+    "PRODUCT13_IMAGE": "products/abo-images-small/images/small/31/31e7202a.jpg",
+    "PRODUCT13_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT13_RATING": 4.6,
+    "PRODUCT13_NUM_RATINGS": 111,
+    "PRODUCT13_QUANTITY": 1,
+    "PRODUCT13_BRAND": "ROSSINI",
+    "PRODUCT13_ITEM_CATEGORY": "Sofa",
+    "PRODUCT14_NAME": "ROSSINI JUST 3 SEATER",
+    "PRODUCT14_PRICE": 37.0,
+    "PRODUCT14_IMAGE": "products/abo-images-small/images/small/9e/9ef1ebaa.jpg",
+    "PRODUCT14_DESC": "Quality ROSSINI for everyday use",
+    "PRODUCT14_RATING": 4.6,
+    "PRODUCT14_NUM_RATINGS": 1047,
+    "PRODUCT14_QUANTITY": 1,
+    "PRODUCT14_BRAND": "ROSSINI",
+    "PRODUCT14_ITEM_CATEGORY": "Sofa",
+    "PRODUCT15_NAME": "Flavia Women's Pink Ballet Flats-5 UK (37 EU) (6 US) (FL-911/PNK)",
+    "PRODUCT15_PRICE": 41.79,
+    "PRODUCT15_IMAGE": "products/abo-images-small/images/small/6a/6a9debfe.jpg",
+    "PRODUCT15_DESC": "Outer Material: PU",
+    "PRODUCT15_RATING": 4.7,
+    "PRODUCT15_NUM_RATINGS": 144,
+    "PRODUCT15_QUANTITY": 3,
+    "PRODUCT15_BRAND": "Flavia",
+    "PRODUCT15_ITEM_CATEGORY": "Ballet Flats",
+    "PRODUCT16_NAME": "14k Yellow Gold Floating Diamond Strand Bracelet (1/2 cttw, K-L Color, I1-I2 Clarity), 7\"",
+    "PRODUCT16_PRICE": 39.95,
+    "PRODUCT16_IMAGE": "products/abo-images-small/images/small/b2/b20eb85f.jpg",
+    "PRODUCT16_DESC": "Yellow gold floating diamonds multi strand bracelet",
+    "PRODUCT16_RATING": 3.5,
+    "PRODUCT16_NUM_RATINGS": 845,
+    "PRODUCT16_QUANTITY": 3,
+    "PRODUCT16_BRAND": "Generic",
+    "PRODUCT16_ITEM_CATEGORY": "Bracelet",
+    "PRODUCT17_NAME": "Ultimate Dreams King 2 inch Thick 4 Pound Density Gel Memory Foam Topper. Made in The USA",
+    "PRODUCT17_PRICE": 35.95,
+    "PRODUCT17_IMAGE": "products/abo-images-small/images/small/e0/e00bf34e.jpg",
+    "PRODUCT17_DESC": "2 inches of 4 LB Gel Memory Foam with no fabric cover.",
+    "PRODUCT17_RATING": 4.4,
+    "PRODUCT17_NUM_RATINGS": 19,
+    "PRODUCT17_QUANTITY": 1,
+    "PRODUCT17_BRAND": "Ultimate Dreams",
+    "PRODUCT17_ITEM_CATEGORY": "Mattress Topper",
+    "PRODUCT18_NAME": "365 Everyday Value, Black-Eyed Peas, 16 oz, (Frozen)",
+    "PRODUCT18_PRICE": 35.49,
+    "PRODUCT18_IMAGE": "products/abo-images-small/images/small/20/200cc4db.jpg",
+    "PRODUCT18_DESC": "Brought to you by Whole Foods Market. Our standards are what set us apart, and our quality is what keeps us stocking pantries, fridges and freezers with the best natural and organic 365 Everyday Value",
+    "PRODUCT18_RATING": 4.1,
+    "PRODUCT18_NUM_RATINGS": 10,
+    "PRODUCT18_QUANTITY": 1,
+    "PRODUCT18_BRAND": "365 Everyday Value",
+    "PRODUCT18_ITEM_CATEGORY": "Frozen Peas",
+    "PRODUCT19_NAME": "Farmer's Garden Salad, 4.1 oz",
+    "PRODUCT19_PRICE": 38.99,
+    "PRODUCT19_IMAGE": "products/abo-images-small/images/small/45/45089625.jpg",
+    "PRODUCT19_DESC": "Mixed greens with purple cauliflower, red beets, sweet potatoes and apple cider vinaigrette",
+    "PRODUCT19_RATING": 4.8,
+    "PRODUCT19_NUM_RATINGS": 62,
+    "PRODUCT19_QUANTITY": 2,
+    "PRODUCT19_BRAND": "Generic",
+    "PRODUCT19_ITEM_CATEGORY": "Salad",
+    "PRODUCT20_NAME": "Platinum-Plated Sterling Silver Fancy Blue Round-Cut Swarovski Zirconia Stud Earrings",
+    "PRODUCT20_PRICE": 24.0,
+    "PRODUCT20_IMAGE": "products/abo-images-small/images/small/a0/a0420a7d.jpg",
+    "PRODUCT20_DESC": "Set with four prongs, posts ensure earrings are secure",
+    "PRODUCT20_RATING": 3.5,
+    "PRODUCT20_NUM_RATINGS": 884,
+    "PRODUCT20_QUANTITY": 2,
+    "PRODUCT20_BRAND": "Generic",
+    "PRODUCT20_ITEM_CATEGORY": "Earrings",
+    "PRODUCT21_NAME": "365 Everyday Value, Parchment Paper, 72 SQ FT",
+    "PRODUCT21_PRICE": 35.49,
+    "PRODUCT21_IMAGE": "products/abo-images-small/images/small/7c/7cc9e8c4.jpg",
+    "PRODUCT21_DESC": "Brought to you by Whole Foods Market",
+    "PRODUCT21_RATING": 4.0,
+    "PRODUCT21_NUM_RATINGS": 149,
+    "PRODUCT21_QUANTITY": 3,
+    "PRODUCT21_BRAND": "365 Everyday Value",
+    "PRODUCT21_ITEM_CATEGORY": "Parchment Paper",
+    "PRODUCT22_NAME": "Vedaka Darjeeling Tea - 500gms Pouch, 500 g",
+    "PRODUCT22_PRICE": 34.49,
+    "PRODUCT22_IMAGE": "products/abo-images-small/images/small/cf/cffbb74a.jpg",
+    "PRODUCT22_DESC": "Premium, hand-picked long leaves sourced from Darjeeling tea gardens",
+    "PRODUCT22_RATING": 4.4,
+    "PRODUCT22_NUM_RATINGS": 172,
+    "PRODUCT22_QUANTITY": 4,
+    "PRODUCT22_BRAND": "Vedaka",
+    "PRODUCT22_ITEM_CATEGORY": "Tea",
+    "PRODUCT23_NAME": "Set of 4 Silver Geodes Prints Wall Art Decor in Silver Frames",
+    "PRODUCT23_PRICE": 34.0,
+    "PRODUCT23_IMAGE": "products/abo-images-small/images/small/e1/e1a771d0.jpg",
+    "PRODUCT23_DESC": "Quality Set for everyday use",
+    "PRODUCT23_RATING": 4.5,
+    "PRODUCT23_NUM_RATINGS": 184,
+    "PRODUCT23_QUANTITY": 1,
+    "PRODUCT23_BRAND": "Generic",
+    "PRODUCT23_ITEM_CATEGORY": "Wall Art",
+    "PRODUCT24_NAME": "A2Z Beauty Palette",
+    "PRODUCT24_PRICE": 28.0,
+    "PRODUCT24_IMAGE": "products/abo-images-small/images/small/48/48601257.jpg",
+    "PRODUCT24_DESC": "Quality A2Z for everyday use",
+    "PRODUCT24_RATING": 4.3,
+    "PRODUCT24_NUM_RATINGS": 383,
+    "PRODUCT24_QUANTITY": 1,
+    "PRODUCT24_BRAND": "A2Z",
+    "PRODUCT24_ITEM_CATEGORY": "Beauty Palette",
+    "PRODUCT25_NAME": "365 EVERYDAY VALUE Fiber Gummy, 90 CT",
+    "PRODUCT25_PRICE": 39.79,
+    "PRODUCT25_IMAGE": "products/abo-images-small/images/small/03/036e170d.jpg",
+    "PRODUCT25_DESC": "Brought to you by Whole Foods Market.\u00a0 The packaging for this product has a fresh new look. During this transition, you may get the original packaging or the new packaging in your order, but the produ",
+    "PRODUCT25_RATING": 4.8,
+    "PRODUCT25_NUM_RATINGS": 681,
+    "PRODUCT25_QUANTITY": 2,
+    "PRODUCT25_BRAND": "365 Everyday Value",
+    "PRODUCT25_ITEM_CATEGORY": "Fiber Gummies",
+    "PRODUCT26_NAME": "Exacon USB Cable 2.0 A Male to Micro B (6 Feet/1.8 Meters)",
+    "PRODUCT26_PRICE": 22.99,
+    "PRODUCT26_IMAGE": "products/abo-images-small/images/small/8a/8af189aa.jpg",
+    "PRODUCT26_DESC": "USB A to Micro B Cable",
+    "PRODUCT26_RATING": 4.4,
+    "PRODUCT26_NUM_RATINGS": 745,
+    "PRODUCT26_QUANTITY": 3,
+    "PRODUCT26_BRAND": "Exacon",
+    "PRODUCT26_ITEM_CATEGORY": "Usb Cable",
+    "PRODUCT27_NAME": "Stone & Beam Modern Plaid Duvet Set",
+    "PRODUCT27_PRICE": 32.49,
+    "PRODUCT27_IMAGE": "products/abo-images-small/images/small/3c/3c1e7097.jpg",
+    "PRODUCT27_DESC": "Quality Stone for everyday use",
+    "PRODUCT27_RATING": 4.3,
+    "PRODUCT27_NUM_RATINGS": 1224,
+    "PRODUCT27_QUANTITY": 1,
+    "PRODUCT27_BRAND": "Stone & Beam",
+    "PRODUCT27_ITEM_CATEGORY": "Duvet Set",
+    "PRODUCT28_NAME": "Rivet Mid-Century Leather Swivel Chair, 23.6\"W, Brown (Renewed)",
+    "PRODUCT28_PRICE": 26.0,
+    "PRODUCT28_IMAGE": "products/abo-images-small/images/small/d1/d1bcb699.jpg",
+    "PRODUCT28_DESC": "While this mid-century-design swivel chair is ideal for a home office, it's handsome enough to be used in any room. Brown upholstered leather and low-slung arms offer comfort and durability.",
+    "PRODUCT28_RATING": 3.5,
+    "PRODUCT28_NUM_RATINGS": 291,
+    "PRODUCT28_QUANTITY": 1,
+    "PRODUCT28_BRAND": "Rivet",
+    "PRODUCT28_ITEM_CATEGORY": "Swivel Chair",
+    "PRODUCT29_NAME": "Sterling Silver Created Blue Sapphire and Diamond Infinity Bracelet (1/10 cttw, I-J Color, I2-I3 Cla",
+    "PRODUCT29_PRICE": 39.79,
+    "PRODUCT29_IMAGE": "products/abo-images-small/images/small/7a/7ac37bd6.jpg",
+    "PRODUCT29_DESC": "Bracelet featuring oval-cut gemstones interspersed with diamond-accented infinity links",
+    "PRODUCT29_RATING": 3.9,
+    "PRODUCT29_NUM_RATINGS": 71,
+    "PRODUCT29_QUANTITY": 4,
+    "PRODUCT29_BRAND": "Generic",
+    "PRODUCT29_ITEM_CATEGORY": "Bracelet",
+    "PRODUCT30_NAME": "Thirty Five Kent Men's Cashmere Seed Stitch Marled Scarf and Hat, Coal",
+    "PRODUCT30_PRICE": 28.79,
+    "PRODUCT30_IMAGE": "products/abo-images-small/images/small/c7/c7b09477.jpg",
+    "PRODUCT30_DESC": "Quality Thirty for everyday use",
+    "PRODUCT30_RATING": 4.6,
+    "PRODUCT30_NUM_RATINGS": 96,
+    "PRODUCT30_QUANTITY": 2,
+    "PRODUCT30_BRAND": "Thirty Five Kent",
+    "PRODUCT30_ITEM_CATEGORY": "Scarf And Hat"
+  },
+  "company": "apple",
+  "page_type": "customer-info-address",
+  "device": "desktop",
+  "variant_idx": 0,
+  "scroll_y": 0,
+  "page_height": 1470,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "required_fields": [
+    "PII_COUNTRY",
+    "PRODUCT1_IMAGE",
+    "PRODUCT1_NAME",
+    "PRODUCT1_PRICE",
+    "PRODUCT1_QUANTITY",
+    "SEED"
+  ],
+  "pii_form_fields": [
+    "PII_FIRSTNAME",
+    "PII_LASTNAME",
+    "PII_PHONE_AREA",
+    "PII_PHONE_LINE",
+    "PII_EMAIL",
+    "PII_COMPANY",
+    "PII_STREET",
+    "PII_STREET_2",
+    "PII_POSTCODE"
+  ],
+  "source_image": "data/ui_images/customer-info-address/3-apple-desktop.png",
+  "output_dir": "ui_reproducer/output/desktop/apple/customer-info-address/3/20260115_044038",
+  "reproduction_status": "unknown",
+  "split": "train",
+  "detection_stats": {
+    "pii_found": 10,
+    "pii_visible": 10,
+    "pii_fillable": 9,
+    "products_found": 15,
+    "products_visible": 15,
+    "search_found": 1,
+    "search_visible": 1,
+    "containers_found": 7,
+    "boxes_drawn": 26
+  },
+  "pii_elements": [
+    {
+      "key": "PII_COUNTRY",
+      "value": "United States",
+      "bbox": {
+        "x": 181,
+        "y": 517,
+        "width": 81.265625,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PII_FIRSTNAME",
+      "value": "Alexandra",
+      "bbox": {
+        "x": 181,
+        "y": 208,
+        "width": 140,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_LASTNAME",
+      "value": "Hill",
+      "bbox": {
+        "x": 331,
+        "y": 208,
+        "width": 140,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE_AREA",
+      "value": "496",
+      "bbox": {
+        "x": 181,
+        "y": 246,
+        "width": 80,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_PHONE_LINE",
+      "value": "2992",
+      "bbox": {
+        "x": 271,
+        "y": 246,
+        "width": 288,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_EMAIL",
+      "value": "alexandra.hill@hotmail.com",
+      "bbox": {
+        "x": 181,
+        "y": 284,
+        "width": 352,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_COMPANY",
+      "value": "",
+      "bbox": {
+        "x": 181,
+        "y": 363,
+        "width": 378,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET",
+      "value": "547 Theresa Cliff",
+      "bbox": {
+        "x": 181,
+        "y": 401,
+        "width": 378,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_STREET2",
+      "value": "",
+      "bbox": {
+        "x": 181,
+        "y": 439,
+        "width": 378,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    },
+    {
+      "key": "PII_POSTCODE",
+      "value": "41724",
+      "bbox": {
+        "x": 181,
+        "y": 477,
+        "width": 100,
+        "height": 28
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "product_elements": [
+    {
+      "key": "PRODUCT1_NAME",
+      "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+      "bbox": {
+        "x": 281,
+        "y": 890.5,
+        "width": 97.46875,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": 2
+    },
+    {
+      "key": "PRODUCT1_NAME",
+      "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+      "bbox": {
+        "x": 281,
+        "y": 869.5,
+        "width": 346.25,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": 1
+    },
+    {
+      "key": "PRODUCT1_NAME",
+      "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+      "bbox": {
+        "x": 281,
+        "y": 848.5,
+        "width": 381.40625,
+        "height": 16
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": 0
+    },
+    {
+      "key": "PRODUCT1_PRICE",
+      "value": 32.99,
+      "bbox": {
+        "x": 695.046875,
+        "y": 848.5,
+        "width": 45.5,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PRODUCT1_QUANTITY",
+      "value": 3,
+      "bbox": {
+        "x": 780.546875,
+        "y": 848.5,
+        "width": 8.28125,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "PRODUCT1_IMAGE",
+      "value": "",
+      "bbox": {
+        "x": 181,
+        "y": 846.5,
+        "width": 80,
+        "height": 80
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "image",
+      "line_index": null
+    },
+    {
+      "key": "PRODUCT1_SKU",
+      "value": "ZIUM27/S",
+      "bbox": {
+        "x": 362.984375,
+        "y": 967.5,
+        "width": 57.828125,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SHIPPING_COST",
+      "value": "$4.00",
+      "bbox": {
+        "x": 1069.640625,
+        "y": 192,
+        "width": 34.359375,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SHIPPING_COST",
+      "value": "$4.00",
+      "bbox": {
+        "x": 322.25,
+        "y": 734,
+        "width": 37.234375,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SHIPPING_COST",
+      "value": "$4.00",
+      "bbox": {
+        "x": 841.765625,
+        "y": 1244.5,
+        "width": 37.234375,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_ITEM_TOTAL",
+      "value": "$98.97",
+      "bbox": {
+        "x": 828.828125,
+        "y": 848.5,
+        "width": 50.171875,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SUBTOTAL",
+      "value": "$98.97",
+      "bbox": {
+        "x": 1062,
+        "y": 169,
+        "width": 42,
+        "height": 14
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_SUBTOTAL",
+      "value": "$98.97",
+      "bbox": {
+        "x": 833.5,
+        "y": 1220,
+        "width": 45.5,
+        "height": 15
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_TOTAL",
+      "value": "$102.97",
+      "bbox": {
+        "x": 806.109375,
+        "y": 1285,
+        "width": 72.890625,
+        "height": 19
+      },
+      "visible": true,
+      "clipped": true,
+      "element_type": "text",
+      "line_index": null
+    },
+    {
+      "key": "ORDER_TOTAL",
+      "value": "$102.97",
+      "bbox": {
+        "x": 1022,
+        "y": 237,
+        "width": 82,
+        "height": 21
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "text",
+      "line_index": null
+    }
+  ],
+  "search_elements": [
+    {
+      "key": "HEADER_SEARCH",
+      "value": "",
+      "bbox": {
+        "x": 994,
+        "y": 10.75,
+        "width": 120,
+        "height": 24
+      },
+      "visible": true,
+      "clipped": false,
+      "element_type": "input",
+      "line_index": null
+    }
+  ],
+  "pii_containers": [
+    {
+      "container_type": "input_field",
+      "bbox": {
+        "x": 994,
+        "y": 10.75,
+        "width": 120,
+        "height": 24
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "input field"
+    },
+    {
+      "container_type": "form_group",
+      "bbox": {
+        "x": 160,
+        "y": 114,
+        "width": 740,
+        "height": 541
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": true,
+      "pii_keys": [
+        "PII_COUNTRY"
+      ],
+      "semantic_hint": "form group"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 160,
+        "y": 675,
+        "width": 740,
+        "height": 97.5
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 160,
+        "y": 792.5,
+        "width": 740,
+        "height": 233
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 160,
+        "y": 1045.5,
+        "width": 740,
+        "height": 282.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "account info card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 920,
+        "y": 114,
+        "width": 200,
+        "height": 302.953125
+      },
+      "visible": true,
+      "clipped": false,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "order details card"
+    },
+    {
+      "container_type": "card",
+      "bbox": {
+        "x": 920,
+        "y": 436.953125,
+        "width": 200,
+        "height": 364.5
+      },
+      "visible": true,
+      "clipped": true,
+      "contains_actual_pii": false,
+      "pii_keys": [],
+      "semantic_hint": "card"
+    }
+  ],
+  "fillable_fields_info": {
+    "fillable_keys": [
+      "PII_POSTCODE",
+      "PII_FIRSTNAME",
+      "PII_COMPANY",
+      "PII_EMAIL",
+      "PII_LASTNAME",
+      "PII_PHONE_AREA",
+      "PII_STREET2",
+      "PII_PHONE_LINE",
+      "PII_STREET"
+    ],
+    "count": 9
+  },
+  "partial_fill_info": {
+    "enabled": false,
+    "fields": []
+  },
+  "timestamp": "2026-01-19T22:52:49.906651",
+  "_meta": {
+    "anchor_product": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Re",
+    "product_category": "water filtration system",
+    "search_term": "water filtration system",
+    "real_product_count": 30,
+    "generated_with": "faker"
+  },
+  "partial_per_field": [
+    {
+      "field_idx": 0,
+      "field_name": "PII_FIRSTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_00.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "A",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_FIRSTNAME",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "A",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE_AREA",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE_LINE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 1,
+      "field_name": "PII_LASTNAME",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_01.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "H",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_LASTNAME",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "H",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE_AREA",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE_LINE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 2,
+      "field_name": "PII_PHONE_AREA",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_02.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "4",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE_AREA",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "4",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_PHONE_LINE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 3,
+      "field_name": "PII_PHONE_LINE",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_03.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_PHONE_LINE",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "2",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 4,
+      "field_name": "PII_EMAIL",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_04.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2992",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "alexandra.hill@h",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_EMAIL",
+              "fill_status": "partial",
+              "char_count": 16,
+              "displayed_value": "alexandra.hill@h",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 5,
+      "field_name": "PII_COMPANY",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_05.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2992",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "alexandra.hill@hotmail.com",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_COMPANY",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 6,
+      "field_name": "PII_STREET",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_06.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2992",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "alexandra.hill@hotmail.com",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "547",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET",
+              "fill_status": "partial",
+              "char_count": 3,
+              "displayed_value": "547",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 7,
+      "field_name": "PII_STREET_2",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_07.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2992",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "alexandra.hill@hotmail.com",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "547 Theresa Cliff",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_STREET_2",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "",
+              "element_type": "input"
+            },
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "empty",
+              "char_count": null,
+              "displayed_value": "",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "field_idx": 8,
+      "field_name": "PII_POSTCODE",
+      "image_path": "more_images_and_maps_fixed_all_flags/7050_partial_08.png",
+      "detection": {
+        "pii_elements": [
+          {
+            "key": "PII_COUNTRY",
+            "value": "United States",
+            "bbox": {
+              "x": 181,
+              "y": 517,
+              "width": 81.265625,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PII_FIRSTNAME",
+            "value": "Alexandra",
+            "bbox": {
+              "x": 181,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_LASTNAME",
+            "value": "Hill",
+            "bbox": {
+              "x": 331,
+              "y": 208,
+              "width": 140,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_AREA",
+            "value": "496",
+            "bbox": {
+              "x": 181,
+              "y": 246,
+              "width": 80,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_PHONE_LINE",
+            "value": "2992",
+            "bbox": {
+              "x": 271,
+              "y": 246,
+              "width": 288,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_EMAIL",
+            "value": "alexandra.hill@hotmail.com",
+            "bbox": {
+              "x": 181,
+              "y": 284,
+              "width": 352,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_COMPANY",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 363,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET",
+            "value": "547 Theresa Cliff",
+            "bbox": {
+              "x": 181,
+              "y": 401,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_STREET2",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 439,
+              "width": 378,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          },
+          {
+            "key": "PII_POSTCODE",
+            "value": "4",
+            "bbox": {
+              "x": 181,
+              "y": 477,
+              "width": 100,
+              "height": 28
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "product_elements": [
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 890.5,
+              "width": 97.46875,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 2
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 869.5,
+              "width": 346.25,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 1
+          },
+          {
+            "key": "PRODUCT1_NAME",
+            "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+            "bbox": {
+              "x": 281,
+              "y": 848.5,
+              "width": 381.40625,
+              "height": 16
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": 0
+          },
+          {
+            "key": "PRODUCT1_PRICE",
+            "value": 32.99,
+            "bbox": {
+              "x": 695.046875,
+              "y": 848.5,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_QUANTITY",
+            "value": 3,
+            "bbox": {
+              "x": 780.546875,
+              "y": 848.5,
+              "width": 8.28125,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_IMAGE",
+            "value": "",
+            "bbox": {
+              "x": 181,
+              "y": 846.5,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "image",
+            "line_index": null
+          },
+          {
+            "key": "PRODUCT1_SKU",
+            "value": "ZIUM27/S",
+            "bbox": {
+              "x": 362.984375,
+              "y": 967.5,
+              "width": 57.828125,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 1069.640625,
+              "y": 192,
+              "width": 34.359375,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 322.25,
+              "y": 734,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SHIPPING_COST",
+            "value": "$4.00",
+            "bbox": {
+              "x": 841.765625,
+              "y": 1244.5,
+              "width": 37.234375,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_ITEM_TOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 828.828125,
+              "y": 848.5,
+              "width": 50.171875,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 1062,
+              "y": 169,
+              "width": 42,
+              "height": 14
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_SUBTOTAL",
+            "value": "$98.97",
+            "bbox": {
+              "x": 833.5,
+              "y": 1220,
+              "width": 45.5,
+              "height": 15
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 806.109375,
+              "y": 1285,
+              "width": 72.890625,
+              "height": 19
+            },
+            "visible": true,
+            "clipped": true,
+            "element_type": "text",
+            "line_index": null
+          },
+          {
+            "key": "ORDER_TOTAL",
+            "value": "$102.97",
+            "bbox": {
+              "x": 1022,
+              "y": 237,
+              "width": 82,
+              "height": 21
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "text",
+            "line_index": null
+          }
+        ],
+        "search_elements": [
+          {
+            "key": "HEADER_SEARCH",
+            "value": "",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "element_type": "input",
+            "line_index": null
+          }
+        ],
+        "pii_containers": [
+          {
+            "container_type": "input_field",
+            "bbox": {
+              "x": 994,
+              "y": 10.75,
+              "width": 120,
+              "height": 24
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "input field"
+          },
+          {
+            "container_type": "form_group",
+            "bbox": {
+              "x": 160,
+              "y": 114,
+              "width": 740,
+              "height": 541
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": true,
+            "pii_keys": [
+              "PII_COUNTRY"
+            ],
+            "semantic_hint": "form group"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 675,
+              "width": 740,
+              "height": 97.5
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 792.5,
+              "width": 740,
+              "height": 233
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 160,
+              "y": 1045.5,
+              "width": 740,
+              "height": 282.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "account info card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 114,
+              "width": 200,
+              "height": 302.953125
+            },
+            "visible": true,
+            "clipped": false,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "order details card"
+          },
+          {
+            "container_type": "card",
+            "bbox": {
+              "x": 920,
+              "y": 436.953125,
+              "width": 200,
+              "height": 364.5
+            },
+            "visible": true,
+            "clipped": true,
+            "contains_actual_pii": false,
+            "pii_keys": [],
+            "semantic_hint": "card"
+          }
+        ],
+        "debug_info": [],
+        "partial_fill_info": {
+          "enabled": true,
+          "fields": [
+            {
+              "key": "PII_POSTCODE",
+              "fill_status": "partial",
+              "char_count": 1,
+              "displayed_value": "4",
+              "element_type": "input"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "empty": {
+    "image_path": "more_images_and_maps_fixed_all_flags/7050_empty.png",
+    "detection_stats": {
+      "pii_found": 10,
+      "pii_visible": 10,
+      "products_found": 15,
+      "products_visible": 15,
+      "search_found": 1,
+      "search_visible": 1
+    },
+    "pii_elements": [
+      {
+        "key": "PII_COUNTRY",
+        "value": "United States",
+        "bbox": {
+          "x": 181,
+          "y": 517,
+          "width": 81.265625,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PII_FIRSTNAME",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 208,
+          "width": 140,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_LASTNAME",
+        "value": "",
+        "bbox": {
+          "x": 331,
+          "y": 208,
+          "width": 140,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE_AREA",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 246,
+          "width": 80,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_PHONE_LINE",
+        "value": "",
+        "bbox": {
+          "x": 271,
+          "y": 246,
+          "width": 288,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_EMAIL",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 284,
+          "width": 352,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_COMPANY",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 363,
+          "width": 378,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 401,
+          "width": 378,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_STREET2",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 439,
+          "width": 378,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      },
+      {
+        "key": "PII_POSTCODE",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 477,
+          "width": 100,
+          "height": 28
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ],
+    "product_elements": [
+      {
+        "key": "PRODUCT1_NAME",
+        "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+        "bbox": {
+          "x": 281,
+          "y": 890.5,
+          "width": 97.46875,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": 2
+      },
+      {
+        "key": "PRODUCT1_NAME",
+        "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+        "bbox": {
+          "x": 281,
+          "y": 869.5,
+          "width": 346.25,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": 1
+      },
+      {
+        "key": "PRODUCT1_NAME",
+        "value": "Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, FC",
+        "bbox": {
+          "x": 281,
+          "y": 848.5,
+          "width": 381.40625,
+          "height": 16
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": 0
+      },
+      {
+        "key": "PRODUCT1_PRICE",
+        "value": 32.99,
+        "bbox": {
+          "x": 695.046875,
+          "y": 848.5,
+          "width": 45.5,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PRODUCT1_QUANTITY",
+        "value": 3,
+        "bbox": {
+          "x": 780.546875,
+          "y": 848.5,
+          "width": 8.28125,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "PRODUCT1_IMAGE",
+        "value": "",
+        "bbox": {
+          "x": 181,
+          "y": 846.5,
+          "width": 80,
+          "height": 80
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "image",
+        "line_index": null
+      },
+      {
+        "key": "PRODUCT1_SKU",
+        "value": "ZIUM27/S",
+        "bbox": {
+          "x": 362.984375,
+          "y": 967.5,
+          "width": 57.828125,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SHIPPING_COST",
+        "value": "$4.00",
+        "bbox": {
+          "x": 1069.640625,
+          "y": 192,
+          "width": 34.359375,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SHIPPING_COST",
+        "value": "$4.00",
+        "bbox": {
+          "x": 322.25,
+          "y": 734,
+          "width": 37.234375,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SHIPPING_COST",
+        "value": "$4.00",
+        "bbox": {
+          "x": 841.765625,
+          "y": 1244.5,
+          "width": 37.234375,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_ITEM_TOTAL",
+        "value": "$98.97",
+        "bbox": {
+          "x": 828.828125,
+          "y": 848.5,
+          "width": 50.171875,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SUBTOTAL",
+        "value": "$98.97",
+        "bbox": {
+          "x": 1062,
+          "y": 169,
+          "width": 42,
+          "height": 14
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_SUBTOTAL",
+        "value": "$98.97",
+        "bbox": {
+          "x": 833.5,
+          "y": 1220,
+          "width": 45.5,
+          "height": 15
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_TOTAL",
+        "value": "$102.97",
+        "bbox": {
+          "x": 806.109375,
+          "y": 1285,
+          "width": 72.890625,
+          "height": 19
+        },
+        "visible": true,
+        "clipped": true,
+        "element_type": "text",
+        "line_index": null
+      },
+      {
+        "key": "ORDER_TOTAL",
+        "value": "$102.97",
+        "bbox": {
+          "x": 1022,
+          "y": 237,
+          "width": 82,
+          "height": 21
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "text",
+        "line_index": null
+      }
+    ],
+    "search_elements": [
+      {
+        "key": "HEADER_SEARCH",
+        "value": "",
+        "bbox": {
+          "x": 994,
+          "y": 10.75,
+          "width": 120,
+          "height": 24
+        },
+        "visible": true,
+        "clipped": false,
+        "element_type": "input",
+        "line_index": null
+      }
+    ]
+  }
+}
