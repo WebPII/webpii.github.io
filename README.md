@@ -16,9 +16,9 @@ Experiments validate that these design choices improve layout-invariant detectio
 
 If you find WebPII useful for your work please cite:
 ```bibtex
-@inproceedings{anonymous2026webpii,
+@inproceedings{zhao2026webpii,
   title={WebPII: A Synthetic Benchmark for Visual PII Detection in E-commerce Web Interfaces},
-  author={Anonymous Authors},
+  author={Nathan Zhao},
   booktitle={ICLR 2026 Workshop on Reliable Autonomy},
   year={2026}
 }
