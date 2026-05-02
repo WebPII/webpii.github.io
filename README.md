@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python -m playwright install chromium
 
 cd ui_reproducer/template
-npm ci
+npm install
 cd ../..
 ```
 

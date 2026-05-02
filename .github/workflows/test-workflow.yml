@@ -5,7 +5,7 @@ on:
     types: [opened, synchronize, reopened]
   push:
     branches:
-      - neurips2026-code-release
+      - code
 
 env:
   PYTHON_VERSION: "3.11"
@@ -30,15 +30,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: npm
-          cache-dependency-path: ui_reproducer/template/package-lock.json
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install chromium
-          npm ci --prefix ui_reproducer/template
+          npm install --prefix ui_reproducer/template
 
       - name: Check anonymization
         run: python scripts/check_release.py
