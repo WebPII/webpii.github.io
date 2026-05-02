@@ -7,7 +7,6 @@ debug_*/
 venv/
 scratch/
 ui_reproducer/data.json
-ui_reproducer/.test_workflow_state.json
 ui_reproducer/test_variants.ndjson
 ui_reproducer/test_variants.log
 ui_reproducer/test_variants.stats.json

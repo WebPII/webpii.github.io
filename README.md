@@ -174,12 +174,12 @@ reproductions, not to run the benchmark on released data.
 
 ```bash
 cd ui_reproducer
-LLM_BACKEND=claude python reproduce_ui.py ../example_data/ui_images/cart/2478-apple-desktop.png --iterations 1
+python reproduce_ui.py ../example_data/ui_images/cart/2478-apple-desktop.png --iterations 1 --backend opencode
 ```
 
-Supported `LLM_BACKEND` values are `claude` and `opencode`. The corresponding
-CLI must be installed and available on `PATH`; set `OPENCODE_BIN` to override
-the OpenCode executable path.
+Supported backends are `opencode` and `claude`. The corresponding CLI must be
+installed and available on `PATH`; set `OPENCODE_BIN` to override the OpenCode
+executable path.
 
 ## OpenReview
 

@@ -298,8 +298,8 @@ def main():
     print()
     print("Next steps:")
     print("  1. Review the generated example_data/ directory")
-    print("  2. Commit and push to include in CI/CD")
-    print("  3. GitHub Actions will use this data for test_workflow")
+    print("  2. Run bash scripts/smoke_test.sh")
+    print("  3. Commit the updated fixture data")
 
     return 0
 

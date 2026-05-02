@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-UI Reproducer - Takes a screenshot and uses Claude Code to reproduce the UI.
-Iteratively improves the reproduction by comparing screenshots.
+UI Reproducer - Takes a screenshot and uses a local LLM coding CLI to reproduce
+the UI. Iteratively improves the reproduction by comparing screenshots.
 
 Usage:
     python reproduce_ui.py <image_path> [--iterations N] [--model MODEL] [--no-splits]
@@ -12,7 +12,7 @@ Example:
 Iteration Strategy (default is 2 iterations):
 -------------------
 Iteration 1: Initial reproduction
-    - Claude analyzes the original image and generates App.jsx from scratch
+    - The LLM backend analyzes the original image and generates App.jsx from scratch
 
 Iteration 2: Split refinement (if image height > 1000px and --no-splits not set)
     - Phase 1: HEADER (top 200px) - always refined separately
@@ -25,7 +25,6 @@ Iteration 3+: Standard full-image refinement (if --iterations is set to 3 or mor
     - Compare full original vs full screenshot
     - Fix remaining discrepancies
 
-Don't run this file. You should run it from test_workflow.py
 """
 
 import argparse
@@ -1613,7 +1612,7 @@ def reproduce_ui(image_path: str, iterations: int = 3, port: int = None):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Reproduce UI from screenshot using Claude Code")
+    parser = argparse.ArgumentParser(description="Reproduce UI from screenshot using a local LLM coding CLI")
     parser.add_argument("image_path", help="Path to the input screenshot")
     parser.add_argument("--iterations", type=int, default=2, help="Number of improvement iterations")
     parser.add_argument("--model", type=str, default=None,

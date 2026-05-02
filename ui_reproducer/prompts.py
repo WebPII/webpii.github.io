@@ -1,5 +1,5 @@
 """
-Prompt templates for Claude Code UI reproduction.
+Prompt templates for LLM-assisted UI reproduction.
 
 Architecture:
 - Structure prompt: Visual reproduction + data substitution (what goes where)

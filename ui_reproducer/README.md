@@ -1,6 +1,10 @@
 # WebPII UI Reproducer
 
 Tools for reproducing UIs from screenshots and generating PII-annotated datasets.
+The original website screenshots used during benchmark construction are not
+released because they may contain account, order, address, payment, or
+session-specific PII. Public reproducibility starts from the released React
+reproductions and synthetic data artifacts described in `../REPRODUCIBILITY.md`.
 
 ## Setup
 
@@ -20,13 +24,16 @@ Takes a screenshot and uses a local LLM coding CLI to create an instrumented
 React reproduction.
 
 ```bash
-python reproduce_ui.py <image_path> [--iterations N]
+python reproduce_ui.py <image_path> [--iterations N] [--backend opencode|claude]
 
 # Example
-python reproduce_ui.py ../data/ui_images/account-dashboard/4022-amazon-desktop.png --iterations 3
+python reproduce_ui.py ../example_data/ui_images/cart/2478-apple-desktop.png --iterations 1 --backend opencode
 ```
 
-**Output:** `output/{device}/{company}/{page_type}/{timestamp}/` containing a Vite React project.
+**Output:** `output/{device}/{company}/{page_type}/{timestamp}/` containing a
+Vite React project. This optional step requires a local LLM coding CLI and the
+source screenshot. The released benchmark dataset should already include React
+reproductions for full screenshot and annotation generation.
 
 ---
 
@@ -36,8 +43,8 @@ Generates diverse `data.json` variants from Faker PII fields and product
 metadata. OpenAI augmentation is optional.
 
 ```bash
-# Basic generation
-python generate_data_variants.py --num-variants 100 --products-per-variant 30 --output data_variants.ndjson
+# Basic generation from the release fixture
+python generate_data_variants.py --data-dir ../example_data --num-variants 3 --products-per-variant 5 --output /tmp/webpii_variants.ndjson --seed 42
 ```
 
 **Options:**
@@ -64,9 +71,10 @@ python generate_data_variants.py --num-variants 100 --products-per-variant 30 --
 - `data_variants.stats.json` - Statistics (timing, counts, etc.)
 
 **Data Sources:**
-- `data/text_pii/nemotron-pii/` - PII fields (name, email, phone, address)
-- `data/text_pii/panorama/` - Context samples (Article, Online Review, Online Ad)
-- `data/assets/products/products_merged.ndjson` - Product images and metadata
+- `../example_data/` - Small runnable fixture in this release
+- `../data/text_pii/nemotron-pii/` - PII fields in the full dataset
+- `../data/text_pii/panorama/` - Context samples in the full dataset
+- `../data/assets/products/products_merged.ndjson` - Product metadata in the full dataset
 
 **Output Format (NDJSON):**
 ```json
@@ -126,9 +134,9 @@ python screenshot_pages.py --data data_variants.ndjson --output screenshots/ \
 | `--seed N` | Random seed |
 
 **Parallelization:**
-- ✅ Parallel across pages (each page = 1 worker on its own port)
-- ❌ Sequential within a page (server restart needed per data variant)
-- Total screenshots = pages × variants × scrolls
+- Parallel across pages: each page gets one worker on its own port
+- Sequential within a page: the server restarts for each data variant
+- Total screenshots: pages x variants x scrolls
 
 **Bounding Box Types:**
 
@@ -215,14 +223,14 @@ screenshots/
 ## Workflow Example
 
 ```bash
-# 1. Generate 100 data variants with LLM-guided product search
-python generate_data_variants.py --num-variants 100 --use-llm --output data_variants.ndjson
+# 1. Generate data variants
+python generate_data_variants.py --data-dir ../data --num-variants 100 --products-per-variant 30 --output data_variants.ndjson --seed 42
 
-# 2. Screenshot all pages (5 variants × 3 scroll positions = 15 per page)
+# 2. Screenshot all pages (5 variants x 3 scroll positions = 15 per page)
 python screenshot_pages.py --data data_variants.ndjson --output screenshots/ \
     --num-variants 5 --scrolls-per-variant 3 --workers 8
 
-# 3. Quick test with scroll at top (to see PII bounding boxes)
+# 3. Quick test with scroll at top
 python screenshot_pages.py --data data_variants.ndjson --output screenshots_test/ \
     --num-variants 2 --scroll-top --page-filter amazon
 
@@ -240,7 +248,6 @@ ui_reproducer/
 ├── reproduce_ui.py           # UI reproduction from screenshots
 ├── generate_data_variants.py # PII data generation
 ├── screenshot_pages.py       # Screenshot with bbox annotations
-├── data.json                 # Default PII/product data
 ├── template/                 # Vite React template
 ├── output/                   # Reproduced UIs
 │   └── {device}/{company}/{page_type}/{timestamp}/
@@ -263,11 +270,5 @@ Product images (400K+ files, 5GB+) are served on-demand via Vite middleware to a
 ```
 
 The `vite.config.js` template uses:
-- `publicDir` → `assets_lite/` (logos, payment methods only)
-- Custom middleware → serves `/products/*` on-demand from `assets/products/`
-
----
-
-## Notes
-
-- The OmniParser integration (`OmniParser/`, `SETUP_OMNIPARSER.md`) was previously considered but is not currently in use.
+- `publicDir` for `assets_lite/` (logos and payment methods only)
+- Custom middleware for serving `/products/*` on demand from `assets/products/`
