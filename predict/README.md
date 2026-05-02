@@ -1,9 +1,11 @@
-# PII Prediction System
+# WebPII Prediction Baselines
 
-This directory contains tools for predicting PII bounding boxes in UI screenshots using two approaches:
+This directory contains baseline and model code for detecting PII bounding boxes
+in WebPII screenshots:
 
-1. **OCR-based validation** - Naive approach using pytesseract
-2. **YOLO-based detection** - YOLOv8-nano trained on ground truth annotations
+- OCR plus text/PII classifiers;
+- Presidio, Tesseract, PaddleOCR, and LLM-assisted baselines;
+- YOLOv8 training, inference, export, and evaluation.
 
 ## Setup
 
@@ -17,7 +19,8 @@ pip install -r requirements.txt
 
 ## Ground Truth Data
 
-The ground truth data is located in `ui_reproducer/screenshots/`:
+By default, scripts expect released screenshot annotations in
+`ui_reproducer/screenshots/`:
 - `*.png` - Screenshot images
 - `*.json` - Annotations with PII bounding boxes
 
@@ -119,18 +122,10 @@ python yolo_inference.py batch --weights best.pt --images-dir test_images/ --out
 ### Detailed (18 classes):
 Each PII key gets its own class ID.
 
-## Expected Metrics
-
-Given the small dataset (~26 images), expected performance:
-
-| Method | Precision | Recall | Notes |
-|--------|-----------|--------|-------|
-| OCR    | ~30-50%   | ~20-40% | Struggles with form inputs, overlapping text |
-| YOLO   | ~60-80%   | ~50-70% | Better localization, needs more training data |
-
 ## Files
 
 - `ocr_validation.py` - OCR-based PII detection and evaluation
 - `yolo_train.py` - YOLOv8 training pipeline (prepare, train, export, visualize)
-- `yolo_inference.py` - YOLO inference and evaluation (supports v5 and v8)
+- `yolo_inference.py` - YOLO inference and evaluation
+- `benchmark.py` - common benchmark runner across detector implementations
 - `requirements.txt` - Python dependencies

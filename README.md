@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python -m playwright install chromium
 
 cd ui_reproducer/template
-npm install
+npm ci
 cd ../..
 ```
 
@@ -49,7 +49,15 @@ ui_scraper.py              Optional source screenshot collection helper
 
 ## Smoke Test
 
-This smoke test exercises the synthetic-data path using only `example_data/`.
+These smoke tests exercise the released code using only `example_data/`.
+
+Build the React template:
+
+```bash
+npm --prefix ui_reproducer/template run build
+```
+
+Generate synthetic PII/product variants:
 
 ```bash
 python ui_reproducer/generate_data_variants.py \
@@ -63,6 +71,12 @@ python ui_reproducer/generate_data_variants.py \
 
 Expected output: `/tmp/webpii_variants.ndjson` with three JSON lines containing
 synthetic PII fields and product metadata.
+
+Check release anonymity:
+
+```bash
+python scripts/check_release.py
+```
 
 ## Full Dataset Workflow
 
@@ -156,5 +170,5 @@ the OpenCode executable path.
 
 ## OpenReview
 
-See `OPENREVIEW_CODE.md` for the recommended anonymized submission procedure and
-the fields to paste into OpenReview.
+Use this repository URL as the OpenReview code URL. The dataset URL and
+Croissant metadata should be submitted separately in the dataset fields.

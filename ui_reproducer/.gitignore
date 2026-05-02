@@ -6,5 +6,7 @@ screenshots_/
 data.json
 template/node_modules/
 template/package-lock.json
+!template/package-lock.json
+!template/src/data.json
 .mass_reproduce_state.json
 .test_workflow_state.json

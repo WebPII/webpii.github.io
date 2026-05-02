@@ -1,20 +1,23 @@
-# UI Reproducer
+# WebPII UI Reproducer
 
 Tools for reproducing UIs from screenshots and generating PII-annotated datasets.
 
 ## Setup
 
-Install Node.js dependencies in the template directory (shared across all generated projects):
+Install Node.js dependencies in the template directory. The template is shared
+across generated projects and can be built directly from the release fixture.
 
 ```bash
-cd template && npm install
+cd template && npm ci
+npm run build
 ```
 
 ## Scripts
 
 ### 1. `reproduce_ui.py` - Reproduce UI from Screenshot
 
-Takes a screenshot and uses Claude Code to create a pixel-perfect React reproduction.
+Takes a screenshot and uses a local LLM coding CLI to create an instrumented
+React reproduction.
 
 ```bash
 python reproduce_ui.py <image_path> [--iterations N]
@@ -29,15 +32,12 @@ python reproduce_ui.py ../data/ui_images/account-dashboard/4022-amazon-desktop.p
 
 ### 2. `generate_data_variants.py` - Generate PII Data Variants
 
-Generates diverse `data.json` variants by sampling from PII datasets.
-Uses `langdetect` to filter products for English only.
-Supports LLM-guided fuzzy product search and parallel generation.
+Generates diverse `data.json` variants from Faker PII fields and product
+metadata. OpenAI augmentation is optional.
 
 ```bash
-pip install langdetect rapidfuzz  # Required dependencies
-
 # Basic generation
-python generate_data_variants.py --use-llm --num-variants 100 --products-per-variant 30 --output data_variants.ndjson
+python generate_data_variants.py --num-variants 100 --products-per-variant 30 --output data_variants.ndjson
 ```
 
 **Options:**
@@ -45,18 +45,18 @@ python generate_data_variants.py --use-llm --num-variants 100 --products-per-var
 |------|-------------|
 | `--num-variants N` | Number of variants to generate (default: 100) |
 | `--output FILE` | Output file path (default: data_variants.ndjson) |
-| `--use-llm` | Use GPT-4o-mini for fuzzy product search (requires OPENAI_API_KEY) |
+| `--use-llm` | Use GPT-4o-mini for prices/categories/messages (requires OPENAI_API_KEY) |
+| `--update-template` | Also write the first variant to `template/src/data.json` |
 | `--products-per-variant N` | Max products per variant (default: 10) |
 | `--max-products N` | Max products to scan (default: 10000) |
 | `--workers N` | Parallel workers, 0=auto (default: 0) |
 | `--seed N` | Random seed for reproducibility |
 | `-v, --verbose` | Verbose logging |
 
-**LLM Fuzzy Search (--use-llm):**
-1. Samples context text from panorama dataset
-2. Uses GPT-4o-mini to generate product search queries
-3. Fuzzy matches queries against product database (60% threshold)
-4. Returns contextually relevant products instead of random sampling
+**LLM Augmentation (`--use-llm`):**
+1. predicts realistic prices;
+2. extracts product brands and categories;
+3. generates product-aware gift messages and breadcrumbs.
 
 **Output Files:**
 - `data_variants.ndjson` - Generated variants (one JSON per line)
@@ -134,9 +134,9 @@ python screenshot_pages.py --data data_variants.ndjson --output screenshots/ \
 
 | Type | Color | Description |
 |------|-------|-------------|
-| `pii_elements` | 🔴 Red | Exact PII text/images (includes derived values like "John" from "John Doe", masked cards "••••4242") |
-| `product_elements` | 🔵 Blue | Exact product text/images |
-| `pii_containers` | 🟢 Green | Semantic regions that *look* like they could contain PII (cards, input fields, form groups, table rows) - excludes footers |
+| `pii_elements` | Red | Exact PII text/images, including derived values and masked cards |
+| `product_elements` | Blue | Exact product text/images |
+| `pii_containers` | Green | Semantic regions that could contain PII, such as cards, input fields, form groups, or table rows |
 
 **Output Format:**
 ```

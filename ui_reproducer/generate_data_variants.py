@@ -1014,6 +1014,7 @@ def main():
     parser.add_argument("--log-file", type=str, help="Write logs to file")
     parser.add_argument("--data-dir", type=str, default="data", help="Data directory (default: data)")
     parser.add_argument("--use-llm", action="store_true", help="Use OpenAI for product prices/categories/breadcrumbs")
+    parser.add_argument("--update-template", action="store_true", help="Also write the first variant to template/src/data.json")
     args = parser.parse_args()
 
     # Setup
@@ -1136,8 +1137,8 @@ def main():
         for _, variant in results:
             f.write(json.dumps(variant) + "\n")
 
-    # Update template/src/data.json with first variant (which has all optional fields)
-    if results:
+    # Optionally update template/src/data.json with first variant.
+    if args.update_template and results:
         template_variant = results[0][1]
 
         # Remove _meta before writing to template

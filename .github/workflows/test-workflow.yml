@@ -30,16 +30,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: npm
+          cache-dependency-path: ui_reproducer/template/package-lock.json
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install chromium
-          npm install --prefix ui_reproducer/template
+          npm ci --prefix ui_reproducer/template
 
       - name: Check anonymization
         run: python scripts/check_release.py
+
+      - name: Build template
+        run: npm --prefix ui_reproducer/template run build
 
       - name: Generate example variants
         run: |

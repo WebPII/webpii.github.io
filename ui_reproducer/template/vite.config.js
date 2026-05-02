@@ -3,8 +3,16 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 import fs from 'fs'
 
-// NOTE: These paths are set by reproduce_ui.py - do not modify
-const productsDir = path.resolve(__dirname, '__PRODUCTS_PATH__')
+// reproduce_ui.py replaces these placeholders for generated UI projects.
+// In the released template, fall back to example_data so reviewers can build it.
+function resolvePlaceholderPath(placeholder, fallback) {
+  const candidate = path.resolve(__dirname, placeholder)
+  return fs.existsSync(candidate) ? candidate : path.resolve(__dirname, fallback)
+}
+
+const productsDir = resolvePlaceholderPath('__PRODUCTS_PATH__', '../../example_data/assets')
+const assetsDir = resolvePlaceholderPath('__ASSETS_PATH__', '../../example_data/assets_lite')
+const dataPath = resolvePlaceholderPath('__DATA_PATH__', 'src/data.json')
 
 export default defineConfig({
   plugins: [
@@ -32,11 +40,11 @@ export default defineConfig({
   ],
   // External assets directory (company logos, payment methods - NOT products)
   // Products are served via middleware above to avoid Vite scanning 400K+ files
-  publicDir: path.resolve(__dirname, '__ASSETS_PATH__'),
+  publicDir: assetsDir,
   resolve: {
     alias: {
       // Shared data.json for PII/product placeholders
-      '@data': path.resolve(__dirname, '__DATA_PATH__'),
+      '@data': dataPath,
       // Runtime generators for IDs, cards, tracking numbers
       '@generators': path.resolve(__dirname, 'src/generators.js')
     }
