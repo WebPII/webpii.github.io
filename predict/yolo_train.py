@@ -20,9 +20,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
-import cv2
-import yaml
-
 # PII class mapping - map PII keys to class indices
 PII_CLASSES = {
     "PII_FIRSTNAME": 0,
@@ -80,6 +77,19 @@ PII_KEY_TO_SIMPLIFIED = {
 }
 
 
+def require_dependency(module: str, package: str | None = None):
+    """Import an optional prediction dependency with a reviewer-friendly error."""
+    try:
+        return __import__(module)
+    except ImportError as exc:
+        install_name = package or module
+        raise SystemExit(
+            f"Missing dependency '{module}'. Install prediction dependencies with:\n"
+            f"  pip install -r predict/requirements.txt\n"
+            f"or install {install_name!r} directly."
+        ) from exc
+
+
 @dataclass
 class YOLOAnnotation:
     class_id: int
@@ -122,10 +132,13 @@ def convert_bbox_to_yolo(
 
 def load_image_dimensions(image_path: Path) -> tuple[int, int]:
     """Load image and return (width, height)."""
-    img = cv2.imread(str(image_path))
-    if img is None:
-        raise ValueError(f"Could not load image: {image_path}")
-    return img.shape[1], img.shape[0]
+    from PIL import Image
+
+    try:
+        with Image.open(image_path) as img:
+            return img.width, img.height
+    except Exception as exc:
+        raise ValueError(f"Could not load image: {image_path}") from exc
 
 
 def convert_annotation_to_yolo(
@@ -260,7 +273,7 @@ def prepare_dataset(
             shutil.copy2(image_path, dest_image)
 
             # Write labels
-            dest_label = output_dir / "labels" / split / json_path.stem + ".txt"
+            dest_label = output_dir / "labels" / split / f"{json_path.stem}.txt"
             with open(dest_label, "w") as f:
                 for ann in annotations:
                     f.write(ann.to_line() + "\n")
@@ -292,6 +305,7 @@ def prepare_dataset(
         "names": class_names
     }
 
+    yaml = require_dependency("yaml", "PyYAML")
     yaml_path = output_dir / "dataset.yaml"
     with open(yaml_path, "w") as f:
         yaml.dump(dataset_config, f, default_flow_style=False)
@@ -450,8 +464,9 @@ def visualize_annotations(
     """
     Visualize YOLO annotations to verify conversion is correct.
     """
-    import cv2
     import random
+    cv2 = require_dependency("cv2", "opencv-python")
+    yaml = require_dependency("yaml", "PyYAML")
 
     images_dir = dataset_dir / "images" / split
     labels_dir = dataset_dir / "labels" / split

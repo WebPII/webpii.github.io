@@ -16,18 +16,13 @@ from typing import Optional
 
 from PIL import Image, ImageDraw
 
-from methods import (
+from methods.base import (
     PIIDetector,
     PIIDetection,
     BBox,
     DetectionResult,
     compute_iou,
     compute_containment,
-    PresidioDetector,
-    LLMDetector,
-    PaddleDetector,
-    PaddleLLMDetector,
-    TesseractDetector,
 )
 
 
@@ -306,18 +301,30 @@ def load_ground_truths(screenshots_dir: Path, single_id: Optional[str] = None) -
 
 def get_detector(method: str) -> PIIDetector:
     """Get detector instance by method name."""
-    detectors = {
-        "presidio": PresidioDetector,
-        "llm": LLMDetector,
-        "paddle": PaddleDetector,
-        "paddle-llm": PaddleLLMDetector,
-        "tesseract": TesseractDetector,
-    }
+    try:
+        if method == "presidio":
+            from methods.presidio_detector import PresidioDetector
+            return PresidioDetector()
+        if method == "llm":
+            from methods.llm_detector import LLMDetector
+            return LLMDetector()
+        if method == "paddle":
+            from methods.paddle_detector import PaddleDetector
+            return PaddleDetector()
+        if method == "paddle-llm":
+            from methods.paddle_detector import PaddleLLMDetector
+            return PaddleLLMDetector()
+        if method == "tesseract":
+            from methods.tesseract_detector import TesseractDetector
+            return TesseractDetector()
+    except ImportError as exc:
+        raise RuntimeError(
+            f"Missing dependency for method '{method}'. Install prediction dependencies with:\n"
+            f"  pip install -r predict/requirements.txt"
+        ) from exc
 
-    if method not in detectors:
-        raise ValueError(f"Unknown method: {method}. Available: {list(detectors.keys())}")
-
-    return detectors[method]()
+    available = ["presidio", "llm", "paddle", "paddle-llm", "tesseract"]
+    raise ValueError(f"Unknown method: {method}. Available: {available}")
 
 
 def run_benchmark(

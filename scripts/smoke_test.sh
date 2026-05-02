@@ -6,9 +6,10 @@ TMP_DIR="${TMPDIR:-/tmp}"
 VARIANTS_PATH="${TMP_DIR%/}/webpii_variants_smoke.ndjson"
 SMOKE_PAGE="ui_reproducer/output/desktop/smoke/cart/fixture/20260502_000000"
 SMOKE_SCREENSHOTS="ui_reproducer/smoke_screenshots"
+SMOKE_YOLO_DATASET="predict/smoke_yolo_dataset"
 
 cleanup() {
-  rm -rf "$SMOKE_PAGE" "$SMOKE_SCREENSHOTS"
+  rm -rf "$SMOKE_PAGE" "$SMOKE_SCREENSHOTS" "$SMOKE_YOLO_DATASET"
 }
 trap cleanup EXIT
 
@@ -86,6 +87,14 @@ EOF
 
 test -f "$SMOKE_SCREENSHOTS/0000.png"
 test -f "$SMOKE_SCREENSHOTS/0000.json"
+
+"$PYTHON_BIN" predict/yolo_train.py prepare \
+  --screenshots-dir "$SMOKE_SCREENSHOTS" \
+  --output-dir "$SMOKE_YOLO_DATASET" \
+  --train-split 0.5
+
+test -f "$SMOKE_YOLO_DATASET/dataset.yaml"
+test -n "$(find "$SMOKE_YOLO_DATASET/labels" -name '*.txt' -print -quit)"
 
 "$PYTHON_BIN" -m py_compile \
   scripts/check_release.py \

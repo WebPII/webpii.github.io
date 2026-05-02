@@ -19,7 +19,6 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional, Union
 
-import cv2
 import numpy as np
 
 # Class mapping (must match training)
@@ -48,6 +47,19 @@ PII_KEY_TO_SIMPLIFIED = {
     "PII_ACCOUNT_ID": "account",
     "PII_AVATAR": "account",
 }
+
+
+def require_dependency(module: str, package: str | None = None):
+    """Import an optional prediction dependency with a reviewer-friendly error."""
+    try:
+        return __import__(module)
+    except ImportError as exc:
+        install_name = package or module
+        raise SystemExit(
+            f"Missing dependency '{module}'. Install prediction dependencies with:\n"
+            f"  pip install -r predict/requirements.txt\n"
+            f"or install {install_name!r} directly."
+        ) from exc
 
 
 @dataclass
@@ -601,6 +613,7 @@ def visualize_predictions(
     Red boxes: False positives
     Blue boxes: Ground truth (if show_gt=True)
     """
+    cv2 = require_dependency("cv2", "opencv-python")
     image = cv2.imread(str(image_path))
 
     # Colors for each class
