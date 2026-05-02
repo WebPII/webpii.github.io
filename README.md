@@ -11,6 +11,10 @@ The full WebPII dataset should be downloaded from the dataset URL submitted in
 OpenReview. This repository includes `example_data/` only as a small runnable
 fixture for checking the code path without downloading the full dataset.
 
+The original website screenshots used as visual targets are not released because
+they can contain account, order, address, payment, or session-specific PII. See
+`REPRODUCIBILITY.md` for what can be rerun from public artifacts.
+
 ## Setup
 
 Python 3.11 and Node.js 20 are recommended.
@@ -51,6 +55,12 @@ ui_scraper.py              Optional source screenshot collection helper
 
 These smoke tests exercise the released code using only `example_data/`.
 
+Run all checks:
+
+```bash
+bash scripts/smoke_test.sh
+```
+
 Build the React template:
 
 ```bash
@@ -80,8 +90,8 @@ python scripts/check_release.py
 
 ## Full Dataset Workflow
 
-After downloading the full WebPII dataset, place or symlink it as `data/` with
-this structure:
+After downloading the full WebPII dataset, place or symlink asset and metadata
+files as `data/` with this structure:
 
 ```text
 data/
@@ -110,6 +120,9 @@ prices, item categories, gift messages, and breadcrumbs. Without `--use-llm`,
 the generator uses local deterministic fallbacks.
 
 Generate screenshots and annotations from reproduced UI projects:
+
+This step also requires released React reproduction projects under
+`ui_reproducer/output/`; see `REPRODUCIBILITY.md` for the expected layout.
 
 ```bash
 cd ui_reproducer

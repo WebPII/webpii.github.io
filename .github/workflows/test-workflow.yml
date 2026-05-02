@@ -43,16 +43,5 @@ jobs:
       - name: Check anonymization
         run: python scripts/check_release.py
 
-      - name: Build template
-        run: npm --prefix ui_reproducer/template run build
-
-      - name: Generate example variants
-        run: |
-          python ui_reproducer/generate_data_variants.py \
-            --data-dir example_data \
-            --num-variants 3 \
-            --products-per-variant 5 \
-            --max-products 50 \
-            --output /tmp/webpii_variants.ndjson \
-            --seed 42
-          test "$(wc -l < /tmp/webpii_variants.ndjson)" -eq 3
+      - name: Run smoke test
+        run: bash scripts/smoke_test.sh
