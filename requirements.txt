@@ -1,0 +1,11 @@
+beautifulsoup4>=4.12
+cairosvg>=2.7
+datasets>=2.18
+faker>=24.0
+flask>=3.0
+numpy>=1.24
+openai>=1.0
+pillow>=10.0
+playwright>=1.40
+rapidfuzz>=3.6
+requests>=2.31

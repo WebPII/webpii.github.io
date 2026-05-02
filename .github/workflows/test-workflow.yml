@@ -1,0 +1,55 @@
+name: Smoke Test
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - neurips2026-code-release
+
+env:
+  PYTHON_VERSION: "3.11"
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: ui_reproducer/template/package-lock.json
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install chromium
+          npm ci --prefix ui_reproducer/template
+
+      - name: Check anonymization
+        run: python scripts/check_release.py
+
+      - name: Generate example variants
+        run: |
+          python ui_reproducer/generate_data_variants.py \
+            --data-dir example_data \
+            --num-variants 3 \
+            --products-per-variant 5 \
+            --max-products 50 \
+            --output /tmp/webpii_variants.ndjson \
+            --seed 42
+          test "$(wc -l < /tmp/webpii_variants.ndjson)" -eq 3

@@ -1,0 +1,10 @@
+*.log
+*.ndjson
+*.stats.json
+screenshots/
+screenshots_/
+data.json
+template/node_modules/
+template/package-lock.json
+.mass_reproduce_state.json
+.test_workflow_state.json

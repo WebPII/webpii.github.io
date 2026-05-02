@@ -1,0 +1,18 @@
+{
+  "logos": [
+    { "company": "mastercard", "filename": "mastercard_symbol.png", "notes": "circles only, no text" },
+    { "company": "visa", "filename": "visa_brandmark_blue.png", "notes": "blue version" },
+    { "company": "visa", "filename": "visa_brandmark_black.png", "notes": "black version" },
+    { "company": "visa", "filename": "visa_brandmark_white.png", "notes": "white version, for dark backgrounds" },
+    { "company": "amex", "filename": "amex_logo_color.png", "notes": "color logo" },
+    { "company": "applepay", "filename": "applepay_mark.svg", "notes": "acceptance mark, SVG" },
+    { "company": "googlepay", "filename": "googlepay_acceptance_mark.png", "notes": "acceptance mark" },
+    { "company": "maestro", "filename": "maestro_horizontal_black_text.png", "notes": "horizontal, black text, for light backgrounds" },
+    { "company": "maestro", "filename": "maestro_horizontal_white_text.png", "notes": "horizontal, white text, for dark backgrounds" },
+    { "company": "maestro", "filename": "maestro_vertical_black_text.png", "notes": "vertical, black text, for light backgrounds" },
+    { "company": "maestro", "filename": "maestro_vertical_white_text.png", "notes": "vertical, white text, for dark backgrounds" },
+    { "company": "paypal", "filename": "paypal.png", "notes": "horizontal" },
+    { "company": "paypal", "filename": "paypal_vertical.png", "notes": "vertical stacked" },
+    { "company": "norton", "filename": "norton_feat.png", "notes": "norton secured powered by Symantec" }
+  ]
+}
