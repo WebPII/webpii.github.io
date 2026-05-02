@@ -556,9 +556,14 @@ def start_dev_server(page_dir: Path, port: int = 5173, timeout: int = 30) -> tup
     Returns:
         Tuple of (process, actual_port) - the port may differ from requested if it was busy.
     """
-    # Check node_modules symlink exists (should be created by copy_template)
+    # Check node_modules exists (generated pages usually symlink to template/node_modules).
     node_modules = page_dir / "node_modules"
-    if not node_modules.is_symlink() and not node_modules.exists():
+    if node_modules.is_symlink() and not node_modules.exists():
+        raise RuntimeError(
+            f"node_modules symlink is broken at {page_dir}. "
+            "Run: cd template && npm install, then regenerate or repair the reproduced page."
+        )
+    if not node_modules.exists():
         raise RuntimeError(f"node_modules missing at {page_dir}. Run: cd template && npm install")
 
     # Wait for port to be available (in case previous server didn't fully terminate)
@@ -3229,6 +3234,9 @@ def main():
     }
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=2)
+
+    if failed:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

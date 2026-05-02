@@ -111,7 +111,7 @@ python ui_reproducer/generate_data_variants.py \
   --data-dir data \
   --num-variants 100 \
   --products-per-variant 30 \
-  --output ui_reproducer/data_variants.ndjson \
+  --output data_variants.ndjson \
   --seed 42
 ```
 
