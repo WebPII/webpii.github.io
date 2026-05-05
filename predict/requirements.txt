@@ -1,0 +1,19 @@
+# OCR validation
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+presidio-analyzer>=2.2.0
+presidio-image-redactor>=0.0.52
+openai>=1.0.0
+
+# YOLO training and inference
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data processing
+PyYAML>=6.0
+
+# Optional PaddleOCR baselines
+paddleocr>=2.7.0

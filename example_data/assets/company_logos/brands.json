@@ -1,0 +1,69 @@
+{
+  "logos": [
+    {
+      "company": "walmart",
+      "filename": "walmart.svg",
+      "notes": "yellow spark icon"
+    },
+    {
+      "company": "amazon",
+      "filename": "amazon.svg",
+      "notes": ""
+    },
+    {
+      "company": "home_depot",
+      "filename": "home_depot.svg",
+      "notes": ""
+    },
+    {
+      "company": "apple",
+      "filename": "apple.svg",
+      "notes": "black logo on transparent"
+    },
+    {
+      "company": "macys",
+      "filename": "macys.svg",
+      "notes": ""
+    },
+    {
+      "company": "macys",
+      "filename": "macys_card.jpg",
+      "notes": "macys credit card"
+    },
+    {
+      "company": "lowes",
+      "filename": "lowes.svg",
+      "notes": ""
+    },
+    {
+      "company": "bandh_photo",
+      "filename": "bandh_photo.svg",
+      "notes": ""
+    },
+    {
+      "company": "ulta_beauty",
+      "filename": "ulta_beauty.svg",
+      "notes": ""
+    },
+    {
+      "company": "slack",
+      "filename": "slack.svg",
+      "notes": ""
+    },
+    {
+      "company": "apple",
+      "filename": "apple_white.png",
+      "notes": "white logo"
+    },
+    {
+      "company": "paypal",
+      "filename": "paypal.png",
+      "notes": "horizontal"
+    },
+    {
+      "company": "paypal",
+      "filename": "paypal_vertical.png",
+      "notes": "vertical stacked"
+    }
+  ]
+}
