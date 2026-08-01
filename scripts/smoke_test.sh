@@ -68,7 +68,7 @@ cat > "$SMOKE_PAGE/reproduction.log" <<'EOF'
 {
   "status": "completed",
   "paths": {
-    "source_image": "example_data/ui_images/cart/2478-apple-desktop.png",
+    "source_image": "example_data/ui_images/cart/placeholder-synthetic-desktop.png",
     "output_dir": "ui_reproducer/output/desktop/smoke/cart/fixture/20260502_000000"
   }
 }

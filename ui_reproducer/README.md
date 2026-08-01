@@ -27,7 +27,7 @@ React reproduction.
 python reproduce_ui.py <image_path> [--iterations N] [--backend opencode|claude]
 
 # Example
-python reproduce_ui.py ../example_data/ui_images/cart/2478-apple-desktop.png --iterations 1 --backend opencode
+python reproduce_ui.py ../example_data/ui_images/cart/placeholder-synthetic-desktop.png --iterations 1 --backend opencode
 ```
 
 **Output:** `output/{device}/{company}/{page_type}/{timestamp}/` containing a

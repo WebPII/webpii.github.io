@@ -12,7 +12,9 @@ OpenReview. This repository includes `example_data/` only as a small runnable
 fixture for checking the code path without downloading the full dataset.
 
 The original website screenshots used as UI reproduction targets are withheld
-because they may contain real PII. The released code supports rerunning
+because they may contain real PII, and because their source is licensed for
+reference rather than redistribution. `example_data/ui_images/` ships a
+synthetic placeholder instead, so the documented commands run without them. The released code supports rerunning
 synthetic PII generation, annotation, benchmark conversion, and baselines from
 the released React reproductions and dataset artifacts, but not the private
 source-screenshot collection/reproduction-target step.
@@ -103,6 +105,20 @@ data/
 └── ui_images/
 ```
 
+Download Amazon Berkeley Objects product listings + images and produce
+`data/assets/products/products_merged.ndjson`:
+
+```bash
+python scripts/download_abo.py                  # both archives (~3 GB), extract, merge
+python scripts/download_abo.py --listings-only  # skip 3 GB image archive
+```
+
+Download the text-PII source datasets from HuggingFace into `data/text_pii/`:
+
+```bash
+python scripts/download_pii_datasets.py
+```
+
 Generate synthetic variants:
 
 ```bash
@@ -181,7 +197,7 @@ reproductions, not to run the benchmark on released data.
 
 ```bash
 cd ui_reproducer
-python reproduce_ui.py ../example_data/ui_images/cart/2478-apple-desktop.png --iterations 1 --backend opencode
+python reproduce_ui.py ../example_data/ui_images/cart/placeholder-synthetic-desktop.png --iterations 1 --backend opencode
 ```
 
 Supported backends are `opencode` and `claude`. The corresponding CLI must be
